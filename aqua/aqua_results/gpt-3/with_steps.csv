@@ -1,0 +1,324 @@
+,Trial 1,Trial 2,Trial 3,Trial 4,Trial 5,Trial 6,Trial 7,Trial 8,Trial 9,Trial 10,Answer
+0,"At a 15% faster rate, Friend P will walk 4.35 km more than Friend Q in the first hour. 
+
+In the second hour, Friend P will walk an additional 4.35 km, for a total of 8.7 km. 
+
+Friend Q will have walked 7.5 km in the first two hours. 
+
+In the third hour, Friend P will have walked an additional 4.35 km, for a total of 13.05 km. 
+
+Friend Q will have walked 11.25 km in the first three hours. 
+
+In the fourth hour, Friend P will have walked an additional 4.35 km, for a total of 17.4 km. 
+
+Friend Q will have walked 15 km in the first four hours. 
+
+In the fifth hour, Friend P will have walked an additional 4.35 km, for a total of 21.75 km. 
+
+Friend Q will have walked 18.75 km in the first five hours.
+
+Therefore, Friend P will have walked 21.75 km when they pass Friend Q.","43 km * .15 = 6.45 km
+
+43 km - 6.45 km = 36.55 km
+
+36.55 km / 2 = 18.275 km","The answer is D) 22.5 kilometers. 
+
+To solve this problem, we need to set up a proportion. 
+
+First, we know that Friend P is walking 15% faster than Friend Q. We can write this as a ratio: 
+
+Friend P's speed:Friend Q's speed = 3:2
+
+Next, we need to find the total time it will take for both friends to walk the entire 43 kilometers. We can set up another ratio to find this: 
+
+Distance:Rate = Time 
+
+We know that Friend P is walking 3 kilometers for every 2 kilometers that Friend Q walks. We can set this up as a proportion: 
+
+3km:2km = x:43km 
+
+We can solve for x by cross multiplying: 
+
+2x = 129 
+
+x = 64.5 
+
+This means that it will take Friend P 64.5 minutes to walk the 43 kilometers. 
+
+Now that we know the total time it will take to walk the entire distance, we can set up another proportion to find how many kilometers Friend P will have walked when they pass Friend Q. 
+
+Distance:Time = Rate 
+
+","To solve this problem, we can set up a proportion. We know that Friend P walks 15% faster than Friend Q, so we can set up the proportion:
+
+$$\frac{x}{43}=\frac{15}{100}+\frac{x}{43}$$
+
+We can solve this equation for x to find that x=21.5 kilometers. This means that when Friend P and Friend Q pass each other, Friend P will have walked 21.5 kilometers.",P will have walked 21.5 km when they pass Q.,"Let x represent Friend Q's rate.
+
+We know that Friend Q's rate is 15% slower than Friend P's, so:
+
+x + 0.15x = 15
+
+1.15x = 15
+
+x = 15/1.15
+
+x = 13
+
+We also know that Friend P is walking at a rate of 15% faster than Friend Q, so:
+
+x + 0.15x = 15
+
+1.15x = 15
+
+x = 15/1.15
+
+x = 13
+
+Now we can set up the equation:
+
+43/x + 43/(x + 0.15x) = 43/13 + 43/(13 + 0.15(13))
+
+43/x + 43/(x + 1.95x) = 43/13 + 43/(13 + 2.445)
+
+We can simplify each fraction on the left side:
+
+43/x + 43/x(1 + 1.95) = 43/13 + 43/13(1 + 2.445)
+
+43/x + 43/x(1.95 + 1) = 43/13 + 43/13(2.445",A)21,"We can set up a proportion to solve this problem. Let's call the distance that Friend P has walked x, and the distance that Friend Q has walked y. Then,
+
+15/100 * x = y
+
+We can solve for y:
+
+y = 15/100 * x
+
+Now, we know that the total distance of the trail is 43 km. This means that:
+
+x + y = 43
+
+We can substitute y in for 15/100 * x and solve for x:
+
+x + 15/100 * x = 43
+
+x + 15/100x = 43
+
+x(1 + 15/100) = 43
+
+x = 43 / (1 + 15/100)
+
+x = approximately 41.86 km
+
+This means that when Friend P has walked 41.86 km, they will pass Friend Q.","43 km * 0.15 = 6.45 km
+
+43 km - 6.45 km = 36.55 km
+
+36.55 km / 2 = 18.275 km","Step 1: Find the ratio between the two rates.
+15% faster than Friend Q's means the rate is 1.15 times as fast.
+
+Step 2: Set up a proportion using the ratio and the total distance.
+1.15/x = 43/86
+
+Step 3: Solve for x.
+x = 74.78",E)23
+1,A)4 and 1,A)4 and 1,A) 4 and 1,"Given:
+In the coordinate plane, points (x, 1) and (5, y) are on line k. 
+If line k passes through the origin and has slope 1/5, 
+
+Then:
+x/5 + y/5 = 1
+
+Therefore:
+x = 4, y = 1",A)4 and 1,A) 4 and 1,A)4 and 1,A)4 and 1,A)4 and 1,A)4 and 1,C)5 and 1
+2,C) I and III,C) I and III,E)All of the above,"If xy ≠ 0, then I, II, and III can be equal to zero.",C) I and III,"To answer this question, we must first understand what the @ symbol means. @ = p^2 - pq. 
+
+Now, if we let xy ≠ 0, then we can say that II. (xy)@y will be equal to zero.","Assuming that xy ≠ 0, then we can say that x@y ≠ 0.
+From this, we can infer that (xy)@y ≠ 0 and x@(x + y) ≠ 0.
+Therefore, the answer is D) II and III.",C) I and III,"First, we must consider what it means for @ to be equal to zero. This can only happen when p^2 - pq = 0, which means that p(p - q) = 0. This can either happen when p = 0 or when p = q. 
+
+Now, we can consider the different expressions given to see if they can be equal to zero. 
+
+I. x@y = x(x - y) This can only be equal to zero when x = 0 or when x = y 
+
+II. (xy)@y = (xy)(x - y) This can only be equal to zero when x = 0 or when x = y 
+
+III. x@(x + y) = x(x - (x + y)) This can only be equal to zero when x = 0 or when x = -y","I. x@y cannot be equal to zero.
+
+II. (xy)@y can be equal to zero if xy = 0.
+
+III. x@(x + y) can be equal to zero if x = -y.",B)I and II
+3,"$10,000 x 4% = $400 quarterly
+
+$400 x 4 = $1600 annually","A)$1600
+
+1) Carl is facing very difficult financial times and can only pay the interest on a $10,000 loan he has taken.
+2) The bank charges him a quarterly compound rate of 4%.
+3) What is the approximate interest he pays annually?
+
+A)$1600","A)$1600
+
+1. Carl takes out a $10,000 loan from the bank.
+2. The bank charges him a quarterly compound rate of 4%.
+3. Carl pays the interest on the loan annually.
+4. The approximate interest Carl pays annually is $1600.","$10,000 x .04 = $400
+
+$400 x 4 (quarters in a year) = $1600",The approximate interest Carl pays annually is $2000.,"A)$1600
+
+1. Carl has a loan of $10,000 at a quarterly compound rate of 4%.
+2. The interest Carl pays annually is approximately $1600.","The approximate interest that Carl pays annually is $2000. To calculate this, we multiply the quarterly compound rate of 4% by 10,000 to get 400, and then we divide that by 4 to get the approximate annual interest of $2000.","$10,000 loan at 4% quarterly compound rate
+
+$10,000 x 4% = $400
+
+$400 x 4 (quarters in a year) = $1,600
+
+Carl pays approximately $1,600 in interest annually.",The interest Carl pays annually is approximately $2000.,"A)$1600
+
+1. Convert the quarterly compound rate of 4% to an annual rate. This can be done by multiplying 4% by 4, which equals 16%.
+
+2. Use the formula for compound interest to calculate the annual interest paid on a $10,000 loan at a 16% annual compound rate.
+
+3. Plugging in the values into the formula, we get:
+
+Interest = 10,000 * (1 + (16/100))^4 - 10,000
+
+4. Doing the calculation, we find that the annual interest paid on the loan is approximately $1,600.",A)$1600
+4,"The man's speed in still water is 25 kmph.
+The man's speed in the current is 11 kmph.
+
+The man's speed in the current is (25 + 11) kmph.
+
+The man's speed in the current is 36 kmph.
+
+The man will take (80 / 36) seconds to cover 80 metres.
+
+The man will take 2.22 seconds to cover 80 metres.",The man will take 8 seconds to cover 80 metres.,"The speed of the man in the boat is 25 kmph. The speed of the current is 11 kmph. The man is rowing downstream.
+
+The time it will take the man to row 80 metres is 8 seconds.","The man's speed in still water is 25 kmph.
+The man's speed in the current is (25 + 11) kmph.
+The man's speed in the current is 36 kmph.
+The man will take (80/36) hours to cover 80 metres.
+The man will take (80/36) * (60/1) minutes to cover 80 metres.
+The man will take (80/36) * (60/1) * (60/1) seconds to cover 80 metres.
+The man will take 22.2 seconds to cover 80 metres.
+The answer is B)27 seconds.","A) 18 seconds
+
+The man's speed in still water is 25 kmph.
+
+The speed of the current is 11 kmph.
+
+The man's speed in the current is therefore (25 + 11) kmph, or 36 kmph.
+
+To cover 80 metres in 18 seconds, the man would need to be travelling at (80 / 18) m/s, or 4.44 m/s.
+
+4.44 m/s is equivalent to 16.08 kmph, which is close to the man's speed in the current. Therefore, the answer is A) 18 seconds.","The speed of the man in the boat is the difference between the speed of the current and the speed at which he can row in still water.
+
+The speed of the man in the boat is 14 kmph.
+
+It will take him (80/14) 5.71 minutes to cover 80 metres.","The man's speed relative to the water is 14 kmph (25 kmph - 11 kmph).
+
+Since the man is moving 14 kmph relative to the water, he will cover 80 metres in 18 seconds (80 metres / (14 kmph * 1000 metres / kmph)).","A)18 seconds
+
+The man's speed in still water is 25 kmph.
+
+The speed of the current is 11 kmph.
+
+The man's speed in the current is therefore 36 kmph (25 + 11).
+
+It will take him 80/36 = 2.22 minutes to cover 80 metres.
+
+18 seconds is therefore too short a time.","A man can row a boat in still water at 25 kmph. If he rows downstream, where the speed of current is 11 kmph, it will take him (80/[25+11]) = 8 seconds to cover 80 metres.","A man can row a boat in still water at 25 kmph. If he rows downstream, where the speed of current is 11 kmph, he will take 18 seconds to cover 80 metres.",E)8 seconds
+5,"There are k-2 members in a certain band, including Jim and Ellen. Two members are to be selected to attend the Grammy awards ceremony. If there are 6 possible combinations in which Jim and Ellen are not selected, then there are (k-2)(k-3)/2 possible combinations in which Jim and Ellen are both selected. This is because we must choose 2 members out of k-2, and this can be done in (k-2)(k-3)/2 ways. Therefore,
+
+(k-2)(k-3)/2 = 6
+
+k^2 - 5k + 6 = 0
+
+k = 3 or k = 2","There are k-2 members in a certain band, including Jim and Ellen. Two members are to be selected to attend the Grammy awards ceremony. If there are 6 possible combinations in which Jim and Ellen are not selected, k=8.","There are k-2 members in a certain band, including Jim and Ellen. Two members are to be selected to attend the Grammy awards ceremony. If there are 6 possible combinations in which Jim and Ellen are not selected, k = 8.","There are k-2 members in a certain band, including Jim and Ellen. Two members are to be selected to attend the Grammy awards ceremony. If there are 6 possible combinations in which Jim and Ellen are not selected, the value of k is 8.","There are k-2 members in a certain band, including Jim and Ellen. Two members are to be selected to attend the Grammy awards ceremony. If there are 6 possible combinations in which Jim and Ellen are not selected, k=8.","There are k-2 members in a certain band, including Jim and Ellen. Two members are to be selected to attend the Grammy awards ceremony. If there are 6 possible combinations in which Jim and Ellen are not selected, k = 8.","There are k-2 members in a certain band, including Jim and Ellen. Two members are to be selected to attend the Grammy awards ceremony. If there are 6 possible combinations in which Jim and Ellen are not selected, k=8.","There are k-2 members in a certain band, including Jim and Ellen. Two members are to be selected to attend the Grammy awards ceremony. If there are 6 possible combinations in which Jim and Ellen are not selected, the value of k is 8.","There are k-2 members in a certain band, including Jim and Ellen. Two members are to be selected to attend the Grammy awards ceremony. If there are 6 possible combinations in which Jim and Ellen are not selected, the value of k is 8.","There are k-2 members in a certain band, including Jim and Ellen. Two members are to be selected to attend the Grammy awards ceremony. If there are 6 possible combinations in which Jim and Ellen are not selected, k=8.",A)8
+6,A)− 3 ≤ x ≤ 4,"We need to solve for x:
+
+(x^2 + 4x - 11)/5 ≤ x + 1
+
+First, we can multiply both sides by 5 to get rid of the denominator:
+
+x^2 + 4x - 11 ≤ 5x + 5
+
+Then, we can move everything except for x to one side:
+
+x^2 - x - 6 ≤ 0
+
+We can factor this equation:
+
+(x - 3)(x + 2) ≤ 0
+
+This inequality is true when x is less than -2 or when x is greater than 3. So the answer is C) -3 ≤ x ≤ 3.",A)− 3 ≤ x ≤ 4,A)− 3 ≤ x ≤ 4,"The answer is C)− 3 ≤ x ≤ 3.
+
+To solve this, we need to use the algebraic method of solving inequalities.
+
+First, we'll start by multiplying both sides of the inequality by 5:
+
+5(x^2 + 4x - 11)/5 ≤ 5(x + 1)
+
+Next, we'll need to simplify the left side of the inequality:
+
+x^2 + 4x - 11 ≤ 5x + 5
+
+Now, we'll need to move everything except for x to one side:
+
+x^2 - x - 6 ≤ 0
+
+Now we need to find the roots of the equation:
+
+x^2 - x - 6 = 0
+
+x^2 - 6x + x - 6 = 0
+
+x(x - 6) + 1(x - 6) = 0
+
+(x + 1)(x - 6) = 0
+
+x = -1, 6
+
+Since we are only looking for values of x that satisfy the original inequality, we will only consider the values that are greater than or equal to -3 and less than or equal to 3. Therefore, the answer is C)− 3 ≤ x","The answer is D)−4≤x≤−3.
+
+To solve this, we can set the two expressions equal to each other and solve for x.
+
+(x^2 + 4x - 11)/5 = x + 1
+
+x^2 + 4x - 11 = 5x + 5
+
+x^2 - x - 6 = 0
+
+(x - 3)(x + 2) = 0
+
+x = 3 or x = -2
+
+Since we are looking for values of x where (x^2 + 4x - 11)/5 ≤ x + 1, we can eliminate x = 3 since 3 is not less than or equal to 4. That leaves us with x = -2, which is between -4 and -3.",A)− 3 ≤ x ≤ 4,A)− 3 ≤ x ≤ 4,A)− 3 ≤ x ≤ 4,A)− 3 ≤ x ≤ 4,A)− 3 ≤ x ≤ 4
+7,10100,E) 10100,E) 10100,"The smallest number of five digits exactly divisible by 22,33,66 and 44 is 10101.","The smallest number of five digits exactly divisible by 22,33,66, and 44 is 110,000.","The smallest number of five digits exactly divisible by 22,33,66, and 44 is 10100.","The smallest number of five digits exactly divisible by 22,33,66, and 44 is 10100.","The smallest number of five digits exactly divisible by 22,33,66 and 44 is 10100.","Find the smallest number of five digits exactly divisible by 22,33,66 and 44.
+
+The smallest number of five digits exactly divisible by 22,33,66 and 44 is 10100.","Step 1: Determine the LCM of 22, 33, 66, and 44.
+
+Step 2: Find the smallest number that is divisible by the LCM.
+
+The LCM of 22, 33, 66, and 44 is 2,132. The smallest number that is divisible by 2,132 is 10,000.",E)10100
+8,"A) 16
+
+1. The entrance fee for a fair is $5 for persons under the age of 18.
+2. Each ride at the fair costs $0.50.
+3. Joe goes with her 6 years old twin brothers, and they each took 3 rides in total.
+4. Joe end up spending $16 at the fair.",$5 for entrance fee + $3 for rides = $8,"The entrance fee for a fair is $5 for persons under the age of 18, and 20% more for persons older. Each ride at the fair costs $0.50.
+
+Joe is 18 years old, so his entrance fee is $5 + 20% = $6.
+
+Joe's twin brothers are 6 years old, so their entrance fee is $5.
+
+Joe takes 3 rides, so he spends $0.50 x 3 = $1.50 on rides.
+
+Joe's twin brothers take 3 rides, so they spend $0.50 x 3 = $1.50 on rides.
+
+Joe spends a total of $6 + $1.50 = $7.50 at the fair.","The entrance fee for a fair is $5 for persons under the age of 18, and 20% more for persons older. Each ride at the fair costs $0.50. If Joe goes with her 6 years old twin brothers, and they each took 3 rides in total. Joe would spend $17.50 in total.","The entrance fee for a fair is $5 for persons under the age of 18. Each ride at the fair costs $0.50. If Joe goes with her 6 years old twin brothers, and they each took 3 rides in total. Joe would spend $5 + (3*$0.50) = $7.50","The entrance fee for a fair is $5 for persons under the age of 18, and 20% more for persons older. Each ride at the fair costs $0.50. If Joe goes with her 6 years old twin brothers, and they each took 3 rides in total. Joe would end up spending $16 at the fair.","A) 16
+
+1) Joe's entrance fee to the fair is $5.
+2) Each of Joe's twin brothers' entrance fees to the fair is $5.
+3) Joe takes 3 rides at the fair, which costs him $1.50.
+4) Each of Joe's twin brothers takes 3 rides at the fair, which costs them $1.50.
+5) In total, Joe spends $16 at the fair.","The entrance fee for a fair is $5 for persons under the age of 18, and 20% more for persons older. Each ride at the fair costs $0.50. If Joe goes with her 6 years old twin brothers, and they each took 3 rides in total. Joe would end up spending $16 at the fair.","The entrance fee for a fair is $5 for persons under the age of 18, so Joe would spend $5 to enter the fair. Each ride at the fair costs $0.50, so Joe would spend $3 on rides. In total, Joe would spend $8 at the fair.","The entrance fee for a fair is $5 for persons under the age of 18, and 20% more for persons older. Each ride at the fair costs $0.50. If Joe goes with her 6 years old twin brothers, and they each took 3 rides in total. Joe would end up spending $16 at the fair.",B)20.5
