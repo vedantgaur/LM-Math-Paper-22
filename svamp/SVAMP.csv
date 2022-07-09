@@ -34,7 +34,7 @@ chal-32,There were 15 roses and 62 orchids in the vase. Jessica cut some more ro
 chal-33,There are some baskets of peaches. Each basket has 4 red peaches and 3 green peaches. If there are a total of 7 peaches in all baskets,How many baskets of peaches are there?,( 7.0 / ( 4.0 + 3.0 ) ),1,Common-Division
 chal-34,There were 78 dollars in Olivia's wallet. She spent 15 dollars at a supermarket.,How much money does she have left?,( 78.0 - 15.0 ),63,Subtraction
 chal-35,"Jack received 6 emails in the morning, 3 emails in the afternoon and some more in the evening. If he received a total of 10 emails in the day",How many emails did Jack receive in the afternoon?,( 10.0 - ( 6.0 + 3.0 ) ),1,Subtraction
-chal-36,Dan has $ 4. He bought a candy bar for $ 8. Then his friend have him $ 5,How much money is left?,( ( 4.0 - 8.0 ) + 5.0 ),1,Addition
+chal-36,Dan has $ 4. He bought a candy bar for $ 8. Then his friend gave him $ 5,How much money is left?,( ( 4.0 - 8.0 ) + 5.0 ),1,Addition
 chal-37,"After eating a hearty meal they went to see the Buckingham palace. There, Rachel learned that 703 visitors came to the Buckingham palace on the previous day. If there were 246 visitors on that day",How many visited the Buckingham palace within 25 days?,( 246.0 + 703.0 ),949,Addition
 chal-38,For Gwen's birthday she received 5 dollars from her dad. Her mom gave her 7 more dollars. If she spent 4 dollars.,How much more money did she receive from her mom than she did from her dad?,( 7.0 - 5.0 ),2,Subtraction
 chal-39,There are 142 bananas and 356 oranges in Philip's collection. If the bananas are organized into 47 groups and oranges are organized into 178 groups,How big is each group of oranges?,( 356.0 / 178.0 ),2,Common-Division
