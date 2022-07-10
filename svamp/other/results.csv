@@ -1,0 +1,26 @@
+,With Reasoning,Without Reasoning
+0,x1 - x2,"If there is a discount of x2 dollars on each pack, you have to pay x1-x2 dollars to buy each pack."
+1,$x1 + $x2 = the cost of the candy bar,The candy bar cost $x2-$x1.
+2,Paco had x1 salty cookies and x2 sweet cookies. He ate x3 sweet cookies and x4 salty cookies. Paco had 1 salty cookie left.,"Paco had 1 salty cookie and 2 sweet cookies. He ate 3 sweet cookies and 4 salty cookies. how many salty cookies did paco have left?
+
+Paco had 1 salty cookie and 2 sweet cookies. He ate 3 sweet cookies and 4 salty cookies. Paco had 0 salty cookies left."
+3,"If x1 children were riding on the bus and x2 children were left on the bus after the stop, then x1-x2 children must have gotten off the bus at the stop.",x1 - x2
+4,"There were x2 children that got on the bus and x1 children that got off the bus. So, there was 1 more child that got on the bus than those that got off the bus.",x2 - x1
+5,x2-x3,x2 - x3
+6,Jerry had 1 action figure on a shelf in his room. Later he added 1 more action figure to the shelf. If there are a total of 2 action figures on his shelf now how many action figures did he have initially on the shelf?,Jerry had x1 action figures on a shelf in his room.
+7,Paco had 1 cookie. He gave 2 cookies to his friend and ate 3 cookies. He ate 2 more cookies than those he gave to his friend.,Paco ate more cookies than he gave to his friend by x3 - x2 cookies.
+8,1 more cup of flour.,Mary needs to add 1 more cup of flour.
+9,The waiter had x2 customers at the start.,The waiter had x1 + x2 customers at the start.
+10,There are 2 more storks than birds sitting on the fence.,There are 2 more storks than birds on the fence.
+11,There are 2x chairs in the backyard.,"If they have x1 sets of tables and each set has x2 chairs, they have x1*x2 = 2 chairs in the backyard."
+12,There are 2x1 + x2 pupils in the school.,There are x1+x2 pupils in the school.
+13,The water was 3x feet deep.,The depth of the water is 3x1 feet.
+14,"The original number of birds on the fence was x1. When x2 more birds and x3 more storks came, the new total is x1 + x2 + x3.",There would be a total of (x1+x2+x3) birds sitting on the fence.
+15,"-Marco and his dad went strawberry picking and they collected x1 pounds of strawberries together 
+-On the way back, Marco's dad lost x2 pounds of strawberries 
+-Which means that Marco's strawberries now weigh x3 pounds 
+-That would mean his dad's strawberries weigh x1-x2 pounds","If Marco's strawberries weighed x3 pounds after his dad lost x2 pounds, then his dad's strawberries must have weighed x5 pounds originally."
+16,"There are x1 girls, so there are x1 - x2 boys.",There are x1 + x2 boys in that school.
+17,There are x1 + x3 girls and x2 + x4 boys in the school now.,There are x1+x3 girls and x2+x4 boys in the school now.
+18,2,2
+19,He had 2 more crayons than erasers.,He had two more crayons than erasers left.

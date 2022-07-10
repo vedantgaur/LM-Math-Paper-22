@@ -1,5 +1,5 @@
-,Symbolic With Steps,Symbolic Without Steps,Symbolic With Intermediate Variables,Numerical With Steps,Numerical Without Steps,Numerical With Intermediate Variables,Symbolic Answers,Numerical Answers,Numerical Equations,Symbolic Answer,Numerical Answer,Numerical Equation
-0,"
+,Unnamed: 0,Symbolic With Steps,Symbolic Without Steps,Symbolic With Intermediate Variables,Numerical With Steps,Numerical Without Steps,Numerical With Intermediate Variables,Symbolic Answers,Numerical Answers,Numerical Equations,Symbolic Answer,Numerical Answer,Numerical Equation
+0,0,"
 The discount is x dollars on each pack. 
 
 This means that for each pack, you pay w - x dollars. 
@@ -34,8 +34,8 @@ Now that we know how many packs need to be bought in total, we can calculate the
 
 12 * 5 = 60.
 
-Therefore, the total amount of money that needs to be spent on buying all the packs is $60.",,,,( y - w ),66,( 523.0 - 457.0 )
-1,"
+Therefore, the total amount of money that needs to be spent on buying all the packs is $60.",( w - x ),51.0,( 76.0 - 25.0 ),( y - w ),66,( 523.0 - 457.0 )
+1,1,"
 Dan had $w left with him after he bought a candy bar. This means that he started with $w+x, and then he spent some of that money on the candy bar. So we can say that:
 
 $w+x - \text{cost of candy bar} = w$
@@ -57,8 +57,8 @@ The price of the candy bar plus the sales tax is $1.18.
 
 $x + $0.18 = $1.18
 
-$x = $1",,,,( y - w ),66,( 523.0 - 457.0 )
-2,"
+$x = $1",( x - w ),1.0,( 4.0 - 3.0 ),( y - w ),66,( 523.0 - 457.0 )
+2,2,"
 We are told that Paco had w salty cookies and x sweet cookies. He ate y sweet cookies and z salty cookies. The question is asking how many salty cookies Paco had left. 
 
 We can set up an equation to solve this problem. 
@@ -112,8 +112,8 @@ Add 2x/3 to both sides to get 5x/3 = x.
 
 Divide both sides by 5/3 to get x = 3. 
 
-That means that Paco had 3 salty cookies to begin with and he ate 2 of them.",,,,( y - w ),66,( 523.0 - 457.0 )
-3,"
+That means that Paco had 3 salty cookies to begin with and he ate 2 of them.",( w - z ),17.0,( 26.0 - 9.0 ),( y - w ),66,( 523.0 - 457.0 )
+3,3,"
 There were w children on the bus to begin with. 
 
 Then, at the bus stop, some children got off the bus. 
@@ -145,8 +145,8 @@ So, the number of children who got off the bus is the same as the number of chil
 
 c = (22 - 4) / 3
 
-c = 6",,,,( y - w ),66,( 523.0 - 457.0 )
-4,"
+c = 6",( w - x ),22.0,( 43.0 - 21.0 ),( y - w ),66,( 523.0 - 457.0 )
+4,4,"
 There were w children riding on the bus to start. 
 
 Then, x children got on the bus while some got off the bus. This means that the number of children on the bus increased by x. 
@@ -213,8 +213,8 @@ We solve the equation for x and we get:
 
 x = 8
 
-Therefore, 8 more children got on the bus than those that got off.",,,,( y - w ),66,( 523.0 - 457.0 )
-5,"
+Therefore, 8 more children got on the bus than those that got off.",( y - w ),2.0,( 30.0 - 28.0 ),( y - w ),66,( 523.0 - 457.0 )
+5,5,"
 Olivia's wallet had w dollars in it. 
 
 She visited an ATM and collected x more dollars. 
@@ -278,8 +278,8 @@ Now, we can solve for $y$:
 
 $$y=y$$
 
-So, we see that $y=x$. In other words, she got the same amount of money at the atm as she spent at the supermarket.",,,,( y - w ),66,( 523.0 - 457.0 )
-6,"
+So, we see that $y=x$. In other words, she got the same amount of money at the atm as she spent at the supermarket.",( x - w ),46.0,( 49.0 - 3.0 ),( y - w ),66,( 523.0 - 457.0 )
+6,6,"
 Jerry had some action figures on a shelf. This is represented by the equation:
 
 x + w = y
@@ -334,8 +334,8 @@ $2a+6=2a-5$
 
 $a=11$
 
-Therefore, he had $11$ action figures initially on the shelf.",,,,( y - w ),66,( 523.0 - 457.0 )
-7,"
+Therefore, he had $11$ action figures initially on the shelf.",( x - w ),3.0,( 10.0 - 7.0 ),( y - w ),66,( 523.0 - 457.0 )
+7,7,"
 Paco had w cookies. He gave x cookies to his friend. This means that he has w - x cookies left. He ate y cookies, which means that he has w - x - y cookies left in total. 
 
 We want to know how many more cookies he ate than those he gave to his friend. This means we want to know how many cookies his friend has. His friend has x cookies. 
@@ -384,8 +384,8 @@ Cancelling out like terms, we get:
 
 $$4 = 5$$
 
-This is not true, so there is no solution to the system.",,,,( y - w ),66,( 523.0 - 457.0 )
-8,"
+This is not true, so there is no solution to the system.",( y - x ),9.0,( 18.0 - 9.0 ),( y - w ),66,( 523.0 - 457.0 )
+8,8,"
 We are looking for the number of cups of flour that Mary needs to add. We are given that she has already put in z cups of flour. So we want to know w - z. 
 
 We are also told that the recipe calls for w cups of sugar, x cups of flour, and y cups of salt. So w + x + y = the total number of cups in the recipe. 
@@ -441,8 +441,8 @@ Now we need to find <code>y</code> cups of sugar to add.
           z=0
 </code>
 Therefore, <code>z</code> should be equal to <code>0</code>, <code>y</code> should be equal to <code>1</code> and <code>x</code> should be equal to <code>1</code>.
-",,,,( y - w ),66,( 523.0 - 457.0 )
-9,"
+",( x - z ),4.0,( 10.0 - 6.0 ),( y - w ),66,( 523.0 - 457.0 )
+9,9,"
 The waiter had w customers leave. This means that at some point he had w + x customers. 
 
 We also know that after w customers left, he still had x customers. Therefore, the equation would be:
@@ -465,8 +465,8 @@ So the waiter had $x+w$ customers at the start.","At the start, he had 0 custome
 
 So on the first day, he had 0 customers. On the second day, he had 2 customers. On the third day, he had 4 customers. And so on.",There is not enough information provided to answer this question.,"The number of customers at the start is $x$. The number of customers at the end of the first week is $x-4$. The number of customers at the end of the second week is $x-4-3=x-7$. The number of customers at the end of the third week is $x-7-2=x-9$. Finally, the number of customers at the end of the fourth week is $x-9-1=x-10$.
 
-Thus, we have the equation $x-10=0$, from which it follows that $x=10$.",,,,( y - w ),66,( 523.0 - 457.0 )
-10,"
+Thus, we have the equation $x-10=0$, from which it follows that $x=10$.",( w + x ),21.0,( 9.0 + 12.0 ),( y - w ),66,( 523.0 - 457.0 )
+10,10,"
 There are w birds on the fence. If x more storks and y more birds come to join them, then there will be a total of w + x + y birds on the fence. 
 
 We are looking for the number of storks sitting on the fence. This is equal to x + y. 
@@ -485,8 +485,8 @@ $$
 2B &= S+3
 \end{aligned}
 $$
-We can solve this linear system of equations and get $S=4$, $B=2$. There are two more storks than birds.",,,,( y - w ),66,( 523.0 - 457.0 )
-11,"
+We can solve this linear system of equations and get $S=4$, $B=2$. There are two more storks than birds.",( x - ( w + y ) ),1.0,( 6.0 - ( 3.0 + 2.0 ) ),( y - w ),66,( 523.0 - 457.0 )
+11,11,"
 They have w sets of tables. Each set has x chairs. So we can write this as wx chairs. 
 
 This is the number of chairs in the backyard.", * x chairs,"There are w sets of tables in the backyard.
@@ -507,8 +507,8 @@ The total number of chairs is $x + x + 1 = 2x + 1$.
 
 Now we have the equation $2x + 1 = 24 \Rightarrow 2x = 23 \Rightarrow x = 11.5$. 
 
-There are 11.5 chairs in the backyard.",,,,( y - w ),66,( 523.0 - 457.0 )
-12,"
+There are 11.5 chairs in the backyard.",( w * x ),143.0,( 11.0 * 13.0 ),( y - w ),66,( 523.0 - 457.0 )
+12,12,"
 There are w more girls than boys. 
 That means that there are w + x girls, and w + (x - w) boys. 
 That also means that there are 2w + x students in the school.",There are x + w pupils in the school.,"There are w more girls than boys in the school. Let's denote the number of girls by g, and the number of boys by b. Then we can write:
@@ -566,8 +566,8 @@ $n = xy$
 
 $m = zn$
 
-Now we need to know $x$, $y$, $z$ to find $n$, $m$.",,,,( y - w ),66,( 523.0 - 457.0 )
-13,"fter resting, they decided to go for a swim. This suggests that there is a swimming pool or a body of water available to them. The depth of the water is w times Dean's height. This suggests that we are dealing with a proportional relationship. Dean is x feet taller than Ron. This suggests that Dean's height is x feet taller than Ron's height. If Ron stands at y feet, how deep is the water? This suggests that we are looking for an Unknown.
+Now we need to know $x$, $y$, $z$ to find $n$, $m$.",( ( x + <x) - w ),926.0,( ( 692.0 + 692.0 ) - 458.0 ),( y - w ),66,( 523.0 - 457.0 )
+13,13,"fter resting, they decided to go for a swim. This suggests that there is a swimming pool or a body of water available to them. The depth of the water is w times Dean's height. This suggests that we are dealing with a proportional relationship. Dean is x feet taller than Ron. This suggests that Dean's height is x feet taller than Ron's height. If Ron stands at y feet, how deep is the water? This suggests that we are looking for an Unknown.
 
 
 
@@ -636,8 +636,8 @@ From the last two equations we obtain:
 $$\frac{l\cdot w}{h-x} = w\cdot y$$
 After cancelling out $w$ from both sides of the equation we get:
 $$\frac{l}{h-x} = y$$
-We know that the height of the object $",,,,( y - w ),66,( 523.0 - 457.0 )
-14,"
+We know that the height of the object $",( ( x + y ) * w ),255.0,( ( 4.0 + 13.0 ) * 15.0 ),( y - w ),66,( 523.0 - 457.0 )
+14,14,"
 We are told that there were w birds sitting on a fence, and then x more birds and y more storks came to join them. So now, we can say that there are w + x + y birds sitting on the fence.", + x + y,"There were w birds on the fence. x more birds joined them. So, now we have w+x birds on the fence. y more storks joined them. So, now we have w+x+y birds on the fence.","
 There are 3 sections to the fence, and 2 birds on each section. 
 
@@ -675,8 +675,8 @@ $$8x=100$$
 
 $$x=\frac{100}{8}=12.5$$
 
-So there are $12.5$ birds sitting on the fence.",,,,( y - w ),66,( 523.0 - 457.0 )
-15,"
+So there are $12.5$ birds sitting on the fence.",( w + x ),10.0,( 6.0 + 4.0 ),( y - w ),66,( 523.0 - 457.0 )
+15,15,"
 1. Marco and his dad went strawberry picking. Together they collected strawberries that weighed w pounds. 
 2. On the way back Marco's dad lost x pounds of strawberries. 
 3. Marco's strawberries now weighed y pounds. 
@@ -720,8 +720,8 @@ y + 0.4 = 2
 
 y = 2 - 0.4
 
-y = 1.6 kg",,,,( y - w ),66,( 523.0 - 457.0 )
-16,"
+y = 1.6 kg",( ( w - y ) - x ),16.0,( ( 36.0 - 12.0 ) - 8.0 ),( y - w ),66,( 523.0 - 457.0 )
+16,16,"
 There are w girls and the rest are boys.
 
 That means that there are w + x girls and w boys. 
@@ -772,8 +772,8 @@ $g=0$
 
 $b=100$
 
-There are 100 boys in that school.",,,,( y - w ),66,( 523.0 - 457.0 )
-17,"
+There are 100 boys in that school.",( w - x ),469.0,( 697.0 - 228.0 ),( y - w ),66,( 523.0 - 457.0 )
+17,17,"
 There are w girls and x boys in the school. 
 
 y more girls joined the school. 
@@ -811,8 +811,8 @@ The number of girls is two times the number of boys, so $y = 2x$.
 
 Plugging this in the first equation gives us $x + 2x = 968$, which is equivalent to $3x = 968$. 
 
-So $x = 324$ and $y = 648$.",,,,( y - w ),66,( 523.0 - 457.0 )
-18,"
+So $x = 324$ and $y = 648$.",( w + y ),1414.0,( 732.0 + 682.0 ),( y - w ),66,( 523.0 - 457.0 )
+18,18,"
 Danny has w+x bottle caps and wrappers. 
 He then finds x more wrappers. 
 That means he must have originally had w+2x bottle caps and wrappers.",Danny had w + x wrappers at first.,"
@@ -844,8 +844,8 @@ $$x_0 = 3^2(10)$$
 $$x_0 = 3^3(5)$$
 
 We can use the fact that $x_0$ is the same in all three equations to solve for it:
-$$",,,,( y - w ),66,( 523.0 - 457.0 )
-19,"e know that at the end of the school year, Paul had y crayons left and no erasers left. This means that at some point during the school year, he must have used up all of his erasers. 
+$$",( z - x ),27.0,( 57.0 - 30.0 ),( y - w ),66,( 523.0 - 457.0 )
+19,19,"e know that at the end of the school year, Paul had y crayons left and no erasers left. This means that at some point during the school year, he must have used up all of his erasers. 
 
 We also know that he started with w erasers and x crayons. This means that at some point during the school year, he must have had w erasers and x crayons. 
 
@@ -930,4 +930,4 @@ $y=9-8$
 
 $y=1$
 
-The answer is: There was 1 more crayon than eraser.",,,,( y - w ),66,( 523.0 - 457.0 )
+The answer is: There was 1 more crayon than eraser.",( y - w ),66.0,( 523.0 - 457.0 ),( y - w ),66,( 523.0 - 457.0 )
