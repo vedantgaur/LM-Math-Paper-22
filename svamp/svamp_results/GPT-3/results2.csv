@@ -1,0 +1,830 @@
+,Symbolic With Steps,Symbolic Without Steps,Symbolic With Intermediate Variables,Numerical With Steps,Numerical Without Steps,Numerical With Intermediate Variables,Symbolic Answer,Numerical Answer,Numerical Equation
+0,"Each pack of dvds costs w dollars. 
+
+This means that if we have one pack, it will cost w dollars. 
+
+If we have two packs, it will cost 2w dollars. 
+
+If we have three packs, it will cost 3w dollars. 
+
+Now, if we have a discount of x dollars on each pack, this means that for each pack, we will pay w - x dollars. 
+
+So if we have one pack, we will pay w - x dollars. 
+
+If we have two packs, we will pay 2(w - x) dollars. 
+
+If we have three packs, we will pay 3(w - x) dollars. 
+
+I hope this helps!",w - x,"If we have one pack, we should pay w - x dollars. So, if we have n packs, we should pay n(w - x) dollars.","A discount of 25 dollars on each pack would mean that the final cost of each pack would be reduced by 25 dollars. 
+
+So, if each pack costs 76 dollars, then with a discount of 25 dollars on each pack, the final cost of each pack would be 51 dollars.",Each pack of dvds costs 51 dollars.,"First, let's introduce a variable for the cost of one DVD. Then, we can introduce a variable for the number of DVDs in a pack. Finally, we can introduce a variable for the total cost of a pack. 
+
+Now we have all the information we need to write our equations. Let's start with the equation that states the relationship between the cost of a DVD and the total cost of a pack:
+
+cost of DVD * number of DVDs in pack = total cost of pack
+
+We also know that there is a 25 dollar discount on each pack, so we can write that as: 
+
+total cost of pack - 25 = 76
+
+Now we can solve for the total cost of the pack:
+
+total cost of pack = 101
+
+Now we can solve for the cost of one DVD: 
+
+cost of DVD = total cost of pack / number of DVDs in pack
+
+cost of DVD = 101 / number of DVDs in pack
+
+If we plug in the values we know, we get: 
+
+cost of DVD = 101 / 3
+
+cost of DVD = 33.67
+
+So each DVD costs 33.67 dollars.",( w - x ),51,( 76.0 - 25.0 )
+1,"Dan had w left with him after he bought a candy bar. 
+
+This means that at some point, he had w + x. 
+
+Then he bought a candy bar, which means that he had to spend some money on the candy bar. 
+
+Therefore, the candy bar cost him (w + x) - w, or x.",The candy bar cost $x - $w.,"$$w = x - c$$
+$$x = w + c$$
+$$ c = x - w$$","First, we know that Dan has $3 left. This means that whatever he spent before must have totaled to $4 - $3, or $1. 
+
+We also know that he started with $4. So the candy bar must have cost $1.",The candy bar cost $1.,"$$
+\begin{array}{l|l|l}
+\text{Step} & \text{Condition} & \text{Calculation} \\
+\hline
+1 & \text{ } & \text{ } \\
+2 & \text{ } & \text{ } \\
+3 & \text{ } & \text{ } \\
+4 & \text{ } & \text{ } \\
+5 & \text{ } & \text{ } \\
+\end{array}
+$$
+
+A: The candy bar cost $1$.",( x - w ),1,( 4.0 - 3.0 )
+2,"Paco had w salty cookies and x sweet cookies. This means that the total number of cookies Paco had is w + x. 
+
+Paco ate y sweet cookies and z salty cookies. This means that the total number of cookies Paco ate is y + z. 
+
+Therefore, the number of salty cookies Paco had left is w - z.","Paco had w salty cookies and x sweet cookies. He ate y sweet cookies and z salty cookies. So, w - z = the number of salty cookies Paco had left.","Paco had w salty cookies and x sweet cookies. He ate y sweet cookies and z salty cookies. How many salty cookies did Paco have left?
+
+Paco had w salty cookies and x sweet cookies. He ate y sweet cookies and z salty cookies. 
+
+w - z = how many salty cookies did Paco have left","We know that Paco had 26 salty cookies and 17 sweet cookies. He ate 14 sweet cookies, so that means he has 3 sweet cookies left. 
+
+We also know that he ate 9 salty cookies, so that means he has 17 salty cookies left.",Paco had 17 salty cookies left after eating 9 sweet cookies.,"There are 26 salty cookies and 17 sweet cookies, so we can write:
+
+salty = 26
+sweet = 17
+
+Paco eats 14 sweet cookies and 9 salty cookies, so we can write:
+
+salty' = salty - 9
+sweet' = sweet - 14
+
+We are looking for the number of salty cookies left, so we can write:
+
+salty' = ?
+
+salty' = salty - 9
+salty' = 26 - 9
+salty' = 17",( w - z ),17,( 26.0 - 9.0 )
+3,"There were w children riding the bus. 
+Some children got off the bus. 
+That means that there are now x children left on the bus. 
+
+To find out how many children got off the bus, we need to take w and subtract it from x. 
+
+w - x = how many children got off the bus.", w - x,"The number of children that were riding on the bus is denoted by w. 
+The number of children that got off at the bus stop is denoted by x. 
+Then, the number of children that were left on the bus is denoted by:
+leftOnBus = w - x
+We know that the total number of children on the bus does not change. So:
+w = leftOnBus + x
+We can solve for x:
+x = w - leftOnBus","There were 43 children riding on the bus. 
+
+Then, at the bus stop, some children got off the bus. 
+
+This means that the number of children on the bus decreased. 
+
+So, if we start with 43 children, and then some children get off the bus, the final number of children on the bus will be less than 43. 
+
+Now, we are told that there were 21 children left on the bus. 
+
+This means that, if we start with 43 children, and then some children get off the bus, the final number of children on the bus will be 21. 
+
+Therefore, the number of children who got off the bus at the bus stop must be 43 - 21, which is 22.", 22 children,"There were 43 children riding on the bus. Let's call this number $x$. 
+At the bus stop some children got off the bus. Let's call this number $y$. 
+Then there were 21 children left on the bus. Let's call this number $z$. 
+We know that $x = y + z$. 
+We are looking for $y$. 
+We know that $z = 21$. 
+Therefore, $x - z = y$, $x - 21 = y$, $43 - 21 = y$, $22 = y$. 
+22 children got off the bus at the bus stop.",( w - x ),22,( 43.0 - 21.0 )
+4,"There were w children on the bus at the beginning. 
+x children got on the bus, which means that y = w + x children were on the bus in total. 
+Now we need to know how many children got off the bus. ",The answer is x - y.,"w - original number of kids on the bus
+x - number of kids who got on the bus
+y - total number of kids on the bus
+z - number of kids who got off the bus
+
+According to the problem statement: 
+y = w + x - z
+and we need to find 
+x - z
+
+y = w + x - z
+x - z = y - w","There were 28 children riding on the bus. 
+
+Then, 82 children got on the bus, while some got off the bus. 
+
+This means that the total number of children on the bus at this point was 82 + 28, or 110. 
+
+However, we know that there were only 30 children on the bus in the end. 
+
+This means that 30 - 110 children must have gotten off the bus. 
+
+In other words, 110 - 30, or 80, children must have gotten on the bus. 
+
+Therefore, the answer is 80.", 54 children,"$$
+\begin{array}{rcl}
+x & = & \textrm{children that got off the bus} \\
+y & = & \textrm{children that got on the bus} \\
+28 & = & \textrm{initial number of children} \\
+30 & = & \textrm{final number of children} \\
+82 & = & \textrm{total number of children that got on the bus} \\
+\end{array}
+$$
+So we can write down the equation:
+$$
+28 + y = 30 + x \Rightarrow y - x = 2.
+$$
+This equation means that there were 2 more children that got on the bus than those that got off the bus.",( y - w ),2,( 30.0 - 28.0 )
+5,"Firstly, we know that Olivia had w dollars in her wallet. 
+
+Secondly, she collected x more dollars from an ATM, so now she has w + x dollars. 
+
+Lastly, she spent some money at the supermarket, so she now has w + x - y dollars left in her wallet. 
+
+We are trying to figure out how much more money she collected at the ATM than she spent at the supermarket, so we want to set up an equation that will give us that answer. 
+
+w + x - y = z 
+
+z = w + x - y 
+
+z = the amount of money left in her wallet 
+
+w = the amount of money she had in her wallet to begin with 
+
+x = the amount of money she collected from the ATM 
+
+y = the amount of money she spent at the supermarket 
+
+Therefore, z - w = the amount of money she collected from the ATM - the amount of money she spent at the supermarket. 
+
+z - w = x - y 
+
+We want to solve for x - y, which is the amount of money she collected from the ATM - the amount of money she spent at the supermarket","She collected more money at the ATM than she spent at the supermarket if:
+
+w + x > x
+
+or
+
+w > 0","Olivia started with w dollars in her wallet. 
+
+x more dollars were collected from an ATM machine. 
+
+This means that Olivia had w + x dollars in her wallet after collecting money from the ATM machine.
+
+After visiting the supermarket, Olivia had x dollars left in her wallet. 
+
+This means that Olivia spent w + x - x = w dollars at the supermarket. 
+
+Therefore, Olivia collected w + x - w = x more dollars at the ATM machine than she spent at the supermarket.","Olivia had 3 dollars in her wallet. 
+She went to the ATM and collected 49 more dollars. 
+She went to the supermarket and spent some amount of money. 
+She now has 49 dollars left. 
+
+So we want to know how much money she spent at the supermarket. 
+
+Olivia had 3 dollars in her wallet to start. 
+She collected 49 more dollars from the ATM, so she had 52 dollars in total. 
+She spent some amount of money at the supermarket, and now she has 49 dollars left. 
+
+How much money did she spend at the supermarket? 
+
+3 + 49 = 52
+52 - 49 = 3
+
+Olivia spent 3 dollars at the supermarket.", She collected 100 dollars at the atm.,"Olivia's wallet: 3 dollars
+ATM: 49 dollars
+Supermarket: 49 dollars
+
+Olivia's wallet: 3 + 49 = 52 dollars
+Supermarket: 52 - 49 = 3 dollars
+
+Olivia collected 49 more dollars at the ATM than she spent at the supermarket.",( x - w ),46,( 49.0 - 3.0 )
+6,"Jerry had some action figures on a shelf in his room. Later he added more action figures to the shelf. 
+
+This means that there were more action figures on the shelf after Jerry added more. 
+
+We can say that the final number of action figures is greater than the initial number of action figures. 
+
+We can represent this with the following equation: 
+
+x > y 
+
+This means that the value of x (the final number of action figures) is greater than the value of y (the initial number of action figures).","If Jerry had x action figures on his shelf initially, and then added w more action figures, the total number of action figures on the shelf would be x + w.","1) Let's call the number of action figures Jerry initially had on the shelf $a$.
+
+2) Let's call the number of action figures Jerry added to the shelf $b$.
+
+3) Then, the number of action figures Jerry has on the shelf now, $x$, is equal to:
+
+$$x = a + b$$
+
+4) We are told in the problem that the total number of action figures on Jerry's shelf is now $x$. So:
+
+$$x = a + b$$
+
+5) We are told in the problem that Jerry had some action figures on a shelf in his room initially. So:
+
+$$a > 0$$
+
+6) We are told in the problem that later Jerry added more action figures to the shelf. So:
+
+$$b > 0$$
+
+7) Solving for $a$, we get:
+
+$$a = x - b$$
+
+Thus, the number of action figures Jerry had initially on the shelf is equal to the total number of action figures on his shelf now, $x$, minus the number of action figures Jerry added to the shelf, $b$.","Jerry has some action figures on his shelf. 
+
+That means that there is at least one action figure on the shelf. 
+
+Later he added 7 more action figures to the shelf. 
+
+That means that there are at least 8 action figures on the shelf now. 
+
+But we know that there are 10 action figures on the shelf now, so we can say that there are at least 10 action figures on the shelf. 
+
+That means that Jerry had at least 10 action figures on his shelf initially.", Jerry had 3 action figures on the shelf initially.,"Let's say that Jerry had $x$ action figures on the shelf. Later he added $y$ more, so the total number of action figures is:
+$$
+x + y = 10 \quad \Rightarrow \quad y = 10 - x
+$$
+Now we have two equations with two unknowns:
+$$
+x + y = 10 \quad \Rightarrow \quad y = 10 - x
+$$
+These equations are called linear equations. The solution of a linear equation is the value of the variable that satisfies the equation. In our case, this is the value of $x$ that satisfies both equations. 
+$$
+x + y = 10 \quad \Rightarrow \quad y = 10 - x \quad \Rightarrow \quad x + (10 - x) = 10
+$$
+$$
+x + 10 - x = 10
+$$
+$$
+2x = 10
+$$
+$$
+x = 5
+$$
+Therefore, Jerry initially had $5$ action figures on the shelf. ",( x - w ),3,( 10.0 - 7.0 )
+7,"First, Paco had w cookies. 
+
+Then, he gave x cookies to his friend. 
+
+That means that he now has w - x cookies. 
+
+Then, he ate y cookies, which means he now has w - x - y cookies. 
+
+The question is asking how many more cookies he ate than those he gave to his friend. That is the same as asking how many fewer cookies he has now than he gave to his friend. 
+
+So, the answer is x - (w - x - y), which is the same as y - (w - x).",Paco had w cookies. He gave x cookies to his friend and ate y cookies. He ate y-x cookies more than those he gave to his friend.,"Let's say that Paco has w cookies, he gave x cookies to his friend and ate y cookies. Thus, the number of cookies that were left after he gave some to his friend and ate some himself is w - x - y. 
+
+The task is to find out how many more cookiesPacowas left with than his friend. In other words, we need to find out how many more cookies there are in w - x - y than in x. 
+
+This is the same as asking how many more cookies there are in w - y than in x. In other words, we need to solve the equation w - y - x = 0. 
+
+We can do this by solving for w. w = x + y.","Paco had 41 cookies.
+He gave 9 cookies to his friend.
+He ate 18 cookies.
+
+We want to know how many more cookies Paco ate than he gave his friend. 
+
+We can take away the number of cookies Paco gave his friend from the total number of cookies Paco had. 
+
+41 - 9 = 32
+
+Then we can take away the number of cookies Paco ate from the total number of cookies remaining. 
+
+32 - 18 = 14
+
+Paco ate 14 more cookies than he gave his friend.", He ate 9 more cookies than he gave to his friend.,"Paco had 41 cookies. He gave 9 cookies to his friend. 
+
+This means that he has 41-9=32 cookies left. 
+
+Then he ate 18 cookies. This means that he has 32-18=14 cookies left. 
+
+Now we need to compare the number of cookies he gave to his friend with the number of cookies he ate. 
+
+9<18
+
+This means that he ate more cookies than those he gave to his friend.",( y - x ),9,( 18.0 - 9.0 )
+8,"Mary is baking a cake. The recipe calls for w cups of sugar x cups of flour and y cups of salt.
+
+She already put in z cups of flour.
+
+This means that she needs x - z cups of flour to complete the recipe.", w-z cups of flour,"First, we need to know how many cups of flour the recipe calls for in total. We can call this total number of cups of flour F. We know that the recipe calls for x cups of flour and we know that z cups of flour have already been added, so:
+
+F = x + z
+
+Now we need to know how many cups of flour Mary still needs to add. We can call this number f. We know that Mary has already added z cups of flour, so she still needs to add:
+
+f = F - z
+
+f = (x + z) - z
+
+f = x",Mary has put in 6 cups of flour and the recipe calls for 10 cups of flour. This means she needs 4 more cups of flour., She needs to add 4 more cups of flour.,"Let's denote the number of cups of flour Mary needs to add by the variable x. 
+
+We know that Mary has already put in 6 cups of flour. 
+
+This means that the total number of cups of flour in the cake batter is: 
+
+3 cups of sugar + 10 cups of flour + 15 cups of salt + 6 cups of flour = 3 + 10 + 15 + 6 = 34 
+
+We know that the recipe calls for a total of 3 + 10 = 13 cups of flour. 
+
+So we can write: 
+
+3 + 10 + x = 34 
+
+10 + x = 34 
+
+x = 24 
+
+Mary needs to add 24 more cups of flour to the cake batter.",( x - z ),4,( 10.0 - 6.0 )
+9,"The waiter has some customers. After w customers left, he still had x customers. How many customers did he have at the start?
+
+The answer is w + x.",The waiter had w + x customers at the start.,"Suppose that y customers left after x customers. Then we have the following equation:
+
+y = w - x
+
+Solve for x:
+
+x = w - y
+
+Now we know that the waiter had w + x customers at the start. Therefore, we can substitute x with w - y:
+
+w + x = w + w - y = 2w - y
+
+We know that y customers left, so:
+
+2w - y = 2w - (w - x) = 2w - w + x = w + x
+
+Therefore, we can conclude that w + x = w + x, which means that x = 0. 
+
+The waiter had w + 0 customers at the start, which means that he had w customers at the start.","The waiter has 9 customers leave, which means he started with 21 customers.",The waiter had 21 customers at the start.,"The waiter has some customers, let's denote it with $C$
+
+After 9 customers left, he still had $12$ customers, so the number of customers he had at the start was $C + 9 = 12$
+
+We know that $C + 9 = 12$, so $C = 3$
+
+The waiter had 3 customers at the start.",( w + x ),21,( 9.0 + 12.0 )
+10,"There were w birds originally sitting on the fence. 
+Then, x more storks came, so now there are w + x storks on the fence. 
+Then, y more birds came, so now there are w + x + y birds on the fence. 
+
+To find out how many more storks than birds are sitting on the fence, we want to find w + x - (w + x + y). This can be simplified to x - y.",There are x more storks than birds sitting on the fence.,"w - the number of birds sitting on the fence
+x - the number of storks that came
+y - the number of birds that came
+
+w + x - y = the number of storks that are sitting on the fence
+
+There are more storks than birds on the fence if:
+
+w + x - y > 0 
+w + x > y","There are three birds on the fence. Then, six more storks join them. Now, we have nine animals on the fence. But two more birds join them, so now we have 11 animals on the fence. Therefore, we have 11 - 3 = 8 more storks than birds on the fence.", 4 more storks than birds,"There are $x$ birds and $y$ storks sitting on the fence. 
+
+The expression $(x+y)$ will be the total number of birds and storks, so we need to solve for this. 
+
+We know that $x+y=9$ and that $y=2x-3$. We can plug this value of $y$ into our first equation to solve:
+
+$$x+y=9$$
+$$x+2x-3=9$$
+$$3x=12$$
+$$x=4$$
+
+Now we have that $x=4$ and $y=2x-3=2(4)-3=5$.
+
+There are 5 storks sitting on the fence.",( x - ( w + y ) ),1,( 6.0 - ( 3.0 + 2.0 ) )
+11,"First, we need to figure out how many sets of tables they have in their backyard. If they have w sets of tables, that means they have w*x chairs in total.",There are w sets of tables and each set has x chairs. This means that there are wx chairs in the backyard.,"There are w sets of tables. Each set has x chairs. 
+So, the total number of chairs is w*x.","There are 11 sets of tables and each set has 13 chairs.
+How many chairs are in one set?
+There are 13 chairs in one set.
+How many chairs are in 11 sets?
+There are 143 chairs in 11 sets.",They have 143 chairs in the backyard.,"There are 11 sets of tables and each set has 13 chairs. 
+There are 11 * 13 = 143 chairs in the backyard.",( w * x ),143,( 11.0 * 13.0 )
+12,"First, we know that there are w more girls than boys. This tell us that the number of boys will be w less than the number of girls. 
+Secondly, we know that there are x girls. This means that the number of boys will be x - w. 
+Therefore, the total number of pupils will be x + (x - w), which is 2x - w.", w + x,"w - more girls than boys
+x - girls
+
+x + w = pupils
+
+x = pupils - w","There are 458 more girls than boys. 
+That means there are 458 more girls than there are boys. 
+That means there are 458 + 692 = 1150 students in that school.","There are 1,150 pupils in that school.","There are 458 more girls than boys, so we write: 
+
+$g = b + 458$
+
+We know that there are 692 girls in total, so we write: 
+
+$692 = b + 458$
+
+We solve for $b$: 
+
+$b = 234$
+
+Therefore, the total number of pupils in the school is: 
+
+$b + g = 234 + 458 =692$",( ( x + <x) - w ),926,( ( 692.0 + 692.0 ) - 458.0 )
+13,"First, we can solve for w in terms of x and y. We know that Dean is x feet taller than Ron, so we can set up the equation:
+
+w(x+y) = y
+
+Now we can solve for w:
+
+w = y/(x+y)
+
+Now we have w in terms of x and y. We can plug this back into the original equation to solve for the depth of the water:
+
+w(x+y) = y
+
+y/(x+y)(x+y) = y
+
+y = y/(x+y)
+
+y = 1/(1+x/y)
+
+Now we have the depth of the water in terms of x and y.","The depth of the water is w times Dean's height. Dean is x feet taller than Ron. If Ron stands at y feet, then the depth of the water is w times (x+y).","Ron's height is h.
+
+Dean's height is h+x.
+
+The depth of the water is w*(h+x).
+
+Now you have all the information you need. You know that h=y-x. Substitute it and simplify the equation.","First, we know that Dean is 4 feet taller than Ron. So Dean is 4 + 13 = 17 feet tall. 
+Then, we know that the depth of the water is 15 times Dean's height, so the depth of the water is 15 * 17 = 255 feet.",The water was 60 feet deep.,"Dean's height = $D$
+Ron's height = $R$
+
+$D = 4 + R$
+
+Now we can substitute this into the original equation: 
+
+The depth of the water is 15 times Dean's height.
+
+$depth = 15 \times D$
+
+$depth = 15 \times (4 + R)$
+
+$depth = 15 \times 4 + 15 \times R$
+
+$depth = 60 + 15 \times R$
+
+Now we know that Ron stands at 13 feet, so: 
+
+$13 = 60 + 15 \times R$
+
+$-47 = 15 \times R$
+
+$-47 / 15 = R$
+
+$R = -3.133$
+
+Now we can calculate Dean's height: 
+
+$D = 4 + R$
+
+$D = 4 - 3.133$
+
+$D = 0.867$
+
+So the depth of the water was: 
+
+$depth = 15 \times D$
+
+$depth = 15 \times 0.867$
+
+$depth = 13$",( ( x + y ) * w ),255,( ( 4.0 + 13.0 ) * 15.0 )
+14,"There were w birds sitting on the fence. 
+
+Then, x more birds came to join them. 
+
+That means there are now w + x birds sitting on the fence. 
+
+Then, y more storks came to join them. 
+
+That means there are now w + x + y birds sitting on the fence.", w + x + y,"There were w birds sitting on the fence. 
+
+x more birds came to join them. 
+
+That makes the total number of birds sitting on the fence equal to w + x. 
+
+y more storks came to join them. 
+
+That makes the total number of birds sitting on the fence equal to w + x + y.","There are 6 birds sitting on the fence. 
+
+4 more birds join them, so there are 10 birds sitting on the fence. 
+
+8 more storks join them, so there are 18 birds sitting on the fence.",There are 18 birds sitting on the fence.,"There are $x$ birds sitting on the fence. 
+If 4 more birds come, then there are $x+4$ birds sitting on the fence. 
+If 8 more storks come, then there are $x+8$ storks sitting on the fence. 
+So, we need to solve the equation:
+$$x+4+8=6 \Rightarrow x=6-4-8=-2$$
+
+There are no birds sitting on the fence.",( w + x ),10,( 6.0 + 4.0 )
+15,"1. Marco and his dad went strawberry picking. Together they collected strawberries that weighed w pounds.
+
+2. On the way back Marco's dad lost x pounds of strawberries.
+
+3. Marco's strawberries now weighed y pounds.
+
+Now we have to solve for his dad's strawberries. We know that together they had w pounds of strawberries and we know that Marco's strawberries weigh y pounds. So we just have to solve for x.
+
+w - y = x
+
+x = w - y",Marco's dad's strawberries now weigh w - x pounds.,"Let's say Marco and his dad went strawberry picking. Together they collected strawberries that weighed w pounds. On the way back Marco's dad lost x pounds of strawberries. Marco's strawberries now weighed y pounds. How much did his dad's strawberries weigh now?
+
+According to the information given, we can create the following equation:
+
+w - x = y
+
+We can solve for x:
+
+x = w - y
+
+Therefore, the weight of Marco's dad's strawberries now is:
+
+w - (w - y) = y","Marco's dad lost 8 pounds of strawberries. 
+
+That means he had 8 less pounds of strawberries. 
+
+That means his new weight is 28 pounds.", His dad's strawberries now weigh 28 pounds.,"Marco and his dad went strawberry picking. Together they collected strawberries that weighed 36 pounds. On the way back Marco's dad lost 8 pounds of strawberries. Marco's strawberries now weighed 12 pounds. How much did his dad's strawberries weigh now?
+
+Let's denote Marco's strawberries as $x$ and his dad's strawberries as $y$. 
+
+We know that: 
+$x + y = 36$
+$x = 12$
+$y - 8 = 28$
+
+And we need to find: 
+$y = ?$
+
+$y = x + y - x = 12 + 28 - 12 = 28$",( ( w - y ) - x ),16,( ( 36.0 - 12.0 ) - 8.0 )
+16,"There are w girls and the rest are boys.
+
+This means that w = the total number of girls in the school, and the rest are boys. 
+
+Therefore, the total number of students in the school is w + the rest. 
+
+The question is asking for x more girls than boys. This means that w + x = the total number of girls in the school, and the rest are boys. 
+
+Therefore, the total number of boys in the school is w - x.", w - x,"There are w girls and x more girls than boys. 
+There are w + x girls and w boys. 
+There are w + x + w boys in that school. 
+There are 2w + x boys in that school.","First, we know that there are a total of 697 + (228) = 925 students in the school. 
+
+Since we know that there are 925 students, and we know that there are 697 girls, that means that there are 228 boys.",There are 469 boys in the school.,"There are x boys and y girls in a school. 
+
+x + y = total number of students in the school
+
+y = total number of girls in the school
+
+697 = number of girls in the school
+
+x = number of boys in the school
+
+So we have the following system of two equations with two unknowns:
+
+x + y = total number of students in the school
+
+y = 697
+
+Solve the system:
+
+x + 697 = total number of students in the school
+
+x = total number of students in the school - 697
+
+x = total number of students in the school - y
+
+Now we have an equation with one unknown:
+
+x = total number of students in the school - 697
+
+We know that there are 228 more girls than boys. So:
+
+228 = y - x
+
+y = x + 228
+
+Now we have two equations with one unknown each. We can solve them:
+
+x + y = total number of students in the school
+
+x + x + 228 = total number of students in the school
+
+2x + 228 = total number of students in the school",( w - x ),469,( 697.0 - 228.0 )
+17,"There are w girls and x boys in the school. 
+y more girls joined the school. 
+That means there are w + y girls in the school. 
+z more boys joined the school. 
+That means there are x + z boys in the school. 
+
+To find out how many students there are in total, we can add w + y + x + z. 
+To find out how many girls there are in total, we can add w + y.",There are w + y girls and x + z boys in the school now.,"There are w girls and x boys in the school.
+y more girls join the school.
+Now there are w + y girls in the school.
+z more boys join the school.
+Now there are w + y girls and x + z boys in the school.
+
+The number of girls in the school now is w + y.","There are originally 732 girls. 
+
+Then, 682 more girls join the school. 
+
+So, there are now 732 + 682 = 1,414 girls in the school.","There are 1,414 girls in the school now.","There are 732 girls and 761 boys in the school. 
+
+Let's denote the number of girls after the joining by x. We know that:
+
+x = 732 + 682 = 1414
+
+Now we can use the information that 8 more boys joined the school. 
+
+We know that the total number of students in the school is:
+
+x + 761 + 8 = 1414 + 761 + 8 = 2183
+
+Thus, we obtain:
+
+2183 - 8 = 1414
+
+Hence, there are 1414 girls in the school now.",( w + y ),1414,( 732.0 + 682.0 )
+18,"First, Danny went to the park and found w bottle caps and x wrappers. 
+
+Next, he brought them home and added them to his collection. 
+
+That means that, before he went to the park, he had y-w bottle caps and z-x wrappers in his collection. 
+
+We are trying to solve for x, so that means that z-x=z. 
+
+Therefore, x=0.",Danny had x wrappers at first.,"We know:
+w bottle caps and x wrappers at the park. Now he has y bottle caps and z wrappers in his collection.
+
+We want to know:
+How many wrappers did Danny have at first?
+
+We don't know, but we can find out:
+y = w + x
+z = y - w
+
+We also know that:
+z = x - w
+
+Now we have two equations and two unknowns. We can solve it:
+
+y = w + x
+z = y - w
+
+x = w + z
+
+Danny had x wrappers at first.","Danny has 22 bottle caps and 30 wrappers. 
+
+He finds more bottle caps and wrappers, so now he has 17 bottle caps and 57 wrappers. 
+
+To solve this problem, we want to find out how many wrappers Danny had at first. 
+
+We can do this by starting with what we know and working backwards. 
+
+We know that Danny has 57 wrappers now, and we know that he found 30 wrappers. 
+
+So, we can subtract 30 from 57 to find out how many wrappers Danny had at first. 
+
+57 - 30 = 27
+
+Therefore, Danny had 27 wrappers at first.", 22 bottle caps and 30 wrappers.,"Danny's collection at the park:
+
+$x$ bottle caps
+
+$y$ wrappers
+
+$x + y = 22 + 30 = 52$
+
+Danny's collection now:
+
+$x'$ bottle caps
+
+$y'$ wrappers
+
+$x' + y' = 17 + 57 = 74$
+
+We need to find $y$
+
+$x + y = x' + y'$
+
+$y = y' - x' + x$
+
+$y = 57 - 17 + 22 = 62$
+
+Danny had 62 wrappers at first.",( z - x ),27,( 57.0 - 30.0 )
+19,"Paul got a box of w erasers and x crayons for his birthday.
+
+At the end of the school year he only had y crayons left while not having lost a single eraser.
+
+How many more crayons than erasers did he have left?
+
+
+
+We can set up an equation to solve this problem. 
+
+x - y = more crayons than erasers
+
+Paul had x crayons to start, and he lost y crayons, so he must have x - y crayons left.","There are y crayons and no erasers left, so Paul had more crayons than erasers.","Let's say that Paul had c crayons and e erasers at the beginning of the school year. Then:
+
+c + e = w + x
+
+c - y = e
+
+y = c - e
+
+Now we can solve for c and e:
+
+c = (w + x + y)/2
+
+e = (w + x - y)/2
+
+Plugging in y = c - e yields:
+
+c = (w + x + c - e)/2
+
+2c = w + x + c
+
+c = (w + x)/2
+
+e = w/2 - x/2 + y/2
+
+Now we can solve for y:
+
+y = c - e
+
+y = (w + x)/2 - w/2 + x/2 - y/2
+
+y = 0
+
+Therefore, y = 0, c = (w + x)/2, and e = (w + x)/2. So Paul had the same number of crayons and erasers left at the end of the school year.","First, let's determine how many crayons Paul started with. We know that he ended with 523 crayons, and we know that he lost no erasers, so we can set up the equation: 
+
+ 457 + x = 523
+
+x = 523 - 457
+
+x = 66
+
+So Paul started with 457 erasers and 66 crayons. 
+
+Now we need to determine how many crayons he had at the beginning of the school year. We know that he ended with 523 crayons and we know that he started with 66 crayons, so we can set up the equation: 
+
+66 + x = 523
+
+x = 523 - 66
+
+x = 457
+
+So Paul started with 457 crayons at the beginning of the school year. 
+
+Now we need to determine how many erasers he had at the beginning of the school year. We know that he ended with 457 erasers and we know that he started with 457 erasers, so we can set up the equation: 
+
+457 + x = 457
+
+457 + 0 = 457
+
+Therefore, Paul had 0 erasers at the beginning of the", At the end of the school year he had 94 more crayons than erasers.,"$E$ = number of erasers
+$C$ = number of crayons
+$e$ = number of erasers spent
+$c$ = number of crayons spent
+
+$E$ + $C$ = 1074 
+$E$ - $e$ = 457 
+$C$ - $c$ = 523 
+$e$ + $c$ = 580
+
+1074 = 457 + 523 
+457 = 580 - 523 
+523 = 580 - 457 
+
+$C$ - $E$ = 66",( y - w ),66,( 523.0 - 457.0 )

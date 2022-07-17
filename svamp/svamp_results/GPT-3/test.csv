@@ -1,0 +1,78 @@
+,Symbolic With Steps,Symbolic Without Steps,Symbolic With Intermediate Variables,Numerical With Steps,Numerical Without Steps,Numerical With Intermediate Variables,Symbolic Answers,Numerical Answers,Numerical Equations,Symbolic Answer,Numerical Answer,Numerical Equation
+0," 
+
+There is a discount on each pack. So we have to subtract that discount from the price of each pack. 
+
+That means we have to subtract x dollars from w dollars. 
+
+That will give us the new price of each pack.",You would have to pay w - x dollars to buy each pack.,"Let there be p packs in total. 
+Each pack costs w dollars, so the total cost is pw dollars. 
+There is a discount of x dollars on each pack, so the total discount is px dollars. 
+
+Therefore, the cost of each pack is (w - x) dollars. 
+
+The total cost is p(w - x) dollars.","There are two types of packs, those that cost $2 and those that cost $5. 
+
+There are 4 packs that cost $2. 
+
+This means that the total cost of the $2 packs is $8. 
+
+There are 3 packs that cost $5. 
+
+This means that the total cost of the $5 packs is $15. 
+
+The total cost of all the packs is $8 + $15, which is $23.","There is no set price for packs, as the cost will vary depending on the store or website you purchase them from. However, you can typically expect to pay between $2 and $4 per pack.","There are two types of packs, small and big.
+The price of the small pack is $x.
+The price of the big pack is $y$.
+The big pack contains 5 times as many candies as the small pack.
+
+You need to buy 10 packs.
+You can buy either:
+
+2 small packs and 4 big packs. In this case, you need to pay $2x + 4y$.
+Or 10 small packs. In this case, you need to pay $10x$.
+
+To find the minimum price, compare the two sums and take the smaller one:
+
+$2x + 4y \leq 10x$
+
+$4y \leq 8x$
+
+$y \leq 2x$",,,,( x - w ),1,( 4.0 - 3.0 )
+1," 
+
+If he had $x at the start and he spends $w on the candy bar, then he would have left $x-w. 
+
+But we know that he has $w left, so $x-w = w. 
+
+From this we can solve that x=2w and the cost of the candy bar is w.",The candy bar cost $x - $w.,"$x$ - the money he had at the start
+$w$ - the money he had left after buying the candy bar
+$c$ - the price of the candy bar
+
+We know that:
+$$x - c = w$$
+$$x - w = c$$
+Therefore:
+$$c = w - x$$",The candy bar cost $2.65.,The candy bar cost $2.00.,"Suppose there are `x` candy bars. 
+Each candy bar costs `c` cents. 
+The total cost is `xc`. 
+
+Now you have all the information you need to answer the question.",,,,( x - w ),1,( 4.0 - 3.0 )
+2,,,,,,,,,,( x - w ),1,( 4.0 - 3.0 )
+3,,,,,,,,,,( x - w ),1,( 4.0 - 3.0 )
+4,,,,,,,,,,( x - w ),1,( 4.0 - 3.0 )
+5,,,,,,,,,,( x - w ),1,( 4.0 - 3.0 )
+6,,,,,,,,,,( x - w ),1,( 4.0 - 3.0 )
+7,,,,,,,,,,( x - w ),1,( 4.0 - 3.0 )
+8,,,,,,,,,,( x - w ),1,( 4.0 - 3.0 )
+9,,,,,,,,,,( x - w ),1,( 4.0 - 3.0 )
+10,,,,,,,,,,( x - w ),1,( 4.0 - 3.0 )
+11,,,,,,,,,,( x - w ),1,( 4.0 - 3.0 )
+12,,,,,,,,,,( x - w ),1,( 4.0 - 3.0 )
+13,,,,,,,,,,( x - w ),1,( 4.0 - 3.0 )
+14,,,,,,,,,,( x - w ),1,( 4.0 - 3.0 )
+15,,,,,,,,,,( x - w ),1,( 4.0 - 3.0 )
+16,,,,,,,,,,( x - w ),1,( 4.0 - 3.0 )
+17,,,,,,,,,,( x - w ),1,( 4.0 - 3.0 )
+18,,,,,,,,,,( x - w ),1,( 4.0 - 3.0 )
+19,,,,,,,,,,( x - w ),1,( 4.0 - 3.0 )

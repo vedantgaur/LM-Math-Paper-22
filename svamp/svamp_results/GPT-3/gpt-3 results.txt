@@ -1,0 +1,1473 @@
+Q: Each pack of dvds costs w dollars. If there is a discount of x dollars on each pack How much do you have to pay to buy each pack?
+
+A:
+Symbolic no reasoning:   w - x
+------------------
+Q: Each pack of dvds costs w dollars. If there is a discount of x dollars on each pack How much do you have to pay to buy each pack?
+
+A: Let's think step by step.
+Symbolic with reasoning:  The cost of 1 pack is w dollars.
+
+The discount on each pack is x dollars.
+
+So the cost of 1 pack with the discount is w - x dollars.
+
+If you want to buy 2 packs, you would have to pay:
+
+(w - x) + (w - x) = 2(w - x) dollars.
+
+In general, if you want to buy n packs, you would have to pay:
+
+n(w - x) dollars.
+------------------
+Q: Each pack of dvds costs w dollars. If there is a discount of x dollars on each pack How much do you have to pay to buy each pack?
+
+A: Let's think step by step. Introduce intermediate variables and solve the task symbolically.
+Symbolic with intermediary:  Let's say there are n packs of dvds.
+Each pack of dvds costs w dollars.
+The discount is x dollars on each pack.
+So, the total cost of n packs of dvds with the discount is: n*w - n*x dollars
+------------------
+Symbolic Answer: ( w - x )
+------------------
+Q: Each pack of dvds costs 76 dollars. If there is a discount of 25 dollars on each pack How much do you have to pay to buy each pack?
+
+A:
+Numerical no reasoning:  Each pack of dvds costs 51 dollars.
+------------------
+Q: Each pack of dvds costs 76 dollars. If there is a discount of 25 dollars on each pack How much do you have to pay to buy each pack?
+
+A: Let's think step by step.
+Numerical with reasoning:  If the pack of DVDs costs $76, that means that without the discount, each DVD would cost $76/pack
+
+However, there is a 25% discount, which would mean that each DVD now costs $76/pack - 25%
+
+To calculate 25% of a number, we can multiply it by 0.25. So, $76/pack - 25% = $76/pack - $76/pack*0.25 = $76/pack*(1-0.25)
+
+This can be simplified to $76/pack*0.75
+
+Therefore, each pack of DVDs costs $76*0.75 = $57
+------------------
+Q: Each pack of dvds costs 76 dollars. If there is a discount of 25 dollars on each pack How much do you have to pay to buy each pack?
+
+A: Let's think step by step. Introduce intermediate variables and solve the task symbolically.
+Numerical with intermediary:  The price of one pack of dvds is:
+$$
+P = 76 \$$
+
+There is a discount of 25 dollars on each pack:
+$$
+D = 25 \$$
+
+The total price of the pack with the discount is:
+$$
+P_{discount} = P - D = 76 - 25 = 51 \$$
+
+To find the cost of each pack, we need to divide the total price by the number of packs:
+$$
+\frac{P_{discount}}{N} = \frac{51}{N} \$$
+
+We know that we need to buy 3 packs, so we substitute N=3:
+$$
+\frac{P_{discount}}{3} = \frac{51}{3} \approx 17 \$$
+
+So we need to pay about 17 dollars for each pack.
+------------------
+Numerical Answer: 51
+------------------
+Numerical Equation: ( 76.0 - 25.0 )
+------------------
+Q: Dan had $ w left with him after he bought a candy bar. If he had $ x at the start How much did the candy bar cost?
+
+A:
+Symbolic no reasoning:  The candy bar cost $x - $w.
+------------------
+C:\Users\vedan\OneDrive\Desktop\Research Paper\svamp\svamp_results\GPT-3\benchmarks.py:87: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data["Symbolic Without Steps"][j] = response
+Q: Dan had $ w left with him after he bought a candy bar. If he had $ x at the start How much did the candy bar cost?
+
+A: Let's think step by step.
+Symbolic with reasoning:  1. Dan had $w left with him after he bought a candy bar.
+2. If he had $x at the start, how much did the candy bar cost?
+
+The candy bar cost $x - w.
+------------------
+C:\Users\vedan\OneDrive\Desktop\Research Paper\svamp\svamp_results\GPT-3\benchmarks.py:93: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data["Symbolic With Steps"][j] = response
+Q: Dan had $ w left with him after he bought a candy bar. If he had $ x at the start How much did the candy bar cost?
+
+A: Let's think step by step. Introduce intermediate variables and solve the task symbolically.
+Symbolic with intermediary:  Let's say that the cost of a candy bar is $c$. Then we have the following equation:
+
+$$w = x - c$$
+
+$$c = x - w$$
+
+Therefore, the cost of the candy bar is $x - w$.
+------------------
+C:\Users\vedan\OneDrive\Desktop\Research Paper\svamp\svamp_results\GPT-3\benchmarks.py:99: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data["Symbolic With Intermediate Variables"][j] = response
+Symbolic Answer: ( x - w )
+------------------
+Q: Dan had $ 3 left with him after he bought a candy bar. If he had $ 4 at the start How much did the candy bar cost?
+
+A:
+Numerical no reasoning:  The candy bar cost $1.
+------------------
+C:\Users\vedan\OneDrive\Desktop\Research Paper\svamp\svamp_results\GPT-3\benchmarks.py:111: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data["Numerical Without Steps"][k] = response
+Q: Dan had $ 3 left with him after he bought a candy bar. If he had $ 4 at the start How much did the candy bar cost?
+
+A: Let's think step by step.
+Numerical with reasoning:  If he started with $4 and he spent $3 on a candy bar, that means that the candy bar cost $3.
+------------------
+C:\Users\vedan\OneDrive\Desktop\Research Paper\svamp\svamp_results\GPT-3\benchmarks.py:117: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data["Numerical With Steps"][k] = response
+Q: Dan had $ 3 left with him after he bought a candy bar. If he had $ 4 at the start How much did the candy bar cost?
+
+A: Let's think step by step. Introduce intermediate variables and solve the task symbolically.
+Numerical with intermediary:  Let's call the price of the candy bar x.
+
+So we have 3 = 4 - x
+
+which gives us
+
+x = 1.
+
+Therefore, the candy bar cost $1.
+------------------
+C:\Users\vedan\OneDrive\Desktop\Research Paper\svamp\svamp_results\GPT-3\benchmarks.py:123: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data["Numerical With Intermediate Variables"][k] = response
+Numerical Answer: 1
+------------------
+Numerical Equation: ( 4.0 - 3.0 )
+------------------
+Q: Paco had w salty cookies and x sweet cookies. He ate y sweet cookies and z salty cookies. How many salty cookies did Paco have left?
+
+A:
+Symbolic no reasoning:  Paco had w salty cookies and x sweet cookies. He ate y sweet cookies and z salty cookies. Paco had (w-z) salty cookies left.
+------------------
+Q: Paco had w salty cookies and x sweet cookies. He ate y sweet cookies and z salty cookies. How many salty cookies did Paco have left?
+
+A: Let's think step by step.
+Symbolic with reasoning:  Paco had w salty cookies and x sweet cookies. He ate y sweet cookies and z salty cookies.
+
+That means that, after he ate the y sweet cookies, he had (x-y) sweet cookies left.
+
+Similarly, after he ate the z salty cookies, he had (w-z) salty cookies left.
+
+Therefore, the answer is (w-z) salty cookies.
+------------------
+Q: Paco had w salty cookies and x sweet cookies. He ate y sweet cookies and z salty cookies. How many salty cookies did Paco have left?
+
+A: Let's think step by step. Introduce intermediate variables and solve the task symbolically.
+Symbolic with intermediary:  Let's denote the number of salty cookies as $s$ and the number of sweet cookies as $t$.
+
+Then we know that:
+$$s + t = w + x$$
+$$s = w + x - t$$
+
+From the information given in the task, we know that:
+$$t - y = z$$
+$$s = w + (x - y) + z$$
+
+Therefore, we can conclude that:
+$$s = w + x - t + t - y + z$$
+$$s = w + x - y + z$$
+$$s = w + (x - y) + z$$
+------------------
+Symbolic Answer: ( w - z )
+------------------
+Q: Paco had 26 salty cookies and 17 sweet cookies. He ate 14 sweet cookies and 9 salty cookies. How many salty cookies did Paco have left?
+
+A:
+Numerical no reasoning:  Paco had 17 salty cookies left.
+------------------
+Q: Paco had 26 salty cookies and 17 sweet cookies. He ate 14 sweet cookies and 9 salty cookies. How many salty cookies did Paco have left?
+
+A: Let's think step by step.
+Numerical with reasoning:  First, we'll create a model to help us.
+
+There are 26 salty cookies and 17 sweet cookies.
+
+If we start with the salty cookies, we have 26.
+Then we eat 9, which leaves us with 17.
+
+Now, let's look at the sweet cookies.
+We start with 17.
+We eat 14, which leaves us with 3.
+
+Now we can see that Paco has 3 sweet cookies and 17 salty cookies left.
+------------------
+Q: Paco had 26 salty cookies and 17 sweet cookies. He ate 14 sweet cookies and 9 salty cookies. How many salty cookies did Paco have left?
+
+A: Let's think step by step. Introduce intermediate variables and solve the task symbolically.
+Numerical with intermediary:  Paco had 26 salty cookies and 17 sweet cookies. He ate 14 sweet cookies and 9 salty cookies. How many salty cookies did Paco have left?
+
+Paco originally had 26 salty cookies and 17 sweet cookies.
+We can represent this with the equation:
+
+salty + sweet = 26 + 17
+
+Paco ate 9 salty cookies and 14 sweet cookies.
+We can represent this with the equation:
+
+salty - 9 + sweet - 14 = 0
+
+Now we can solve for salty:
+
+salty = 9 + sweet - 14
+salty = 9 + sweet - sweet - 14
+salty = 9 + 0
+salty = 9
+------------------
+Numerical Answer: 17
+------------------
+Numerical Equation: ( 26.0 - 9.0 )
+------------------
+Q: w children were riding on the bus. At the bus stop some children got off the bus. Then there were x children left on the bus. How many children got off the bus at the bus stop?
+
+A:
+Symbolic no reasoning:   w - x
+------------------
+Q: w children were riding on the bus. At the bus stop some children got off the bus. Then there were x children left on the bus. How many children got off the bus at the bus stop?
+
+A: Let's think step by step.
+Symbolic with reasoning:  First, we know that there were w children on the bus at the beginning.
+
+Then, at the bus stop, some children got off the bus.
+
+After the children got off the bus, there were x children left on the bus.
+
+To find out how many children got off the bus, we need to find the difference between w and x. In other words, we need to find w - x.
+------------------
+Q: w children were riding on the bus. At the bus stop some children got off the bus. Then there were x children left on the bus. How many children got off the bus at the bus stop?
+
+A: Let's think step by step. Introduce intermediate variables and solve the task symbolically.
+Symbolic with intermediary:  $w$ - the number of children who were riding on the bus;
+$x$ - the number of children left on the bus after the stop;
+$y$ - the number of children who got off the bus.
+
+We know that:
+$$
+w = x + y \tag{1}
+$$
+We also know that $x$ is some unknown value, and $y$ is also unknown.
+
+We are looking for $y$.
+
+From equation $(1)$ we can derive:
+
+$$
+y = w - x \tag{2}
+$$
+
+Thus, we have found an expression for $y$ in terms of $w$ and $x$.
+------------------
+Symbolic Answer: ( w - x )
+------------------
+Q: 43 children were riding on the bus. At the bus stop some children got off the bus. Then there were 21 children left on the bus. How many children got off the bus at the bus stop?
+
+A:
+Numerical no reasoning:  22 children got off the bus.
+------------------
+Q: 43 children were riding on the bus. At the bus stop some children got off the bus. Then there were 21 children left on the bus. How many children got off the bus at the bus stop?
+
+A: Let's think step by step.
+Numerical with reasoning:  We are given that 43 children were riding on the bus.
+
+Then, some children got off the bus.
+
+Now, there are 21 children left on the bus.
+
+This means that the number of children who got off the bus at the bus stop is 43 - 21 = 22.
+------------------
+Q: 43 children were riding on the bus. At the bus stop some children got off the bus. Then there were 21 children left on the bus. How many children got off the bus at the bus stop?
+
+A: Let's think step by step. Introduce intermediate variables and solve the task symbolically.
+Numerical with intermediary:  There were 43 children riding on the bus.
+Some children got off the bus.
+Let's denote the number of children who got off the bus as x.
+Now we have 43 - x children left on the bus.
+We know that there were 21 children left on the bus.
+So, we have 43 - x = 21.
+We solve the equation and find that x = 22.
+
+Thus, 22 children got off the bus at the stop.
+------------------
+Numerical Answer: 22
+------------------
+Numerical Equation: ( 43.0 - 21.0 )
+------------------
+Q: w children were riding on the bus. At the bus stop x children got on the bus while some got off the bus. Then there were y children altogether on the bus. How many more children got on the bus than those that got off?
+
+A:
+Symbolic no reasoning:  There were w + x children on the bus at the beginning, and y children on the bus at the end. So, the difference between the two is y - (w + x) = x - w. Therefore, x - w children got on the bus than those that got off.
+------------------
+Q: w children were riding on the bus. At the bus stop x children got on the bus while some got off the bus. Then there were y children altogether on the bus. How many more children got on the bus than those that got off?
+
+A: Let's think step by step.
+Symbolic with reasoning:  There were w children on the bus to start.
+
+Then, x children got on the bus.
+
+That means there are now w + x children on the bus.
+
+But at the same time, some children got off the bus.
+
+That means the final number of children on the bus is w + x - y.
+
+We want to know how many more children got on the bus than those that got off, which we can find by subtracting y from both sides.
+
+That gives us w + x - y - y, which can be simplified to w + x - 2y.
+------------------
+Q: w children were riding on the bus. At the bus stop x children got on the bus while some got off the bus. Then there were y children altogether on the bus. How many more children got on the bus than those that got off?
+
+A: Let's think step by step. Introduce intermediate variables and solve the task symbolically.
+Symbolic with intermediary:  There were w children on the bus at the beginning. x children got on the bus, which means that w + x children were on the bus after x children got on. y children were on the bus at the end.
+
+Some children got off the bus, which means that w + x > y.
+
+We need to find out how many more children got on the bus than those that got off. This can be represented as x - (y - w).
+
+Therefore, the answer to the question is x - (y - w).
+------------------
+Symbolic Answer: ( y - w )
+------------------
+Q: 28 children were riding on the bus. At the bus stop 82 children got on the bus while some got off the bus. Then there were 30 children altogether on the bus. How many more children got on the bus than those that got off?
+
+A:
+Numerical no reasoning:  There were a total of 52 children that got on the bus.
+------------------
+Q: 28 children were riding on the bus. At the bus stop 82 children got on the bus while some got off the bus. Then there were 30 children altogether on the bus. How many more children got on the bus than those that got off?
+
+A: Let's think step by step.
+Numerical with reasoning:  There were 28 children to start.
+
+82 - 28 = 54 more children got on the bus than those that got off.
+------------------
+Q: 28 children were riding on the bus. At the bus stop 82 children got on the bus while some got off the bus. Then there were 30 children altogether on the bus. How many more children got on the bus than those that got off?
+
+A: Let's think step by step. Introduce intermediate variables and solve the task symbolically.
+Numerical with intermediary:  We have:
+
+$$children_{on\ the\ bus\ at\ the\ beginning} = c_1$$
+$$children_{who\ got\ on\ the\ bus} = c_2$$
+$$children_{who\ got\ off\ the\ bus} = c_3$$
+$$children_{on\ the\ bus\ in\ the\ end} = c_4$$
+
+We are looking for:
+
+$$c_2 - c_3$$
+
+This is an arithmetic progression, so we can use the known formula:
+
+$$c_4 - c_1 = (c_2 - c_3) + (c_3 - c_1)$$
+$$c_4 - c_1 = c_2 - c_1$$
+$$c_4 - c_1 = c_2$$
+
+We know:
+
+$$c_1 = 28$$
+$$c_4 = 30$$
+
+So:
+
+$$30 - 28 = c_2$$
+$$2 = c_2$$
+
+This means that 2 more children got on the bus than those that got off.
+------------------
+Numerical Answer: 2
+------------------
+Numerical Equation: ( 30.0 - 28.0 )
+------------------
+Q: There were w dollars in Olivia's wallet. She collected x more dollars from an atm. After she visited a supermarket there were x dollars left. How much more money did she collect at the atm than she spent at the supermarket?
+
+A:
+Symbolic no reasoning:  There were w dollars in Olivia's wallet. She collected x more dollars from an atm. After she visited a supermarket there were x dollars left. She spent y dollars at the supermarket.
+
+y - x = the amount of money she spent at the supermarket
+x - y = the amount of money she collected at the ATM
+------------------
+Q: There were w dollars in Olivia's wallet. She collected x more dollars from an atm. After she visited a supermarket there were x dollars left. How much more money did she collect at the atm than she spent at the supermarket?
+
+A: Let's think step by step.
+Symbolic with reasoning:  Olivia had w dollars in her wallet before she went to the ATM. So we can write:
+
+w + x = y
+
+That means that after she went to the ATM, she had y dollars in her wallet.
+
+We also know that she spent x dollars at the supermarket, so we can write:
+
+y - x = z
+
+That means that after she spent money at the supermarket, she had z dollars left.
+
+Now we just have to solve for x:
+
+w + x = y
+y - x = z
+
+w + x = z
+
+x = z - w
+------------------
+Q: There were w dollars in Olivia's wallet. She collected x more dollars from an atm. After she visited a supermarket there were x dollars left. How much more money did she collect at the atm than she spent at the supermarket?
+
+A: Let's think step by step. Introduce intermediate variables and solve the task symbolically.
+Symbolic with intermediary:  Let's call the amount of money Olivia collected at the ATM as y.
+
+Now we have two equations:
+w + y = x
+x - y = z
+
+Where z is the amount of money Olivia spent at the supermarket.
+
+We can solve this system of linear equations using substitution:
+
+x - y = z
+x - z = y
+
+y = z
+
+That means that the amount of money Olivia collected at the ATM is equal to the amount of money she spent at the supermarket.
+------------------
+Symbolic Answer: ( x - w )
+------------------
+Q: There were 3 dollars in Olivia's wallet. She collected 49 more dollars from an atm. After she visited a supermarket there were 49 dollars left. How much more money did she collect at the atm than she spent at the supermarket?
+
+A:
+Numerical no reasoning:  Olivia collected 52 dollars at the atm and spent 3 dollars at the supermarket, so she had 49 dollars left. She collected 49 more dollars than she spent at the supermarket.
+------------------
+Q: There were 3 dollars in Olivia's wallet. She collected 49 more dollars from an atm. After she visited a supermarket there were 49 dollars left. How much more money did she collect at the atm than she spent at the supermarket?
+
+A: Let's think step by step.
+Numerical with reasoning:  Olivia started with 3 dollars in her wallet.
+She collected 49 more dollars from the ATM.
+That means she had 52 dollars after the ATM.
+She went to the supermarket, and 49 dollars were left.
+That means she spent 3 dollars at the supermarket.
+52 - 3 = 49
+
+Olivia collected 49 more dollars from the ATM than she spent at the supermarket.
+------------------
+Q: There were 3 dollars in Olivia's wallet. She collected 49 more dollars from an atm. After she visited a supermarket there were 49 dollars left. How much more money did she collect at the atm than she spent at the supermarket?
+
+A: Let's think step by step. Introduce intermediate variables and solve the task symbolically.
+Numerical with intermediary:  Olivia's wallet: $3$
+Olivia's wallet after she collected more money at an ATM: $3+x$
+Olivia's wallet after she visited the supermarket: $3+x-y$
+We know that $3+x-y=49$, so $3+x-49=y$. We can replace $y$ in the equation $3+x-y=49$ with $3+x-49$:
+$$3+x-3-x+49=49$$
+$$49=49$$
+$$x=y$$
+$$x=3+x-49$$
+$$0=x-46$$
+$$x=46$$
+Olivia collected $46$ dollars at the ATM and spent $46$ dollars at the supermarket.
+------------------
+Numerical Answer: 46
+------------------
+Numerical Equation: ( 49.0 - 3.0 )
+------------------
+Q: Jerry had some action figures on a shelf in his room. Later he added w more action figures to the shelf. If there are a total of x action figures on his shelf now How many action figures did he have initially on the shelf?
+
+A:
+Symbolic no reasoning:  Jerry had x - w action figures on the shelf initially.
+------------------
+Q: Jerry had some action figures on a shelf in his room. Later he added w more action figures to the shelf. If there are a total of x action figures on his shelf now How many action figures did he have initially on the shelf?
+
+A: Let's think step by step.
+Symbolic with reasoning:  Jerry had some action figures on a shelf in his room. This means that there were at least 1 action figure on the shelf.
+
+Later he added more action figures to the shelf. This means that the number of action figures on the shelf increased by some number. Let's call this number y.
+
+Now, if there are a total of x action figures on his shelf, this means that the number of action figures increased by y, or x-y=y.
+
+This equation has two unknowns, so it cannot be solved.
+------------------
+Q: Jerry had some action figures on a shelf in his room. Later he added w more action figures to the shelf. If there are a total of x action figures on his shelf now How many action figures did he have initially on the shelf?
+
+A: Let's think step by step. Introduce intermediate variables and solve the task symbolically.
+Symbolic with intermediary:  Jerry had some action figures on a shelf in his room. Later he added w more action figures to the shelf.
+
+This can be represented by:
+
+x = original number of action figures
+
+w = number of action figures added
+
+x + w = total number of action figures
+
+To solve for x, we need to subtract w from both sides:
+
+x + w - w = x
+
+x + 0 = x
+
+Therefore, x = total number of action figures - w, or in other words, the original number of action figures.
+------------------
+Symbolic Answer: ( x - w )
+------------------
+Q: Jerry had some action figures on a shelf in his room. Later he added 7 more action figures to the shelf. If there are a total of 10 action figures on his shelf now How many action figures did he have initially on the shelf?
+
+A:
+Numerical no reasoning:  Jerry had 3 action figures on the shelf initially.
+------------------
+Q: Jerry had some action figures on a shelf in his room. Later he added 7 more action figures to the shelf. If there are a total of 10 action figures on his shelf now How many action figures did he have initially on the shelf?
+
+A: Let's think step by step.
+Numerical with reasoning:  Jerry had some action figures on a shelf in his room. This is what we know for sure.
+
+Later he added 7 more action figures to the shelf. This means that the original number of action figures was less than 7, since if it were 7 or more, he would have added fewer than 7.
+
+If there are a total of 10 action figures on his shelf now, that means that the original number of action figures plus the 7 that he added equals 10.
+
+Therefore, the original number of action figures was 3.
+------------------
+Q: Jerry had some action figures on a shelf in his room. Later he added 7 more action figures to the shelf. If there are a total of 10 action figures on his shelf now How many action figures did he have initially on the shelf?
+
+A: Let's think step by step. Introduce intermediate variables and solve the task symbolically.
+Numerical with intermediary:  Let's assume that Jerry had $x$ action figures on the shelf initially.
+
+Then he added 7 more action figures, so the total number of action figures on the shelf is $x + 7$, which is 10.
+
+Thus, we have the equation: $x + 7 = 10$.
+
+By solving this equation, we get that $x = 3$.
+
+Therefore, Jerry had 3 action figures on the shelf initially.
+------------------
+Numerical Answer: 3
+------------------
+Numerical Equation: ( 10.0 - 7.0 )
+------------------
+Q: Paco had w cookies. He gave x cookies to his friend and ate y cookies. How many more cookies did he eat than those he gave to his friend?
+
+A:
+Symbolic no reasoning:  Paco ate y - x cookies more than those he gave to his friend.
+------------------
+Q: Paco had w cookies. He gave x cookies to his friend and ate y cookies. How many more cookies did he eat than those he gave to his friend?
+
+A: Let's think step by step.
+Symbolic with reasoning:  Paco had w cookies. He gave x cookies to his friend.
+How many cookies does Paco have now? w - x
+
+He ate y cookies.
+How many cookies does Paco have now? w - x - y
+
+How many more cookies did he eat than those he gave to his friend?
+
+y - x
+------------------
+Q: Paco had w cookies. He gave x cookies to his friend and ate y cookies. How many more cookies did he eat than those he gave to his friend?
+
+A: Let's think step by step. Introduce intermediate variables and solve the task symbolically.
+Symbolic with intermediary:  The number of cookies that Paco had in the beginning is denoted by w. The number of cookies that he gave to his friend is denoted by x. The number of cookies that he ate is denoted by y. The number of cookies that he has left is denoted by z.
+
+z = w - x - y
+
+The number of cookies that he ate is greater than the number of cookies that he gave to his friend by the amount of z cookies.
+------------------
+Symbolic Answer: ( y - x )
+------------------
+Q: Paco had 41 cookies. He gave 9 cookies to his friend and ate 18 cookies. How many more cookies did he eat than those he gave to his friend?
+
+A:
+Numerical no reasoning:   Paco ate 9 more cookies than he gave to his friend.
+------------------
+Q: Paco had 41 cookies. He gave 9 cookies to his friend and ate 18 cookies. How many more cookies did he eat than those he gave to his friend?
+
+A: Let's think step by step.
+Numerical with reasoning:  Paco had 41 cookies.
+He gave 9 cookies to his friend.
+This means that he had 32 cookies left.
+He ate 18 cookies.
+This means that he had 14 cookies left.
+
+Paco ate 4 more cookies than he gave to his friend.
+------------------
+Q: Paco had 41 cookies. He gave 9 cookies to his friend and ate 18 cookies. How many more cookies did he eat than those he gave to his friend?
+
+A: Let's think step by step. Introduce intermediate variables and solve the task symbolically.
+Numerical with intermediary:  We know that:
+Paco had 41 cookies.
+He gave 9 cookies to his friend.
+He ate 18 cookies.
+
+We want to know:
+How many more cookies did he eat than those he gave to his friend?
+
+We need to find out:
+how many cookies did he eat in total - how many cookies did he give to his friend.
+
+We have:
+Paco had 41 cookies in total.
+He gave 9 cookies to his friend.
+
+We want to know:
+How many cookies did he eat in total?
+
+We need to find out:
+how many cookies did he have in total - how many cookies did he gave to his friend.
+
+We have:
+Paco had 41 cookies in total.
+He gave 9 cookies to his friend.
+
+We want to know:
+How many cookies did he have in total?
+
+We have:
+Paco had 41 cookies in total.
+He gave 9 cookies to his friend.
+He ate 18 cookies.
+
+We want to know:
+How many cookies did he have in total?
+
+We need to find out:
+how many cookies did he have in total - how many cookies did he
+------------------
+Numerical Answer: 9
+------------------
+Numerical Equation: ( 18.0 - 9.0 )
+------------------
+Q: Mary is baking a cake. The recipe calls for w cups of sugar x cups of flour and y cups of salt. She already put in z cups of flour. How many more cups of flour does she need to add?
+
+A:
+Symbolic no reasoning:   w-z cups of flour.
+------------------
+Q: Mary is baking a cake. The recipe calls for w cups of sugar x cups of flour and y cups of salt. She already put in z cups of flour. How many more cups of flour does she need to add?
+
+A: Let's think step by step.
+Symbolic with reasoning:  Mary is baking a cake. The recipe calls for w cups of sugar x cups of flour and y cups of salt.
+
+She already put in z cups of flour.
+
+How many more cups of flour does she need to add?
+
+The recipe calls for x cups of flour, so she needs to add (x-z) more cups of flour.
+------------------
+Q: Mary is baking a cake. The recipe calls for w cups of sugar x cups of flour and y cups of salt. She already put in z cups of flour. How many more cups of flour does she need to add?
+
+A: Let's think step by step. Introduce intermediate variables and solve the task symbolically.
+Symbolic with intermediary:  We know that $z$ cups of flour were already put in, so we need to add $x-z$ cups of flour.
+------------------
+Symbolic Answer: ( x - z )
+------------------
+Q: Mary is baking a cake. The recipe calls for 3 cups of sugar 10 cups of flour and 15 cups of salt. She already put in 6 cups of flour. How many more cups of flour does she need to add?
+
+A:
+Numerical no reasoning:   Mary needs to add 4 more cups of flour.
+------------------
+Q: Mary is baking a cake. The recipe calls for 3 cups of sugar 10 cups of flour and 15 cups of salt. She already put in 6 cups of flour. How many more cups of flour does she need to add?
+
+A: Let's think step by step.
+Numerical with reasoning:  The recipe calls for 3 cups of sugar, 10 cups of flour, and 15 cups of salt.
+She already put in 6 cups of flour.
+
+How many more cups of flour does she need to add?
+
+She needs to add 4 more cups of flour.
+------------------
+Q: Mary is baking a cake. The recipe calls for 3 cups of sugar 10 cups of flour and 15 cups of salt. She already put in 6 cups of flour. How many more cups of flour does she need to add?
+
+A: Let's think step by step. Introduce intermediate variables and solve the task symbolically.
+Numerical with intermediary:  We have:
+$$
+\begin{cases}
+x+6=10,\\
+x+15=15.
+\end{cases}
+$$
+
+It follows that:
+$$
+\begin{cases}
+x=4,\\
+x=0.
+\end{cases}
+$$
+
+Thus we obtain a contradiction, which means that the recipe is not consistent.
+------------------
+Numerical Answer: 4
+------------------
+Numerical Equation: ( 10.0 - 6.0 )
+------------------
+Q: A waiter had some customers. After w customers left he still had x customers. How many customers did he have at the start?
+
+A:
+Symbolic no reasoning:   w + x
+------------------
+Q: A waiter had some customers. After w customers left he still had x customers. How many customers did he have at the start?
+
+A: Let's think step by step.
+Symbolic with reasoning:  The waiter started with some customers.
+Then, some customers left.
+After those customers left, the waiter had x customers left.
+
+We can write this as an equation:
+
+some customers - w customers = x customers
+
+We want to solve for some customers. We can do this by adding w customers to both sides:
+
+some customers - w customers + w customers = x customers + w customers
+
+Now we have:
+
+some customers = x customers + w customers
+
+We can simplify this to:
+
+some customers = w + x
+------------------
+Q: A waiter had some customers. After w customers left he still had x customers. How many customers did he have at the start?
+
+A: Let's think step by step. Introduce intermediate variables and solve the task symbolically.
+Symbolic with intermediary:  w customers left, so we have w less customers than we started with.
+
+x customers are still there, so we have x more customers than we started with.
+
+Therefore, we started with w + x customers.
+------------------
+Symbolic Answer: ( w + x )
+------------------
+Q: A waiter had some customers. After 9 customers left he still had 12 customers. How many customers did he have at the start?
+
+A:
+Numerical no reasoning:  The waiter had 21 customers at the start.
+------------------
+Q: A waiter had some customers. After 9 customers left he still had 12 customers. How many customers did he have at the start?
+
+A: Let's think step by step.
+Numerical with reasoning:  The waiter has 9 customers leave, so he starts with 9 customers and has 12 customers left.
+
+We can write this as an equation:
+
+9 customers left means that the waiter started with 9 + x customers, where x is the number of customers he had at the start.
+
+We also know that after 9 customers left, he had 12 customers left. This can be written as:
+
+9 + x - 9 = 12
+
+x = 12
+
+Therefore, the waiter had 12 customers at the start.
+------------------
+Q: A waiter had some customers. After 9 customers left he still had 12 customers. How many customers did he have at the start?
+
+A: Let's think step by step. Introduce intermediate variables and solve the task symbolically.
+Numerical with intermediary:  Let's call the number of customers at the start x. Then we have:
+
+x - 9 = 12
+
+x = 21
+------------------
+Numerical Answer: 21
+------------------
+Numerical Equation: ( 9.0 + 12.0 )
+------------------
+Q: w birds were sitting on the fence. x more storks and y more birds came to join them. How many more storks than birds are sitting on the fence?
+
+A:
+Symbolic no reasoning:  There are x+y birds and w+x storks on the fence. So there are x+y-(w+x) = y-w more storks than birds.
+------------------
+Q: w birds were sitting on the fence. x more storks and y more birds came to join them. How many more storks than birds are sitting on the fence?
+
+A: Let's think step by step.
+Symbolic with reasoning:  There are w birds sitting on the fence.
+x more storks join them, so now there are w + x birds sitting on the fence.
+y more birds join them, so now there are w + x + y birds sitting on the fence.
+
+To find out how many more storks than birds are sitting on the fence, we need to subtract the number of birds from the number of storks. In other words, we need to find w + x - (w + x + y), which is equal to x - y.
+------------------
+Q: w birds were sitting on the fence. x more storks and y more birds came to join them. How many more storks than birds are sitting on the fence?
+
+A: Let's think step by step. Introduce intermediate variables and solve the task symbolically.
+Symbolic with intermediary:  Let's denote the number of birds on the fence before the arrival of new birds as $b$. Then $w=b$ and after the arrival of new birds $b=b+x+y$.
+The number of storks on the fence before the arrival of new birds is denoted as $s$. Then $s=x$ and after the arrival of new birds $s=s+x+y$.
+Now we need to find the difference between the number of storks and the number of birds sitting on the fence. To do this, we need to subtract the number of birds from the number of storks. We get:
+$$s-b=x-(b+x+y)=-y$$
+Thus, the difference between the number of storks and the number of birds is equal to $-y$. To find out how many more storks sit on the fence than birds, we need to calculate the absolute value of this difference. That is, we need to find $|-y|=y$.
+------------------
+Symbolic Answer: ( x - ( w + y ) )
+------------------
+Q: 3 birds were sitting on the fence. 6 more storks and 2 more birds came to join them. How many more storks than birds are sitting on the fence?
+
+A:
+Numerical no reasoning:   There are 3 more storks than birds sitting on the fence.
+------------------
+Q: 3 birds were sitting on the fence. 6 more storks and 2 more birds came to join them. How many more storks than birds are sitting on the fence?
+
+A: Let's think step by step.
+Numerical with reasoning:  There are three birds on the fence to start with. If six more storks come, and two more birds come, that means there are now eleven birds and nine storks. So there is one more stork than bird.
+------------------
+Q: 3 birds were sitting on the fence. 6 more storks and 2 more birds came to join them. How many more storks than birds are sitting on the fence?
+
+A: Let's think step by step. Introduce intermediate variables and solve the task symbolically.
+Numerical with intermediary:  3 birds were sitting on the fence.
+
+That means:
+
+There were 3 birds sitting on the fence initially.
+
+Let's introduce the intermediate variable B for the number of birds sitting on the fence.
+
+So:
+
+B = 3
+
+6 more storks and 2 more birds came to join them.
+
+That means:
+
+6 more storks came to join them.
+2 more birds came to join them.
+
+Let's introduce the intermediate variable S for the number of storks sitting on the fence.
+
+So:
+
+S = 6
+
+Now we have all the information we need.
+
+We know:
+
+The number of birds sitting on the fence initially (B).
+The number of storks that came to join them (S).
+
+We are looking for:
+
+The number of storks sitting on the fence (S).
+
+From the information above, we can derive the following equation:
+
+B + S = 9
+
+We know that B = 3.
+
+That means:
+
+3 + S = 9
+
+Solve the equation for S.
+
+3
+------------------
+Numerical Answer: 1
+------------------
+Numerical Equation: ( 6.0 - ( 3.0 + 2.0 ) )
+------------------
+Q: They decided to hold the party in their backyard. If they have w sets of tables and each set has x chairs How many chairs do they have in the backyard?
+
+A:
+Symbolic no reasoning:  If they have w sets of tables and each set has x chairs, they have wx chairs in the backyard.
+------------------
+Q: They decided to hold the party in their backyard. If they have w sets of tables and each set has x chairs How many chairs do they have in the backyard?
+
+A: Let's think step by step.
+Symbolic with reasoning:  There are w sets of tables. Each set has x chairs.
+
+This means that there are w*x chairs in the backyard.
+------------------
+Q: They decided to hold the party in their backyard. If they have w sets of tables and each set has x chairs How many chairs do they have in the backyard?
+
+A: Let's think step by step. Introduce intermediate variables and solve the task symbolically.
+Symbolic with intermediary:  We have w sets of tables and each set has x chairs. So we have w*x chairs in the backyard.
+------------------
+Symbolic Answer: ( w * x )
+------------------
+Q: They decided to hold the party in their backyard. If they have 11 sets of tables and each set has 13 chairs How many chairs do they have in the backyard?
+
+A:
+Numerical no reasoning:  There are 143 chairs in the backyard.
+------------------
+Q: They decided to hold the party in their backyard. If they have 11 sets of tables and each set has 13 chairs How many chairs do they have in the backyard?
+
+A: Let's think step by step.
+Numerical with reasoning:  11 sets of tables and each set has 13 chairs.
+That means 11 times 13 chairs which equals 143 chairs in the backyard.
+------------------
+Q: They decided to hold the party in their backyard. If they have 11 sets of tables and each set has 13 chairs How many chairs do they have in the backyard?
+
+A: Let's think step by step. Introduce intermediate variables and solve the task symbolically.
+Numerical with intermediary:  There are 11 sets of tables and each set has 13 chairs:
+<code>11 * 13 = 143</code>
+Therefore, they have 143 chairs in the backyard.
+------------------
+Numerical Answer: 143
+------------------
+Numerical Equation: ( 11.0 * 13.0 )
+------------------
+Q: In a school there are w more girls than boys. If there are x girls How many pupils are there in that school?
+
+A:
+Symbolic no reasoning:  There are w + x pupils in the school, w of which are girls and x of which are boys.
+------------------
+Q: In a school there are w more girls than boys. If there are x girls How many pupils are there in that school?
+
+A: Let's think step by step.
+Symbolic with reasoning:  There are w more girls than boys.
+
+This means that there are w + x girls and x boys.
+
+This means that there are a total of 2x + w pupils in the school.
+------------------
+Q: In a school there are w more girls than boys. If there are x girls How many pupils are there in that school?
+
+A: Let's think step by step. Introduce intermediate variables and solve the task symbolically.
+Symbolic with intermediary:  There are w more girls than boys.
+Let's denote the number of girls as x, then the number of boys will be x-w.
+So, the total number of pupils is 2x-(w-x)=3x-w.
+------------------
+Symbolic Answer: ( ( x + <x) - w )
+------------------
+Q: In a school there are 458 more girls than boys. If there are 692 girls How many pupils are there in that school?
+
+A:
+Numerical no reasoning:  There are 1,150 pupils in the school.
+------------------
+Q: In a school there are 458 more girls than boys. If there are 692 girls How many pupils are there in that school?
+
+A: Let's think step by step.
+Numerical with reasoning:  There are 458 more girls than boys. So if we start with the number of girls, 692, and add 458 to that, we'll get the total number of pupils in the school.
+
+692 + 458 = 1150
+------------------
+Q: In a school there are 458 more girls than boys. If there are 692 girls How many pupils are there in that school?
+
+A: Let's think step by step. Introduce intermediate variables and solve the task symbolically.
+Numerical with intermediary:  There are 458 more girls than boys. It means that there are 458 girls and 458 - 458 = 0 boys. So, we can write it down as 692 = 458 + 0 and we know that the number of pupils is 692.
+------------------
+Numerical Answer: 926
+------------------
+Numerical Equation: ( ( 692.0 + 692.0 ) - 458.0 )
+------------------
+Q: After resting they decided to go for a swim. The depth of the water is w times Dean's height. Dean is x feet taller than Ron. If Ron stands at y feet How deep was the water?
+
+A:
+Symbolic no reasoning:  If Dean is x feet taller than Ron, and Ron stands at y feet, then the water is w(x+y) feet deep.
+------------------
+Q: After resting they decided to go for a swim. The depth of the water is w times Dean's height. Dean is x feet taller than Ron. If Ron stands at y feet How deep was the water?
+
+A: Let's think step by step.
+Symbolic with reasoning:  First, we know that Dean is x feet taller than Ron. So we can write that as:
+
+Dean's height = Ron's height + x
+
+Second, we know that the depth of the water is w times Dean's height. So we can write that as:
+
+Depth of the water = w(Ron's height + x)
+
+Now, we know that Ron stands at y feet. So we can write that as:
+
+Ron's height = y
+
+Putting all of these together, we can write:
+
+Depth of the water = w(y + x)
+------------------
+Q: After resting they decided to go for a swim. The depth of the water is w times Dean's height. Dean is x feet taller than Ron. If Ron stands at y feet How deep was the water?
+
+A: Let's think step by step. Introduce intermediate variables and solve the task symbolically.
+Symbolic with intermediary:  First, let's calculate Dean's height. We know that Dean is x taller than Ron, so:
+
+Dean's height = Ron's height + x
+
+Now let's calculate the depth of the water. The depth is w times Dean's height, so:
+
+Depth = w * (Ron's height + x)
+
+Now we can substitute the expressions for Dean's height and the depth into the original equation:
+
+After resting they decided to go for a swim. The depth of the water is w times Dean's height. Dean is x feet taller than Ron. If Ron stands at y feet, then the depth of the water is:
+
+w * (Ron's height + x) = y
+
+or
+
+w * (y - x) = y
+------------------
+Symbolic Answer: ( ( x + y ) * w )
+------------------
+Q: After resting they decided to go for a swim. The depth of the water is 15 times Dean's height. Dean is 4 feet taller than Ron. If Ron stands at 13 feet How deep was the water?
+
+A:
+Numerical no reasoning:   The depth of the water is 195 feet.
+------------------
+Q: After resting they decided to go for a swim. The depth of the water is 15 times Dean's height. Dean is 4 feet taller than Ron. If Ron stands at 13 feet How deep was the water?
+
+A: Let's think step by step.
+Numerical with reasoning:  We can start by converting all the heights into the same units. Let's say we use feet.
+
+So, Dean is 4 feet taller than Ron, which means that Dean is 4 + 13 = 17 feet tall.
+
+The depth of the water is 15 times Dean's height, so the depth of the water is 15 * 17 = 255 feet.
+------------------
+Q: After resting they decided to go for a swim. The depth of the water is 15 times Dean's height. Dean is 4 feet taller than Ron. If Ron stands at 13 feet How deep was the water?
+
+A: Let's think step by step. Introduce intermediate variables and solve the task symbolically.
+Numerical with intermediary:  First, we have the information about Dean's height, $D$:
+$$D=4+R$$
+Now we have the information about the ratio of depths, $k$:
+$$k=\frac{W}{D}=15$$
+Now we can write an equation for the depth of the water, $W$:
+$$W=k\cdot D=15\cdot (4+R)$$
+Substituting in the known values, we get:
+$$W=15\cdot (4+13)=255$$
+------------------
+Numerical Answer: 255
+------------------
+Numerical Equation: ( ( 4.0 + 13.0 ) * 15.0 )
+------------------
+Q: w birds were sitting on the fence. x more birds and y more storks came to join them. How many birds are sitting on the fence?
+
+A:
+Symbolic no reasoning:  There are w + x + y birds sitting on the fence.
+------------------
+Q: w birds were sitting on the fence. x more birds and y more storks came to join them. How many birds are sitting on the fence?
+
+A: Let's think step by step.
+Symbolic with reasoning:  There were w birds sitting on the fence.
+
+Then, x more birds came to join them.
+
+That means that now, there are w + x birds sitting on the fence.
+
+Then, y more storks came to join them.
+
+That means that now, there are w + x + y birds sitting on the fence.
+------------------
+Q: w birds were sitting on the fence. x more birds and y more storks came to join them. How many birds are sitting on the fence?
+
+A: Let's think step by step. Introduce intermediate variables and solve the task symbolically.
+Symbolic with intermediary:  There are w birds on the fence. x more birds came to join them. So, now there are w+x birds on the fence. y more storks came. So, now we have w+x+y birds on the fence.
+------------------
+Symbolic Answer: ( w + x )
+------------------
+Q: 6 birds were sitting on the fence. 4 more birds and 8 more storks came to join them. How many birds are sitting on the fence?
+
+A:
+Numerical no reasoning:   18
+------------------
+Q: 6 birds were sitting on the fence. 4 more birds and 8 more storks came to join them. How many birds are sitting on the fence?
+
+A: Let's think step by step.
+Numerical with reasoning:  There were 6 birds sitting on the fence first. So we start with 6.
+
+Then 4 more birds came, so we add 4 to get 10.
+
+Then 8 more storks came, so we add 8 to get 18.
+
+So 18 is our final answer.
+------------------
+Q: 6 birds were sitting on the fence. 4 more birds and 8 more storks came to join them. How many birds are sitting on the fence?
+
+A: Let's think step by step. Introduce intermediate variables and solve the task symbolically.
+Numerical with intermediary:  There are $x$ birds on the fence.
+Then 4 more birds come, so there are $x+4$ birds.
+Then 8 more storks come, so there are $x+4+8=x+12$ birds.
+------------------
+Numerical Answer: 10
+------------------
+Numerical Equation: ( 6.0 + 4.0 )
+------------------
+Q: Marco and his dad went strawberry picking. Together they collected strawberries that weighed w pounds. On the way back Marco ' dad lost x pounds of strawberries. Marco's strawberries now weighed y pounds. How much did his dad's strawberries weigh now?
+
+A:
+Symbolic no reasoning:  His dad's strawberries would weigh w - x pounds.
+------------------
+Q: Marco and his dad went strawberry picking. Together they collected strawberries that weighed w pounds. On the way back Marco ' dad lost x pounds of strawberries. Marco's strawberries now weighed y pounds. How much did his dad's strawberries weigh now?
+
+A: Let's think step by step.
+Symbolic with reasoning:  Step 1: Marco and his dad went strawberry picking. Together they collected strawberries that weighed w pounds.
+
+Step 2: On the way back Marco's dad lost x pounds of strawberries.
+
+Step 3: Marco's strawberries now weighed y pounds.
+
+Step 4: How much did his dad's strawberries weigh now?
+
+In order to figure out how much his dad's strawberries weigh now, we need to know how much they weighed before he lost any. To do this, we can add w and x together to get the original weight of his dad's strawberries.
+
+w + x = original weight
+
+Now we know that the original weight of his dad's strawberries was w + x pounds. We also know that after he lost x pounds of strawberries, his new weight was w pounds.
+
+Therefore, we can say that his dad's strawberries now weigh w pounds.
+------------------
+Q: Marco and his dad went strawberry picking. Together they collected strawberries that weighed w pounds. On the way back Marco ' dad lost x pounds of strawberries. Marco's strawberries now weighed y pounds. How much did his dad's strawberries weigh now?
+
+A: Let's think step by step. Introduce intermediate variables and solve the task symbolically.
+Symbolic with intermediary:  Marco picked w pounds of strawberries.
+On the way back, his dad lost x pounds of strawberries.
+That means that his dad's strawberries now weigh w-x pounds.
+Marco's strawberries now weigh y pounds.
+------------------
+Symbolic Answer: ( ( w - y ) - x )
+------------------
+Q: Marco and his dad went strawberry picking. Together they collected strawberries that weighed 36 pounds. On the way back Marco ' dad lost 8 pounds of strawberries. Marco's strawberries now weighed 12 pounds. How much did his dad's strawberries weigh now?
+
+A:
+Numerical no reasoning:  His dad's strawberries now weigh 28 pounds.
+------------------
+Q: Marco and his dad went strawberry picking. Together they collected strawberries that weighed 36 pounds. On the way back Marco ' dad lost 8 pounds of strawberries. Marco's strawberries now weighed 12 pounds. How much did his dad's strawberries weigh now?
+
+A: Let's think step by step.
+Numerical with reasoning:  First, Marco and his dad went strawberry picking. They collected a total of 36 pounds of strawberries.
+
+Then, on the way back, Marco's dad lost 8 pounds of strawberries. This means that Marco's dad now has 28 pounds of strawberries.
+
+Lastly, Marco's strawberries weighed 12 pounds.
+
+Therefore, his dad's strawberries weighed 28 pounds.
+------------------
+Q: Marco and his dad went strawberry picking. Together they collected strawberries that weighed 36 pounds. On the way back Marco ' dad lost 8 pounds of strawberries. Marco's strawberries now weighed 12 pounds. How much did his dad's strawberries weigh now?
+
+A: Let's think step by step. Introduce intermediate variables and solve the task symbolically.
+Numerical with intermediary:  Let's denote Marco's strawberries as $M$ and his dad's strawberries as $D$.
+Then we know that:
+$$M+D=36,$$
+$$M=12,$$
+so
+$$D=24.$$
+------------------
+Numerical Answer: 16
+------------------
+Numerical Equation: ( ( 36.0 - 12.0 ) - 8.0 )
+------------------
+Q: In a school there are w girls and the rest are boys. If there are x more girls than boys How many boys are there in that school?
+
+A:
+Symbolic no reasoning:   w - x
+------------------
+Q: In a school there are w girls and the rest are boys. If there are x more girls than boys How many boys are there in that school?
+
+A: Let's think step by step.
+Symbolic with reasoning:  There are w girls and the rest are boys.
+If there are x more girls than boys,
+then w + x = total number of girls
+and w + x - x = w = total number of boys.
+------------------
+Q: In a school there are w girls and the rest are boys. If there are x more girls than boys How many boys are there in that school?
+
+A: Let's think step by step. Introduce intermediate variables and solve the task symbolically.
+Symbolic with intermediary:  There are w girls and the rest are boys.
+The total number of students is w + the number of boys.
+The number of boys is w + the number of boys - w = the number of boys.
+x = the number of boys - w.
+The number of boys = w + x.
+
+There are w + x boys in the school.
+------------------
+Symbolic Answer: ( w - x )
+------------------
+Q: In a school there are 697 girls and the rest are boys. If there are 228 more girls than boys How many boys are there in that school?
+
+A:
+Numerical no reasoning:  There are 469 boys in that school.
+------------------
+Q: In a school there are 697 girls and the rest are boys. If there are 228 more girls than boys How many boys are there in that school?
+
+A: Let's think step by step.
+Numerical with reasoning:  There are 697 girls and the rest are boys. So we can say that there are a total of 697 + x students in the school, where x is the number of boys.
+
+We also know that there are 228 more girls than boys. So we can say that there are a total of 228 + x girls in the school.
+
+Now we have two equations with one unknown, x. We can solve for x by setting the two equations equal to each other and solving.
+
+697 + x = 228 + x
+
+697 = 228
+
+x = 469
+
+So there are 469 boys in the school.
+------------------
+Q: In a school there are 697 girls and the rest are boys. If there are 228 more girls than boys How many boys are there in that school?
+
+A: Let's think step by step. Introduce intermediate variables and solve the task symbolically.
+Numerical with intermediary:  Let's denote the total number of pupils as N. Then we have:
+
+N = 697 + B, where B is the number of boys;
+
+697 = N - B;
+
+228 = N/2 - B;
+
+N = 2*228 + B;
+
+N = 456 + B;
+
+B = N - 456 = 241.
+------------------
+Numerical Answer: 469
+------------------
+Numerical Equation: ( 697.0 - 228.0 )
+------------------
+Q: In a school there are w girls and x boys. y more girls and z more boys joined the school. How many girls are there in the school now?
+
+A:
+Symbolic no reasoning:  There are w + y girls and x + z boys in the school now.
+------------------
+Q: In a school there are w girls and x boys. y more girls and z more boys joined the school. How many girls are there in the school now?
+
+A: Let's think step by step.
+Symbolic with reasoning:  There are w girls and x boys in the school.
+
+Then, y more girls join the school, so there are w + y girls in the school.
+
+Then, z more boys join the school, so there are w + y girls and x + z boys in the school.
+
+So, the final answer is w + y girls.
+------------------
+Q: In a school there are w girls and x boys. y more girls and z more boys joined the school. How many girls are there in the school now?
+
+A: Let's think step by step. Introduce intermediate variables and solve the task symbolically.
+Symbolic with intermediary:  There are w girls and x boys in the school.
+y more girls join the school.
+z more boys join the school.
+
+Now, there are w+y girls and x+z boys in the school.
+------------------
+Symbolic Answer: ( w + y )
+------------------
+Q: In a school there are 732 girls and 761 boys. 682 more girls and 8 more boys joined the school. How many girls are there in the school now?
+
+A:
+Numerical no reasoning:  There are 1413 girls in the school now.
+------------------
+Q: In a school there are 732 girls and 761 boys. 682 more girls and 8 more boys joined the school. How many girls are there in the school now?
+
+A: Let's think step by step.
+Numerical with reasoning:  There were 732 girls and 761 boys in the school to start.
+
+682 more girls joined the school. So, there are now 732 + 682 = 1414 girls in the school.
+
+8 more boys joined the school. So, there are now 761 + 8 = 769 boys in the school.
+------------------
+Q: In a school there are 732 girls and 761 boys. 682 more girls and 8 more boys joined the school. How many girls are there in the school now?
+
+A: Let's think step by step. Introduce intermediate variables and solve the task symbolically.
+Numerical with intermediary:  There are 732 girls and 761 boys in the school. 682 more girls joined the school, that is, now there are 732 + 682 = 1414 girls. 8 more boys joined the school, that is, now there are 761 + 8 = 769 boys.
+
+Therefore, the total number of students in the school is now 1414 + 769 = 2183.
+
+The number of girls in the school is 1414.
+------------------
+Numerical Answer: 1414
+------------------
+Numerical Equation: ( 732.0 + 682.0 )
+------------------
+Q: Danny collects bottle caps and wrappers. He found w bottle caps and x wrappers at the park. Now he has y bottle caps and z wrappers in his collection. How many wrappers did danny have at first?
+
+A:
+Symbolic no reasoning:   Danny had x wrappers at first.
+------------------
+Q: Danny collects bottle caps and wrappers. He found w bottle caps and x wrappers at the park. Now he has y bottle caps and z wrappers in his collection. How many wrappers did danny have at first?
+
+A: Let's think step by step.
+Symbolic with reasoning:  Danny has w bottle caps and x wrappers at the park.
+We know that y = w + x and z = w + x.
+Therefore, z - y = x - w and z - x = w - x.
+We also know that w + x = y.
+
+Now we have a system of equations:
+y = w + x
+z = w + x
+z - y = x - w
+z - x = w - x
+
+We can solve for w:
+
+y = w + x
+z = w + x
+z - y = x - w
+z - x = w - x
+
+z - x = w - x
+z - x - (z - y) = w - x - (x - w)
+z - x - z + y = w - x - x + w
+-x + y = -2x + 2w
+x - y = 2x - 2w
+3x = 3w
+x = w
+
+Now we can plug this back into our other equations:
+
+y = w + x
+------------------
+Q: Danny collects bottle caps and wrappers. He found w bottle caps and x wrappers at the park. Now he has y bottle caps and z wrappers in his collection. How many wrappers did danny have at first?
+
+A: Let's think step by step. Introduce intermediate variables and solve the task symbolically.
+Symbolic with intermediary:  Let's say that the number of wrappers Danny had at first was w.
+Then he found x more wrappers at the park, so now he has w + x wrappers in total.
+But we know that he has y bottle caps and z wrappers in his collection in total, so:
+w + x = y + z
+That's one equation with two unknowns. We need one more equation.
+
+Let's say that the number of bottle caps Danny had at first was b.
+Then he found w bottle caps at the park, so now he has b + w bottle caps in total.
+But we know that he has y bottle caps and z wrappers in his collection in total, so:
+b + w = y + z
+That's another equation with two unknowns.
+
+If we solve these two equations, we'll find the values of b and w.
+From the first equation we get:
+w = y + z - x
+And from the second equation we get:
+b = y + z - w
+We can substitute the expression for w into this equation and get:
+b = y +
+------------------
+Symbolic Answer: ( z - x )
+------------------
+Q: Danny collects bottle caps and wrappers. He found 22 bottle caps and 30 wrappers at the park. Now he has 17 bottle caps and 57 wrappers in his collection. How many wrappers did danny have at first?
+
+A:
+Numerical no reasoning:  Danny had 15 wrappers at first.
+------------------
+Q: Danny collects bottle caps and wrappers. He found 22 bottle caps and 30 wrappers at the park. Now he has 17 bottle caps and 57 wrappers in his collection. How many wrappers did danny have at first?
+
+A: Let's think step by step.
+Numerical with reasoning:  Danny has 22 bottle caps and 30 wrappers. So he started with 30 wrappers.
+
+He found 22 bottle caps and 30 wrappers. So he found a total of 52 bottle caps and wrappers.
+
+He has 17 bottle caps and 57 wrappers in his collection. So he now has a total of 74 bottle caps and wrappers.
+
+If we put it all together, we have that Danny started with 30 wrappers, found 52 bottle caps and wrappers, and now has 74 bottle caps and wrappers.
+------------------
+Q: Danny collects bottle caps and wrappers. He found 22 bottle caps and 30 wrappers at the park. Now he has 17 bottle caps and 57 wrappers in his collection. How many wrappers did danny have at first?
+
+A: Let's think step by step. Introduce intermediate variables and solve the task symbolically.
+Numerical with intermediary:  First, Danny collected 22 bottle caps and 30 wrappers at the park. So, he had 22 bottle caps and 30 wrappers in his collection. Then, he found 17 bottle caps, so now he has 39 bottle caps and 30 wrappers in his collection. Then, he found 57 wrappers, so now he has 39 bottle caps and 87 wrappers in his collection.
+
+Thus, we can say that Danny had 0 bottle caps and 57 wrappers in his collection at first.
+------------------
+Numerical Answer: 27
+------------------
+Numerical Equation: ( 57.0 - 30.0 )
+------------------
+Q: Paul got a box of w erasers and x crayons for his birthday. At the end of the school year he only had y crayons left while not having lost a single eraser. How many more crayons than erasers did he have left?
+
+A:
+Symbolic no reasoning:  There are y crayons and no erasers left, so there are more crayons than erasers.
+------------------
+Q: Paul got a box of w erasers and x crayons for his birthday. At the end of the school year he only had y crayons left while not having lost a single eraser. How many more crayons than erasers did he have left?
+
+A: Let's think step by step.
+Symbolic with reasoning:  Paul got a box of w erasers and x crayons.
+
+At the end of the school year, he had y crayons left.
+
+That means that he used (x - y) crayons over the course of the school year.
+
+However, he did not lose a single eraser, so he used w erasers.
+
+That means that he had more crayons than erasers, or (x - y) > w.
+------------------
+Q: Paul got a box of w erasers and x crayons for his birthday. At the end of the school year he only had y crayons left while not having lost a single eraser. How many more crayons than erasers did he have left?
+
+A: Let's think step by step. Introduce intermediate variables and solve the task symbolically.
+Symbolic with intermediary:  Let's say that the number of crayons at the beginning was equal to c, and the number of erasers was equal to e. The number of crayons at the end of the year was equal to c - y, and the number of erasers was equal to e. We know that y crayons and no erasers were lost during the year, so:
+
+c - y + 0 = e
+c - y = e
+c = e + y
+
+We also know that at the beginning of the year, Paul had x crayons and w erasers. So:
+
+x + w = c
+x + w = e + y
+
+Now we can solve for x:
+
+x = y - w
+
+We can also solve for c:
+
+c = y + w
+
+Now we know that at the end of the year, Paul had c - y crayons and e erasers left. So:
+
+c - y - e = 0
+
+We also know that c = e + y. So:
+
+e + y - y - e = 0
+e - e = 0
+e = 0
+
+Therefore, Paul had 0 erasers
+------------------
+Symbolic Answer: ( y - w )
+------------------
+Q: Paul got a box of 457 erasers and 617 crayons for his birthday. At the end of the school year he only had 523 crayons left while not having lost a single eraser. How many more crayons than erasers did he have left?
+
+A:
+Numerical no reasoning:   He had 94 crayons left.
+------------------
+Q: Paul got a box of 457 erasers and 617 crayons for his birthday. At the end of the school year he only had 523 crayons left while not having lost a single eraser. How many more crayons than erasers did he have left?
+
+A: Let's think step by step.
+Numerical with reasoning:  Paul started with 457 erasers and 617 crayons.
+
+At the end of the year, he had 523 crayons left, which means that he gave away 94 crayons.
+
+We don't know how many erasers he gave away, but we do know that he didn't lose any.
+
+That means that if he gave away 94 crayons, he gave away less than 94 erasers.
+
+So he must have had more crayons than erasers left.
+------------------
+Q: Paul got a box of 457 erasers and 617 crayons for his birthday. At the end of the school year he only had 523 crayons left while not having lost a single eraser. How many more crayons than erasers did he have left?
+
+A: Let's think step by step. Introduce intermediate variables and solve the task symbolically.
+Numerical with intermediary:  First of all, let's introduce the number of crayons Paul had at the beginning of the school year: $c$. We know that Paul's initial amount of crayons is equal to the sum of the number of crayons he got for his birthday and the number of crayons he had at the end of the school year: $c=457+617=1074$.
+
+Now let's introduce the number of erasers Paul had at the beginning of the school year: $e$. We know that Paul's initial amount of erasers is equal to the number of erasers he got for his birthday: $e=457$.
+
+We also know that Paul's final amount of crayons is equal to 523 and that he did not lose any erasers, so his final amount of erasers is still 457.
+
+We can write these pieces of information as equations:
+
+$c=457+617$
+
+$e=457$
+
+$c-523=0$
+
+$e-457=0$
+
+Now we can solve the system of equations and find the values of $c$ and $e$:
+
+$c=457+617=1074
+------------------
+Numerical Answer: 66
+------------------
+Numerical Equation: ( 523.0 - 457.0 )
