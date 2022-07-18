@@ -13,7 +13,10 @@ def parse(index):
     equation = equations[index]
 
     question = question
-    problem = body + " " + question
+    if body[-1] == '.':
+        problem = body + " " + question
+    else:
+        problem = body + " " + question.lower()
     # print(problem)
 
     nums = re.findall("\d+", problem)
