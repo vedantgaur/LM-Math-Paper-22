@@ -1,0 +1,31 @@
+,Symbolic Answer With Steps,Symbolic Answer Without Steps,Symbolic Answer With Intermediate
+0,x(w - x), w - x.,n(w - x) dollars
+1,The candy bar cost him x.,x - w = cost,$$c = 2w - x$$
+2, w - z = the number of salty cookies Paco had left., w - z = the number of salty cookies Paco had left., w - z = how many salty cookies did Paco have left
+3,w - x = how many children got off the bus., w - x, x = w - (w - x) which is equivalent to x = w/2 .
+4,"y - x = w + x - x
+
+or simply 
+
+w",x - (w + x - y) = y - w.,x - z = y - w
+5,x - y = z - w,"w + x - x > 0
+
+or
+
+w > 0",x.
+6,y + w,x + w - w = x,$$a = x - b$$
+7,y-(w-x), y-x., w - (x + y) = 0.
+8,x - z cups of flour, w-z cups of flour., x  cups of flour.
+9, w + x customers., w + x = original number of customers.,w customers
+10, x - y more storks than birds are sitting on the fence.,x - w > 0, w + x > y
+11, w*x ., wx chairs., w*x.
+12,2x - w, w + x .,pupils - w + w = pupils
+13,1/(1+x/y),w(x+y),w*(y-x+x)=w*y
+14,w + x + y, w + x + y ., w + x + y.
+15,x = w - y, w - x = y,y
+16, w - x = the total number of boys in the school., w - x., 2w + x = boys.
+17, w + y + x + z = w + y.,"w + y = Girls
+
+x + z = Boys", w + y.
+18,0,x = w + y - z,x = w + z
+19,x - y, y>0,y = 0
