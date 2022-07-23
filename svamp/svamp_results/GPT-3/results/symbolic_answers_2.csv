@@ -1,0 +1,23 @@
+,Symbolic Answer With Steps,Symbolic Answer Without Steps,Symbolic Answer With Intermediate
+0, w - x dollars., w - x., w-x dollars.
+1,x - w,x - w = cost,$c = w$
+2,w-z-(x-y)=z-y, w-z=salty cookies left,w - z = y
+3, w - x  children got off the bus., w - x., w - x = the number of children who got off the bus.
+4,x - (y - w), 2x - y.,x - z = y - w
+5,x - w, x - (-x) = 2x., x.
+6, w=x,x - w = initial number of action figures,y = x - w
+7, y-x., w-x-y., y - x.
+8,x - z = cups of flour needed, w - z.,(w + x) - z
+9,x+w=unknown, w + x., w + x.
+10, x - y., x > y, x + y.
+11, w * x., wx chairs., w*x.
+12,x = (the total number of students in the school - w more)/2, w + x = w + (w + x)  or 2w + x = w + x + w  or  x = w, 2x + w.
+13,w(y + x), w(y+x).,$$d = w \cdot (x + y)$$
+14,w + x + y, w + x + y., w + x + y.
+15, w - x - y pounds., w - x.,$$z = 3$$
+16,"x = w + x - w
+
+x = w", w + x - w = x., w + x = 2w - 2x.
+17,w + y,w + y, w + y.
+18, w - y.,x = w + y - z, w = z + y - x.
+19,y - w, y - x.,x - y = (w + x) - w

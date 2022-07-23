@@ -37,11 +37,8 @@ def open_ai(_prompt):
     gpt3_response = openai.Completion.create(
         model="text-davinci-002",
         prompt=_prompt,
-        temperature=0.7,
+        temperature=0,
         max_tokens=256,
-        top_p=1,
-        frequency_penalty=0,
-        presence_penalty=0
     )
     return gpt3_response
 
@@ -140,4 +137,4 @@ if __name__ == "__main__":
         print(f"DONE WITH {i}")
 
     # data.to_csv("svamp/svamp_results/GPT-3/results.csv")
-    data.to_csv(f"{root_dir}/svamp/svamp_results/GPT-3/results2.csv")
+    data.to_csv(f"{root_dir}/svamp/svamp_results/GPT-3/results/results_0temp.csv")

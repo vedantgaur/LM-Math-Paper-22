@@ -9,7 +9,7 @@ from benchmarks import symbolic_prompt, symbolic_prompt_steps, symbolic_prompt_i
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
 root_dir = "~/onedrive/desktop/research paper"
-df = pd.read_csv(f"{root_dir}/svamp/svamp_results/GPT-3/results2.csv")
+df = pd.read_csv(f"{root_dir}/svamp/svamp_results/GPT-3/results/results_0temp.csv")
 
 data = pd.DataFrame(columns=["Symbolic Answer With Steps", "Symbolic Answer Without Steps", "Symbolic Answer With Intermediate"], index=np.arange(len(df)))
 
@@ -18,11 +18,8 @@ for i in range(len(df)):
     response = openai.Completion.create(
         model="text-davinci-002",
         prompt=prompt,
-        temperature=0.7,
+        temperature=0,
         max_tokens=256,
-        top_p=1,
-        frequency_penalty=0,
-        presence_penalty=0
     )
     response = response["choices"][0]["text"]
     response = response.strip('\n')
@@ -32,11 +29,8 @@ for i in range(len(df)):
     response = openai.Completion.create(
         model="text-davinci-002",
         prompt=prompt,
-        temperature=0.7,
+        temperature=0,
         max_tokens=256,
-        top_p=1,
-        frequency_penalty=0,
-        presence_penalty=0
     )
     response = response["choices"][0]["text"]
     response = response.strip('\n')
@@ -46,11 +40,8 @@ for i in range(len(df)):
     response = openai.Completion.create(
         model="text-davinci-002",
         prompt=prompt,
-        temperature=0.7,
+        temperature=0,
         max_tokens=256,
-        top_p=1,
-        frequency_penalty=0,
-        presence_penalty=0
     )
     response = response["choices"][0]["text"]
     response = response.strip('\n')
@@ -58,6 +49,6 @@ for i in range(len(df)):
 
     print(f"DONE WITH {i}")
 
-data.to_csv(f"{root_dir}/svamp/svamp_results/GPT-3/symbolic_answers.csv")
+data.to_csv(f"{root_dir}/svamp/svamp_results/GPT-3/results/symbolic_answers.csv")
     
     
