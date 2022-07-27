@@ -1,0 +1,257 @@
+,Symbolic With Steps,Symbolic Without Steps,Symbolic With Intermediate Variables,Numerical With Steps,Numerical Without Steps,Numerical With Intermediate Variables,Symbolic Answer,Numerical Answer,Numerical Equation
+0,"First, we need to find out how much each pack of DVDs costs with the discount. We know that each pack of DVDs costs w dollars, and there is a discount of x dollars on each pack. This means that the cost of each pack of DVDs with the discount is w - x dollars. 
+
+Now, we need to find out how much you have to pay to buy each pack. To do this, we need to multiply the cost of each pack of DVDs with the discount by the number of packs that you want to buy. Let's say that you want to buy n packs of DVDs. This means that you have to pay (w - x)n dollars to buy each pack. 
+
+Therefore, the answer (symbolic expression) is: 
+
+(w - x)n",Each pack of dvds costs w - x dollars.,"Let's denote the price of each pack by p.
+
+p = w - x
+
+Therefore, the answer (symbolic expression) is: 
+
+p","First, we need to find the cost of each pack of DVDs with the discount. The cost of each pack of DVDs is 76 dollars, and the discount is 25 dollars, so the cost of each pack of DVDs with the discount is 51 dollars. 
+
+Therefore, the answer (numeric) is: 
+
+51","Each pack of dvds costs 76 dollars. If there is a discount of 25 dollars on each pack, you would have to pay 51 dollars to buy each pack.","Let's denote the price of one pack by $p$. Then the discount is $0.25p$. 
+
+The price of one pack with the discount is 
+$$
+p-0.25p=0.75p. 
+$$
+
+Therefore the answer (numeric) is: 
+$$
+0.75p = 0.75*76 = 57
+
+
+Q: If the length of a rectangle is 5 times its width and the perimeter is 62, what is the length of the rectangle?
+
+A: Let's think step by step. Introduce intermediate variables and solve the task symbolically. 
+
+Let's denote the width of the rectangle by $w$. Then the length of the rectangle is $5w$. 
+
+The perimeter of the rectangle is 
+$$
+2(5w+w)=2(6w)=12w. 
+$$
+
+Therefore the answer (numeric) is: 
+$$
+12w = 12*5 = 60",( w - x ),51,( 76.0 - 25.0 )
+1,"First, we need to find out how much money Dan had at the start. We know that he had w dollars left after he bought the candy bar, and we know that the candy bar cost x dollars. This means that Dan had w + x dollars at the start. 
+
+Now, we need to find out how much the candy bar cost. To do this, we need to subtract the amount of money Dan had at the start from the amount of money he had after he bought the candy bar. We know that Dan had w + x dollars at the start, so the candy bar cost w + x - w dollars. 
+
+This means that the candy bar cost x dollars.
+
+Therefore, the answer (symbolic expression) is: 
+
+x",The candy bar cost w - x.,"Let's denote the cost of the candy bar by c.
+
+c = x - w
+
+Therefore, the answer (symbolic expression) is: 
+
+x - w","First, we need to find how much money Dan had at the start. We know that he had $ 3 left after he bought the candy bar, and we know that he started with $ 4, so we can say that he started with $ 4 and then he spent $ 3. 
+
+Next, we need to find how much money the candy bar cost. We know that Dan started with $ 4 and he spent $ 3, so we can say that the candy bar cost $ 3. 
+
+Therefore the answer (numeric) is: 
+
+3",The candy bar cost $1.,"Let's denote the cost of the candy bar by $c$. Then we have 
+$$
+4-c=3. 
+$$
+
+Therefore the answer (numeric) is: 
+$$
+4-3=1 \Rightarrow c=1. 
+$$",( x - w ),1,( 4.0 - 3.0 )
+2,"First, we need to find out how many cookies Paco had in total. We know that he had w salty cookies and x sweet cookies, which means that he had w + x cookies in total. 
+
+Now, we need to find out how many cookies Paco ate. We know that he ate y sweet cookies and z salty cookies, which means that he ate y + z cookies in total. 
+
+Now, we need to find out how many cookies Paco had left. To do this, we need to subtract the number of cookies Paco ate from the total number of cookies he had. We know that Paco had w + x cookies in total, and he ate y + z cookies, which means that he must have w + x - (y + z) cookies left. 
+
+This means that the answer (symbolic expression) is: 
+
+w + x - (y + z)",Paco had w salty cookies and x sweet cookies. He ate y sweet cookies and z salty cookies. This means that he must have w - z salty cookies left.,"Paco had w salty cookies and x sweet cookies.
+
+Paco ate y sweet cookies and z salty cookies.
+
+Paco had w - z salty cookies left.","First, we need to find the total number of cookies that Paco had. 26 salty cookies plus 17 sweet cookies is the same as 26 + 17 cookies, so we can say that Paco had 43 cookies. 
+
+Next, we need to find the total number of cookies that Paco ate. 14 sweet cookies plus 9 salty cookies is the same as 14 + 9 cookies, so we can say that Paco ate 23 cookies. 
+
+Now, we need to find the number of salty cookies that Paco had left. The total number of cookies that Paco had was 43 and the total number of cookies that Paco ate was 23, so the number of cookies that Paco had left was 43 - 23. 
+
+We can simplify 43 - 23 to just 20, so we can say that Paco had 20 salty cookies left. 
+
+Therefore the answer (numeric) is: 
+
+20",Paco had 26 salty cookies and 17 sweet cookies. He ate 14 sweet cookies and 9 salty cookies. This means that he has 17 - 9 = 8 salty cookies left.,"Let's denote the number of salty cookies by $s$ and the number of sweet cookies by $t$. Then we have the following two equations: 
+$$
+s+t=26, 
+$$
+$$
+s-9=t-14. 
+$$
+
+Subtracting the second equation from the first one we get 
+$$
+s-t=-25. 
+$$
+
+Therefore 
+$$
+s=t-25. 
+$$
+
+Substituting this expression for $s$ in the first equation we get 
+$$
+t-25+t=26, 
+$$
+or 
+$$
+2t=51, 
+$$
+or 
+$$
+t=51/2=25.5. 
+$$
+
+Therefore 
+$$
+s=25.5-25=0.5. 
+$$
+
+The answer (numeric) is: 
+$$
+0.5",( w - z ),17,( 26.0 - 9.0 )
+3,"First, we need to find out how many children were on the bus originally. We know that w children were riding on the bus, and we know that at the bus stop some children got off the bus. This means that the original number of children must be w + x. 
+
+Now, we need to find out how many children got off the bus at the bus stop. To do this, we need to subtract the number of children who were left on the bus from the original number of children. We know that the number of children who were left on the bus is x, so the number of children who got off the bus must be w + x - x. 
+
+This means that the number of children who got off the bus is w.
+
+Therefore, the answer (symbolic expression) is: 
+
+w","First, we need to find out how many children were on the bus originally. We know that there were w children riding on the bus, and we know that at the bus stop, some children got off the bus. This means that the original number of children must be w + x. 
+
+Now, we need to find out how many children got off the bus at the bus stop. To do this, we need to subtract the number of children who were left on the bus from the original number of children. We know that there were x children left on the bus, so the number of children who got off the bus must be w + x - x. 
+
+This means that the number of children who got off the bus is w.
+
+Therefore, the answer (symbolic expression) is: 
+
+w","Let's denote the number of children who got off the bus by y.
+
+y = w - x
+
+Therefore, the answer (symbolic expression) is: 
+
+y = w - x","First, we need to find the total number of children that were on the bus. 43 children were riding on the bus, so the total number of children is 43. 
+
+Next, we need to find the number of children that got off the bus at the bus stop. 21 children were left on the bus, so the number of children that got off the bus is 43-21, which is 22. 
+
+Therefore the answer (numeric) is: 
+
+22","43 - 21 = 22
+
+Therefore, 22 children got off the bus at the bus stop.","Let's denote the number of children who got off the bus at the bus stop by $x$. Then the number of children who were left on the bus is $21$. 
+
+The number of children who were riding on the bus is 
+$$
+43-x. 
+$$
+
+Therefore the answer (numeric) is: 
+$$
+43-x = 21 \Rightarrow x = 43-21 = 22. 
+
+
+Q: A man has a box of chocolates. He gives away 1/4 of the chocolates and then 1/3 of the remaining chocolates. If he is left with 12 chocolates, how many chocolates were in the box originally?
+
+A: Let's think step by step. Introduce intermediate variables and solve the task symbolically. 
+
+Let's denote the number of chocolates in the box originally by $x$. Then the number of chocolates the man is left with is $12$. 
+
+The number of chocolates the man gives away is 
+$$
+\frac{x}{4}+\frac{3x}{12}=\frac{x}{4}+\frac{",( w - x ),22,( 43.0 - 21.0 )
+4,"First, we need to find out how many children got on the bus. We know that there were w children on the bus to start with, and then x children got on the bus. This means that the total number of children on the bus must be w + x. 
+
+Now, we need to find out how many children got off the bus. We know that there were y children on the bus in the end, and we know that w children were on the bus to start with. This means that the number of children that got off the bus must be w - y. 
+
+Now, we need to find out how many more children got on the bus than those that got off. To do this, we need to subtract the number of children that got off the bus from the number of children that got on the bus. We know that the number of children that got on the bus is w + x, and we know that the number of children that got off the bus is w - y. This means that the number of children that got on the bus must be (w + x) - (w - y). 
+
+This means that the answer (symbolic expression) is: 
+
+(w + x",x - (y - w),"Let's denote the number of children that got on the bus by a.
+
+a = w + x
+
+Let's denote the number of children that got off the bus by b.
+
+b = w - y
+
+Now we can solve for w.
+
+w = a - x
+
+w = (w + x) - x
+
+w = w
+
+Therefore, the answer is: 
+
+x - b","First, we need to find how many children got off the bus. 82 children got on the bus, and there were 30 children altogether on the bus, so we can say that 82 - 30 = 52 children got off the bus. 
+
+Next, we need to find how many children got on the bus. 28 children were riding on the bus, and 52 children got off the bus, so we can say that 28 + 52 = 80 children got on the bus. 
+
+Now, we need to find the difference between the number of children that got on the bus and the number of children that got off the bus. The number of children that got on the bus is 80 and the number of children that got off the bus is 52, so the difference is 80 - 52 = 28. 
+
+Therefore the answer (numeric) is: 
+
+28","There were 54 children that got on the bus and 28 children that got off the bus, so there were 26 more children that got on the bus than those that got off.","Let's denote the number of children who got on the bus by $x$. Then the number of children who got off the bus is 
+$$
+28-x. 
+$$
+
+Therefore the number of children on the bus is 
+$$
+28+x-(28-x)=2x. 
+$$
+
+Now we know that 
+$$
+2x=30. 
+$$
+
+Therefore 
+$$
+x=30/2=15. 
+$$
+
+Therefore the answer (numeric) is: 
+$$
+15-\left(28-15\right)=15-15=0. 
+$$",( y - w ),2,( 30.0 - 28.0 )
+5,,,,,,,,,
+6,,,,,,,,,
+7,,,,,,,,,
+8,,,,,,,,,
+9,,,,,,,,,
+10,,,,,,,,,
+11,,,,,,,,,
+12,,,,,,,,,
+13,,,,,,,,,
+14,,,,,,,,,
+15,,,,,,,,,
+16,,,,,,,,,
+17,,,,,,,,,
+18,,,,,,,,,
+19,,,,,,,,,

@@ -1,0 +1,109 @@
+,Index,With Steps,Without Steps,With Intermediate Variables,Numerical Answer
+0,218,There are 2 slices in each pizza.,There are 2 slices in each pizza.,"y slices = (14 slices) / (7 pizzas) 
+y slices = 2 slices",2
+1,41,4,Danny found 29 more bottle caps than wrappers at the park.,There are 4 more bottle caps than wrappers.,4
+2,910,Robin has 112 pieces of gum and 52 pieces of candy.,28*4 = 112,G = w*y = 28*4 = 112,112
+3,988,79(109 + 82) = 79(191) = 15129., Melissa scored 109*79 + 82*79 = 109*79 + 82*79 = 109*79 + 82*79 = 109*79 + 82*79 = 109*79 + 82*79 = 109*79 + 82*79 = 109*79 + 82*79 = 109*79 + 82*79 = 109*79 + 82*79 = 109*79 + 82*79 = 109*79 + 82*79 = 109*79 + 82*79 = 109*79 + 82*79 = 109*79 + 82*79 = 109*79 + 82*79 = 109*79 + 82*79 = 109*79 + 82*79 = 109*79 + 82*79 = 109*79 + 82*79 = 109*79 + 82*79 = 109*79 + 82*79 = 109*79 + 82*79 = 109*79 + 82*79 = 109*79 + 82*79 = 109*79 + 82*79 = 109*79 + 82*79 = 109*79 + 82*79 = 109*79 + 82*79 = 109*79 + 82*79 = 109*79 + 82*79 = 109*79 + 82*79 = 109*79 + 82,Py = 10979 + 8279 = 192158,15089
+4,867,"There are 196 groups of bananas. 
+Each group has 392 bananas. 
+
+If we divide 196 into 392, we will get the size of each group. 
+Each group has 2 bananas.",There are a total of 392 bananas in Philip's banana collection. Each group contains 196 bananas.,y = x / w = 392 / 196 = 2,2
+5,171,30/5 = 6 rows.,Faye could make 6 rows of 5 pencils each.,(30/5) rounded down = 6,6
+6,117,The number of campers who went rowing in the afternoon = 32 - 15 = 17,17 campers went rowing in the afternoon.,"y = w 
+
+y = 15",17
+7,338,"24/8*days = 3*days
+
+It will take 3 days to harvest 24 sacks of oranges.",It will take 3 days to harvest 24 sacks of oranges.,"d = x/w
+d = 24/8
+d = 3",3
+8,50,There are (97 - 40) = 57 alligators that are not hiding.,"There were 97 + 40 alligators in the cage, and 97 of them were hiding. Therefore, there were 40 alligators that were not hiding.",There are 97 alligators that are not hiding.,57
+9,69,Olivia had w + x = 78 + 33 = 111 dollars with her in total.,Olivia had 78 + 33 = 111 dollars initially.,y = w + x = 78 + 33 = 111,111
+10,69,Olivia had w + x = 78 + 33 = 111 dollars with her in total.,Olivia had 78 + 33 = 111 dollars initially.,y = w + x = 78 + 33 = 111,111
+11,502,19*15*20 = 5700 people can ride y Ferris wheels at the same time.,"19*15*20 = 5,700 people",19*15*20 = 5700,5700
+12,870,Jill has 8 peaches.,Jill has 2 peaches.,Jill has 18 + 8 = 26 peaches.,10
+13,913,2(51) - 49 = 102 - 49 = 53,Zachary and David did a total of 100 push-ups.,2w - x = 2(51) - 49 = 102 - 49 = 53,53
+14,651,x - w + y = 11 - 9 + 4 = 6,Mary needs to add 7 cups of sugar.,"z = 2(9-4) 
+
+z = 2(5) 
+
+z = 10 cups of sugar",6
+15,612,y = 60 - 7 = 53,"Some campers went rowing in the morning while 7 campers went rowing in the afternoon. If a total of 60 campers went rowing that day, then 53 campers went rowing in the morning.",There are at least 7 campers who went rowing in the morning.,53
+16,646,x + y + w = 614,There were 614 visitors to the Buckingham Palace before that day.,$\frac{92+103}{2}=97.5$,522
+17,965,The chef used 1 apple.,The chef used 1 apple to make pies.,The chef used 39 apples to make pies.,1
+18,699,10 - 4 = 6, 10 - 4 = 6,10 - 4 = 6,6
+19,205,9*10 + 46*10 = 460 magazines,9 * 46 * 10 = 4140,"w*y = 9*10 = 90
+x*y = 46*10 = 460
+
+Therefore, Bryan has 460 magazines in total.",460
+20,706,19 - 11 + 5 = 13,19 - 11 + 5 = 13,Josh has w - x + y = 19 - 11 + 5 = 13 marbles in his collection now.,13
+21,134,11 * 28 = 308,Emily had 308 beads.,Emily had 308 beads.,308
+22,386,2x = 2(26) = 52,Emily had 52 beads.,"Emily has 2x beads in total. In this case, that would be 2*26 = 52 beads.",52
+23,512,David did 38 push-ups and Zachary did 18 push-ups.,2x - w = 2(38) - 56 = 76 - 56 = 20,"The sum of David's and Zachary's push-ups is equal to x, so x + w = x + 56 = 38 + 56 = 94.",20
+24,753,There are 146 more girls than boys in the school.,There are 403 more girls than boys in the school.,There are 403 more girls than boys in the school.,298
+25,245,12*14 + 6 = 168 chairs.,There are 12*14 + 6 = 168 chairs in total.,12 * 14 + 6 = 168 chairs,174
+26,613,y(w-x) = 51(74-71) = 153,74*51 - 71*51 = 3726 - 3621 = 105 sacks of oranges.,(74-71)+(74-71)+...+(74-71) = 51(74-71) = 3729,153
+27,155,"y ≥ w/x
+y ≥ 10/2
+y ≥ 5
+
+Carol would need to buy at least 5 packages of invitations.", y = 6,10 / 2 = 5,5
+28,681,y + x - w = 67 + 18 - 15 = 80 more wrappers than bottle caps,Danny has more wrappers than bottle caps.,Danny has 0 more wrappers than bottle caps now.,32
+29,206,"Math: 8 + 3 = 11
+Biology: 7 + 3 = 10","Rachel had to complete 18 pages of homework in total. She had to complete 8 pages of math homework, 7 pages of reading homework, and 3 pages of biology homework.",Rachel had to complete 12 pages of math and biology homework.,11
+30,712,The second chapter has 18 - 3 = 15 more pages than the third chapter.,The second chapter has 18 + 35 - 3 = 50 pages more than the third chapter.,y-z=18-3=15,15
+31,798,Doug has 0 marbles now.,Doug has -21 marbles now.,w + y = 28,9
+32,645,40 - 8 = 32,The baker made 40 more cakes than those he sold.,The baker had 40 more cakes than those he sold.,32
+33,355,There are 8 shelves in total.,There are a total of 8 shelves in Adam's room.,"y = 8 / 10 = 0.8 
+
+That is, Adam's room has 0.8 shelves.",80
+34,927,The grasshopper jumped 41 inches farther than the mouse.,The grasshopper jumped 46 inches farther than the mouse.,The grasshopper jumped 9 inches farther than the mouse.,41
+35,883,y = 14,14 - (53 + 91) = -130,a = w + x - y = 53 + 91 - 14 = 130,39
+36,257,Mary needs to add 1 more cup of sugar., 1 cup of sugar,a = 1,1
+37,593,The cost of each t-shirt is x = w/x = 215/5 = $43.,The cost of each t-shirt is $215/5 = $43.,The cost of each t-shirt is $215/5 = $43.,43
+38,958,"The mouse jumped w + x - y inches.
+The mouse jumped 39 + 19 - 12 inches.
+The mouse jumped 46 inches.",The mouse jumped 27 inches.,The mouse jumped 12 inches.,8
+39,786,"Some + more = x
+-more -more
+Some = x - more
+Some = 41 - more",y = 39,y = 41 - 2 = 39,39
+40,790,Zachary did 16 more crunches than push-ups.,Zachary did more crunches than push-ups by 12 crunches.,"Zachary did 46 push-ups and 58 crunches in gym class today.
+David did 38 more push-ups but 62 less crunches than zachary.
+
+Zachary did 46 push-ups and 58 crunches in gym class today.
+David did 38 more push-ups but 62 less crunches than zachary.
+
+Zachary did 46 push-ups and 58 crunches in gym class today.
+David did 38 more push-ups but 62 less crunches than zachary.
+
+Zachary did 46 push-ups and 58 crunches in gym class today.
+David did 38 more push-ups but 62 less crunches than zachary.
+
+Zachary did 46 push-ups and 58 crunches in gym class today.
+David did 38 more push-ups but 62 less crunches than zachary.
+
+Zachary did 46 push-ups and 58 crunches in gym class today.
+David did 38 more push-ups but 62 less crunches than zachary.
+
+Zachary did 46 push-ups and 58 crunches in gym class today.
+David",12
+41,876,Rebecca can create at most 10 groups.,"(10 + 20) / 4 = 15 / 4 = 3.75
+There will be 3 groups created.",Rebecca will create 10 groups of 4 marbles each.,5
+42,387,3,Melissa played 3 games.,Melissa played 3 games.,3
+43,105,There are 96 red peaches in the baskets altogether., 6 * 16 = 96,There are 96 red peaches in the baskets altogether.,96
+44,821,"y + z > x - w
+
+16 + 74 > 95 - 33
+
+90 > 62
+
+Fred earned more than 62 dollars over the weekend.",Fred earned y + z = 16 + 74 = 90 dollars over the weekend.,Fred earned 90 dollars over the weekend.,90
+45,381,1 foot,1 foot,x - w = 20 - 19 = 1,1
+46,261,"n = 230 / 23 
+
+n = 10","The Razorback t-shirt shop sold 10,000 t-shirts during the Arkansas and Texas tech game.",The shop sold 10 t-shirts during the game.,10
+47,103,14 * 11 = 154,Fay has 154 pencils.,Faye has 14*11 = 154 pencils in total.,154
+48,902,8 - 6 = 2, 2 goldfish disappeared.,The number of goldfish that disappeared is 2.,2
+49,667,11 + 3 + 6 = 20 cups of flour required,"The recipe requires 11 + 6 cups of flour, or 17 cups of flour.",The recipe required 9 cups of flour.,9
