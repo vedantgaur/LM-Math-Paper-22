@@ -1,0 +1,1961 @@
+,Index,Symbolic With Steps,Symbolic Without Steps,Symbolic With Intermediate Variables,Numerical With Steps,Numerical Without Steps,Numerical With Intermediate Variables,Symbolic Answer,Numerical Answer,Numerical Equation
+0,218,"There are a total of x slices. 
+That means that if we divide the x slices into w pizzas, each pizza will have the same number of slices. 
+That number of slices is the answer to the question.",There are x/w slices in each pizza.,"There are w pizzas. 
+Each pizza has the same number of slices. 
+There are a total of x slices. 
+
+We need to find out how many slices are there in each pizza. 
+
+This can be represented as follows: 
+
+w pizzas 
+x slices 
+---- 
+y slices in each pizza 
+
+We know that there are w pizzas and that there are a total of x slices. 
+
+This means that the number of slices in each pizza is equal to the total number of slices divided by the number of pizzas. 
+
+y = x/w 
+
+y is the number of slices in each pizza.","There are a total of 14 slices. 
+
+We know that each pizza has the same number of slices. 
+
+That means that if we divide 14 by 7, we will know how many slices are in each pizza. 
+
+14 divided by 7 equals 2. 
+
+That means that each pizza has 2 slices.", There are 2 slices in each pizza.,"There are 7 pizzas. So, we have 7x slices in total. 
+Each pizza has the same number of slices, so we can write: 
+7x=y⋅7
+y is the number of slices in each pizza. 
+We know that there are 14 slices in total. So: 
+7x=14
+y=2
+
+There are 2 slices in each pizza.",( x / w ),2,( 14.0 / 7.0 )
+1,41,"Danny found w wrappers and x bottle caps at the park. 
+
+This means that the number of bottle caps he found, x, is w more than the number of wrappers he found, w. 
+
+Now he has y bottle caps and z wrappers in his collection. 
+
+This means that the number of bottle caps he has in his collection, y, is z more than the number of wrappers he has in his collection, z. 
+
+Now we need to compare x to y and w to z. 
+
+x is w more than y and w is z more than z. 
+
+This means that x is z more than y. 
+
+Therefore, Danny found z more bottle caps than wrappers at the park.","Danny found w wrappers and x bottle caps at the park. Now he has y bottle caps and z wrappers in his collection.
+
+Danny found x - y more bottle caps than wrappers at the park.","Let's say Danny found b bottle caps and w wrappers at the park. 
+
+Now he has y bottle caps and z wrappers in his collection. 
+
+We know that:
+
+y = x + b
+
+z = w + b
+
+We need to find b. 
+
+We can do that by subtracting x from both sides of the first equation:
+
+y - x = b
+
+Now we can substitute y - x for b in the second equation:
+
+z = w + (y - x)
+
+We can simplify the equation:
+
+z - y = w - x
+
+We know that z - y = wrappers - bottle caps. 
+
+Therefore:
+
+wrappers - bottle caps = w - x
+
+We need to find w - x. 
+
+We can do that by subtracting w from both sides of the equation:
+
+wrappers - w = - x
+
+We can simplify the equation:
+
+wrappers - w - wrappers = - x - wrappers
+
+We can simplify the equation further:
+
+- w = - x - wrappers
+
+We can add w to both sides of the equation","Danny found 46 wrappers and 50 bottle caps at the park. 
+
+Then, he had 21 bottle caps and 52 wrappers in his collection. 
+
+We want to know how many more bottle caps than wrappers Danny found at the park. 
+
+We can find this out by subtracting the number of wrappers in his collection (52) from the number of wrappers he found at the park (46). Then, we can subtract the number of bottle caps in his collection (21) from the number of bottle caps he found at the park (50). 
+
+This gives us the equation: 
+
+(46 - 52) + (50 - 21) = ?
+
+We can simplify this equation to: 
+
+(-6) + (29) = ?
+
+The answer is 23.", Danny found 4 more bottle caps than wrappers at the park.,"Let's say that Danny found x bottle caps and y wrappers at the park. 
+
+Now he has 21 bottle caps and 52 wrappers in his collection.
+
+We can write this information as follows:
+
+x + 21 = y + 52
+
+x - y = 31
+
+Danny found 31 more bottle caps than wrappers at the park.",( x - w ),4,( 50.0 - 46.0 )
+2,910,"Step 1: How many pieces of gum does Robin have in total? 
+
+We know that Robin has w packages of gum and x packages of candy. There are y pieces in each package. 
+
+So, we can say that Robin has w*y packages of gum and x*y packages of candy. 
+
+Step 2: How many pieces of candy does Robin have in total? 
+
+We know that Robin has w packages of gum and x packages of candy. There are y pieces in each package. 
+
+So, we can say that Robin has w*y packages of gum and x*y packages of candy. 
+
+Step 3: How many pieces of gum does Robin have in total? 
+
+We know that Robin has w packages of gum and x packages of candy. There are y pieces in each package. 
+
+So, we can say that Robin has w*y packages of gum and x*y packages of candy. 
+
+Therefore, Robin has w*y pieces of gum.", w*y,"Let's denote the number of pieces of gum as G. Then we know that:
+
+G = w*y
+
+where w is the number of packages of gum and y is the number of pieces in each package.","There are 4 pieces in each package of gum. 
+There are 28 packages of gum. 
+
+So, we can multiply 4 by 28 to find out how many pieces of gum Robin has. 
+
+4 x 28 = 112
+
+Robin has 112 pieces of gum.",Robin has 112 pieces of gum.,"There are 4 pieces in each package of gum. So, if we multiply the number of packages of gum by 4, we will get the total number of pieces of gum. 
+
+There are 28 packages of gum. So, if we multiply 28 by 4, we will get the total number of pieces of gum. 
+
+28 * 4 = 112",( w * y ),112,( 28.0 * 4.0 )
+3,988,"In one game, Melissa would score w + x points. 
+In two games, Melissa would score 2(w + x) points. 
+In three games, Melissa would score 3(w + x) points. 
+
+In general, in y games, Melissa would score y(w + x) points.",Melissa scored w*y + x*y points in y games.,"Let's denote the number of points Melissa scored in one game as P. Then we have:
+
+P = w + x
+
+Now we need to calculate the number of points she scored in y games. This is equal to y multiplied by P:
+
+yP = y(w + x)
+
+We can further simplify this by multiplying out the brackets:
+
+yP = yw + yx","In one game, Melissa scored 109 points plus 82 bonus points, for a total of 191 points. 
+
+In 79 games, Melissa would score 191 points 79 times, for a total of 15,109 points.","Melissa scored 109 points in each game. She also got 82 bonus points in each game. In total, she scored 8,691 points in 79 games.","Let's denote the number of points Melissa scored in one game as `P`. Then we have:
+
+`P = 109 + 82 = 191`
+
+Now we need to calculate the number of points she scored in 79 games. We'll denote this number of points as `S`. Then we have:
+
+`S = P * 79 = 191 * 79 = 14969`",( ( w + x ) * y ),15089,( ( 109.0 + 82.0 ) * 79.0 )
+4,867,"There are w groups of bananas. 
+Each group has x bananas. 
+
+So if we divide w into x, we will get the size of each group.",There are a total of x bananas in Philip's banana collection. Each group contains w bananas.,"There are w groups of bananas. 
+There are x bananas in Philip's banana collection. 
+
+Each group has the same number of bananas. 
+
+Let's denote the number of bananas in each group as y. 
+
+Then, we have the following equation:
+
+y * w = x
+
+y = x / w","There are 196 groups of bananas. 
+
+That means that there are 196 different ways that Philip could have organized his 392 bananas. 
+
+That also means that there are 196 different possible answers to this question. 
+
+Some possible answers are: 
+
+1 group of 392 bananas 
+2 groups of 196 bananas 
+4 groups of 98 bananas 
+8 groups of 49 bananas 
+16 groups of 24 bananas 
+
+And so on.",There are 392 bananas in Philip's banana collection. Each group contains 2 bananas.,"There are 196 groups of bananas. 
+There are 392 bananas in total. 
+Each group has the same number of bananas. 
+
+We can write this as: 
+
+There are 196 groups of bananas. 
+There are 392 bananas in total. 
+Each group has the same number of bananas. 
+
+We can write this as: 
+
+There are 196 groups of bananas. 
+There are 392 bananas in total. 
+Each group has the same number of bananas. 
+
+We can write this as: 
+
+There are 196 groups of bananas. 
+There are 392 bananas in total. 
+Each group has the same number of bananas. 
+
+We can write this as: 
+
+There are 196 groups of bananas. 
+There are 392 bananas in total. 
+Each group has the same number of bananas. 
+
+We can write this as: 
+
+There are 196 groups of bananas. 
+There are 392 bananas in total. 
+Each group has the same number of bananas. 
+
+We can write this as: 
+
+There are 196 groups of bananas. 
+There are 392 bananas in total. 
+Each group",( x / w ),2,( 392.0 / 196.0 )
+5,171,"Faye has w pencils. 
+
+She wants to put them into rows, with x pencils in each row. 
+
+How many rows could she make?
+
+Well, she could make w/x rows.",Faye could make rows of pencils as long as she had at least x pencils.,"Let's say that Faye has y pencils in total. 
+
+Then, she can make as many rows as she wants, as long as she has at least x pencils in each row. 
+
+That is, she can make y/x rows. 
+
+However, this is not the answer to the question, because the question asks for the maximum number of rows that she can make. 
+
+This means that we need to round down. 
+
+The answer is (y/x) rounded down.","Faye has 30 pencils. 
+
+She wants to put them into rows with 5 pencils in each row. 
+
+How many rows could she make?
+
+She could make 6 rows.",Faye could make 6 rows with 5 pencils in each row.,"There are 30 pencils. We need to divide them into rows with 5 pencils in each row. 
+
+Let's introduce a variable y that stands for the number of rows. 
+
+We know that there are 5 pencils in each row. So, the total number of pencils is 5y. 
+
+We also know that there are 30 pencils in total. So, 5y=30. 
+
+We can solve this equation for y. We divide both sides by 5. 
+
+y=30/5
+
+y=6
+
+So, Faye can make 6 rows with 5 pencils in each row.",( w / x ),6,( 30.0 / 5.0 )
+6,117,"First, we know that some campers went rowing in the morning. This means that not all campers went rowing in the morning, because if all campers went rowing in the morning, then there would be no campers left to go rowing in the afternoon! So, we can write:
+
+Some campers went rowing in the morning. 
+
+This means that the number of campers who went rowing in the morning is less than the total number of campers, or:
+
+The number of campers who went rowing in the morning < the total number of campers
+
+We also know that some more campers went rowing in the afternoon. This means that the number of campers who went rowing in the afternoon is greater than the number of campers who went rowing in the morning, or:
+
+The number of campers who went rowing in the afternoon > the number of campers who went rowing in the morning
+
+We also know that the total number of campers who went rowing that day is x. This means that the number of campers who went rowing in the morning plus the number of campers who went rowing in the afternoon is equal",There is not enough information to answer this question.,"Let's say that w campers went rowing in the morning. 
+
+Some more campers went rowing in the afternoon. 
+
+Let's say that y campers went rowing in the afternoon. 
+
+If a total of x campers went rowing that day, then: 
+
+x = w + y 
+
+y = x - w 
+
+y = w + y - w 
+
+y = w","There were 15 campers rowing in the morning. 
+
+Then, some more campers went rowing in the afternoon. 
+
+We know that a total of 32 campers went rowing that day. 
+
+So, if we subtract the number of campers who went rowing in the morning from the total number of campers who went rowing that day, we will be left with the number of campers who went rowing in the afternoon. 
+
+32 - 15 = 
+
+17",17 campers went rowing in the afternoon.,"Let's say that x campers went rowing in the morning and y campers went rowing in the afternoon. 
+
+Then we know that: 
+x + y = 32
+x = 15
+
+We can solve this system of equations using substitution: 
+
+y = 32 - 15
+y = 17",( x - w ),17,( 32.0 - 15.0 )
+7,338,"How many sacks can they harvest in w days? That's w*sacks. 
+
+How many days will it take to harvest x sacks of oranges? That's x/w*days.",It will take x/w days to harvest x sacks of oranges.,"Let's say that w sacks per day is the rate of harvesting. The number of days it will take to harvest x sacks of oranges is denoted by d. 
+
+d = x/w
+
+This equation states that the number of days it will take to harvest x sacks of oranges is equal to x sacks divided by w sacks per day.","The first day, they harvest 8 sacks. 
+
+The second day, they harvest 8 more sacks, for a total of 16 sacks. 
+
+The third day, they harvest 8 more sacks, for a total of 24 sacks. 
+
+It will take 3 days to harvest 24 sacks of oranges.", It will take 3 days to harvest 24 sacks of oranges.,"Let's say that x is the number of days it takes to harvest 24 sacks of oranges. 
+
+We know that: 
+
+8 sacks per day * x days = 24 sacks
+
+8x = 24
+
+x = 3
+
+It will take 3 days to harvest 24 sacks of oranges.",( x / w ),3,( 24.0 / 8.0 )
+8,50,"There are w snakes and x alligators in the cage. 
+
+y alligators are hiding. 
+
+That means that there are (x - y) alligators that are not hiding.","There were y + x alligators in the cage, and y of them were hiding. Therefore, there were x alligators that were not hiding.","There are w snakes and x alligators in the cage. 
+y alligators are hiding. 
+
+There are (x - y) alligators not hiding.","There are 97 alligators in the cage. 
+
+40 alligators are hiding. 
+
+That means that 97 - 40 = 57 alligators are not hiding.", 57 alligators were not hiding.,"There are $93$ snakes and $97$ alligators in the cage. 
+
+$x$ - the number of alligators hiding. 
+
+$y$ - the number of alligators not hiding. 
+
+Then we have the equation: 
+
+$93 + 97 = 40 + y$
+
+$y = 97 - 40 = 57$
+
+So, $57$ alligators were not hiding.",( x - y ),57,( 97.0 - 40.0 )
+9,69,"Olivia spent w dollars at a supermarket. 
+
+That means she had w dollars to spend at the supermarket. 
+
+Now she has x dollars left with her. 
+
+That means she had w + x dollars with her in total.",Olivia had w + x dollars initially.,"Olivia spent w dollars at a supermarket. If she has x dollars left with her How much money did she have initially?
+
+Olivia had y dollars initially.
+
+She spent w dollars at the supermarket, so she has y - w dollars left.
+
+We know that she has x dollars left, so:
+
+y - w = x
+
+y = w + x","Olivia spent 78 dollars at a supermarket. 
+
+That means she had 78 dollars to spend at the supermarket. 
+
+That means she had 78 + 33 = 111 dollars in total.", Olivia had 111 dollars initially.,"Olivia spent 78 dollars at a supermarket. If she has 33 dollars left with her How much money did she have initially?
+
+Olivia spent 78 dollars at a supermarket. If she has 33 dollars left with her, she had 78 - 33 = 45 dollars initially.",( w + x ),111,( 78.0 + 33.0 )
+10,69,"Olivia spent w dollars at a supermarket. 
+
+That means she had w dollars to spend at the supermarket. 
+
+Now she has x dollars left with her. 
+
+That means she had w + x dollars with her in total.",Olivia had w + x dollars initially.,"Olivia spent w dollars at a supermarket. If she has x dollars left with her How much money did she have initially?
+
+Olivia had y dollars initially.
+
+She spent w dollars at the supermarket, so she has y - w dollars left.
+
+We know that she has x dollars left, so:
+
+y - w = x
+
+y = w + x","Olivia spent 78 dollars at a supermarket. 
+
+That means she had 78 dollars to spend at the supermarket. 
+
+That means she had 78 + 33 = 111 dollars in total.", Olivia had 111 dollars initially.,"Olivia spent 78 dollars at a supermarket. If she has 33 dollars left with her How much money did she have initially?
+
+Olivia spent 78 dollars at a supermarket. If she has 33 dollars left with her, she had 78 - 33 = 45 dollars initially.",( w + x ),111,( 78.0 + 33.0 )
+11,502,"There are w seats in each Ferris wheel in paradise park. 
+Each seat in a Ferris wheel can hold x people. 
+How many people can ride y Ferris wheels at the same time?
+
+The answer is w*x*y.",There are w*x*y people that can ride the Ferris wheels at the same time.,"There are w seats in each Ferris wheel. 
+There are x people in each seat. 
+There are y Ferris wheels in the park. 
+
+The total number of people who can ride the Ferris wheels at the same time is: w*x*y","There are 19 seats in each Ferris wheel. 
+There are 15 people in each seat. 
+There are 20 Ferris wheels. 
+
+19 seats x 15 people x 20 Ferris wheels = 5700 people",There can be a maximum of 285 people riding the 20 Ferris wheels at the same time.,"There are 19 seats in each Ferris wheel. 
+There are 15 people in each seat. 
+There are 20 Ferris wheels. 
+
+19 seats * 15 people * 20 Ferris wheels = 5700 people",( ( w * x ) * y ),5700,( ( 19.0 * 15.0 ) * 20.0 )
+12,870,"First, we know that Steven has w peaches. We also know that Jake has x fewer peaches than Steven. So, we can say that Jake has w - x peaches. 
+
+Next, we know that Steven has y more peaches than Jill. So, we can say that Jill has w - y peaches. 
+
+Now, we have all the information we need to solve for Jill's peaches. We know that Jake has w - x peaches and we know that Jill has w - y peaches. We also know that Jake has x fewer peaches than Jill. So, we can say that x = w - y - (w - x), which is the same as saying x = 2w - 2x - y. 
+
+Now that we have an equation for x, we can solve for it. We know that w = x + y + z, so we can plug that in for w in our equation for x. We get x = 2(x + y + z) - 2x - y, which is the same as saying x = 3x + 2y + z - y. 
+
+Now we can solve for x. We get x = y + z.",Jill has w - y peaches.,"Steven has w peaches.
+
+Jake has x fewer peaches than Steven.
+
+Jill has y more peaches than Jake.
+
+Jill has w + y peaches.","Steven has 18 peaches. Jake has 12 fewer peaches than Steven. So Jake has 6 peaches. 
+
+Steven has 18 peaches. Jill has 8 more peaches than Jake. So Jill has 14 peaches.",Jill has 10 peaches.,"Let's denote the number of peaches that Jill has as $x$. 
+
+Then, we know that: 
+
+$x + 8 = 18$
+
+$x + 12 = 18 - 8$
+
+$x = 18 - 8 - 12$
+
+$x = -2$
+
+This is not a possible answer, because we are dealing with peaches, which are physical objects and therefore cannot be negative. 
+
+The only other possibility is that we have made a mistake in our calculations. Let's check. 
+
+$18 + 12 = 30$
+
+$18 + 8 = 26$
+
+$30 - 26 = 4$
+
+This is the correct answer.",( w - y ),10,( 18.0 - 8.0 )
+13,913,"First, we need to know how many push-ups Zachary did. We know that David did more push-ups than Zachary, so we'll start by subtracting x from w. 
+
+w - x = y
+
+That means that y is the number of push-ups Zachary did. 
+
+Now we need to add y and w together to get the total number of push-ups done by both Zachary and David. 
+
+y + w = total number of push-ups
+
+We can plug in what we know for y and w to solve for the total number of push-ups. 
+
+w - x + w = total number of push-ups
+
+w - x + w = 2w - x
+
+2w - x = total number of push-ups",Zachary and David did a total of w + x push-ups.,"Let's say that Zachary did y push-ups. 
+
+Then we know that: 
+David did w push-ups in gym class today.
+David did x more push-ups than Zachary.
+
+That means that: 
+w = x + y
+
+Now we can solve for y: 
+y = w - x 
+
+Now we know that: 
+Zachary did y push-ups.
+Zachary did w - x push-ups.
+
+That means that the total number of push-ups that Zachary and David did is: 
+w + (w - x) = 2w - x","David did 51 push-ups. 
+Zachary did 49 more push-ups than David. 
+
+That means that Zachary must have done 100 push-ups. 
+
+David and Zachary did a total of 151 push-ups.",David and Zachary did a total of 100 push-ups.,"Let's denote the number of push-ups Zachary did by $z$. Then, we know that $z + 49 = 51$, so $z = 2$. 
+
+Therefore, Zachary and David did $2 + 51 = 53$ push-ups altogether.",( ( w + <w) - x ),53,( ( 51.0 + 51.0 ) - 49.0 )
+14,651,"First, we need to figure out how many cups of flour she needs in total. The recipe calls for w cups of flour, and she already put in y cups of flour. So she needs w - y cups of flour in total. 
+
+Next, we need to figure out how many cups of sugar she needs in total. The recipe calls for x cups of sugar. 
+
+Now we need to compare the two. The recipe calls for w - y cups of flour and x cups of sugar. We want to know how many more cups of sugar than cups of flour she needs to add. So we take x - (w - y) = x - w + y.",Mary needs to add x - y cups of sugar.,"First, we need to find out how many cups of sugar she needs to add in total. We can call this variable z. 
+
+We know that she needs w cups of flour and x cups of sugar in total. We also know that she has already put in y cups of flour. 
+
+This means that she needs to put in w-y cups of flour and x cups of sugar in total. 
+
+We also know that she has already put in y cups of flour, which means that she needs to put in z-y cups of sugar. 
+
+We can set these two equations equal to each other and solve for z. 
+
+w-y=z-x 
+z=w-y+x","First, we need to figure out how many cups of flour she needs to add. The recipe calls for 9 cups of flour, and she has already put in 4 cups of flour. So she needs to add 9 - 4 = 5 cups of flour. 
+
+Next, we need to figure out how many cups of sugar she needs to add. The recipe calls for 11 cups of sugar, and she has already put in 4 cups of sugar. So she needs to add 11 - 4 = 7 cups of sugar. 
+
+Finally, we need to figure out how many more cups of sugar than cups of flour she needs to add. We know that she needs to add 5 cups of flour and 7 cups of sugar. So she needs to add 7 - 5 = 2 more cups of sugar than cups of flour.",Mary needs to add 7 more cups of sugar than cups of flour.,"We know:
+4 cups of flour -> x cups of sugar
+
+We need to find:
+x cups of sugar -> y cups of sugar
+
+We are looking for:
+y - x cups of sugar
+
+Now we can write down the equation:
+9x = 11y
+y = (9x)/11",( x - ( w - y ) ),6,( 11.0 - ( 9.0 - 4.0 ) )
+15,612,"There were some campers rowing in the morning. That means that not all of the campers went rowing in the morning. So, we can write:
+
+x campers went rowing that day 
+- w campers went rowing in the afternoon 
+= some campers went rowing in the morning
+
+We don't know how many campers went rowing in the morning, so we'll call that number y. So we have:
+
+x campers went rowing that day
+- w campers went rowing in the afternoon
+= y campers went rowing in the morning
+
+We can solve this equation for y:
+
+y = x - w",There is not enough information to answer this question.,"Let's say that the number of campers who went rowing in the morning is $m$, and the number of campers who went rowing in the afternoon is $a$. 
+
+We know that the total number of campers who went rowing that day is $x$, so:
+$$x = m + a$$
+We also know that some campers went rowing in the morning, so:
+$$m > 0$$
+We also know that some campers went rowing in the afternoon, so:
+$$a > 0$$
+We also know that the number of campers who went rowing in the morning is less than the total number of campers who went rowing that day, so:
+$$m < x$$
+We also know that the number of campers who went rowing in the afternoon is less than the total number of campers who went rowing that day, so:
+$$a < x$$
+
+Now we have four inequalities with two unknowns, $m$ and $a$. We can solve this system of inequalities using substitution. 
+
+Substitute $x = m + a$ into each of the other three inequalities:
+$$m + a > 0","There were 60 campers rowing that day. 
+
+7 campers went rowing in the afternoon. 
+
+That means that there were 53 campers rowing in the morning.","Some campers went rowing in the morning while 7 campers went rowing in the afternoon. If a total of 60 campers went rowing that day, then 53 campers went rowing in the morning.","Let's say that x is the number of campers who went rowing in the morning. Then we know that:
+
+x + 7 = 60
+
+x = 60 - 7
+
+x = 53",( x - w ),53,( 60.0 - 7.0 )
+16,646,"The day before yesterday, there were y visitors. The day before that, there were x visitors. So, two days ago, there were x + y visitors. 
+
+Yesterday, there were w visitors. So, three days ago, there were x + y + w visitors.",There is not enough information provided to answer this question.,"Let's say that the number of visitors on the day before Rachel's visit was z. Then we have the following system of equations:
+$$
+\begin{cases}
+z+x=y\\
+y+x=w\\
+\end{cases}
+$$
+$$
+\begin{cases}
+z=y-x\\
+y=w-x\\
+\end{cases}
+$$
+$$
+\begin{cases}
+z=w-2x\\
+\end{cases}
+$$
+Now we have only one equation with one unknown, which we can easily solve:
+$$
+z=w-2x \Rightarrow z=w-2(y-z) \Rightarrow z=\frac{w+z}{2}
+$$
+Thus, the number of visitors on the day before Rachel's visit was $\frac{w+z}{2}$.","The day before the day before the day in question, there were 103 visitors. The day before that, there were 419 visitors. So, two days before the day in question, there were 103 + 419 = 522 visitors.",There is not enough information provided to answer this question.,"Let's denote the number of visitors on the day before the day in question as $x$. Then, the number of visitors two days before the day in question is $x-92$. We are looking for $x-92$.
+$$
+x = 419 + 92 = 511
+$$
+$$
+x-92 = 419
+$$",( x + y ),522,( 419.0 + 103.0 )
+17,965,"The chef had w apples and x peaches. 
+
+After making some pies, he had y apples left. 
+
+How many apples did he use?
+
+The chef used w-y apples.",The chef used w - y apples to make pies.,"A chef had w apples and x peaches. After making some pies, he had y apples left. How many apples did he use?
+
+A chef had w apples and x peaches. After making some pies, he had y apples left. How many apples did he use?
+
+A chef had w apples and x peaches. After making some pies, he had y apples left. How many apples did he use?
+
+A chef had w apples and x peaches. After making some pies, he had y apples left. How many apples did he use?
+
+A chef had w apples and x peaches. After making some pies, he had y apples left. How many apples did he use?
+
+A chef had w apples and x peaches. After making some pies, he had y apples left. How many apples did he use?
+
+A chef had w apples and x peaches. After making some pies, he had y apples left. How many apples did he use?
+
+A chef had w apples and x peaches. After making some pies, he had y apples left. How many apples did he use?
+
+A chef had w apples and x peaches. After making some pies","The chef had 40 apples and 54 peaches. 
+
+After making some pies, he had 39 apples left. 
+
+That means he used 1 apple to make pies.",The chef used 1 apple to make pies.,"Let's say that x is the number of apples used in pies. 
+
+Then we have the following equation: 
+
+40 - x + 54 = 39 
+
+We can solve it for x: 
+
+40 - x = -15 
+
+x = 55 
+
+So, the chef used 55 apples in pies.",( w - y ),1,( 40.0 - 39.0 )
+18,699,"We know that Lucy went to the grocery store and she bought w packs of cookies and x packs of cake. We also know that she bought more packs of cookies than cake. 
+
+That means that w > x. 
+
+We can solve this problem by subtracting x from both sides. 
+
+w - x > x - x
+
+w - x > 0
+
+That means that w - x is the answer, which is the number of more packs of cookies Lucy bought over cake.", w - x,"Let's say that one pack of cookies is c and one pack of cake is k. 
+
+Lucy went to the grocery store. She bought w packs of cookie and x packs of cake.
+
+This means that:
+
+c*w+k*x=constant
+
+We need to find out how many more packs of cookie she bought over cake. In other words, we need to find out how many more c's there are than k's. 
+
+This is the same as saying that we need to find out how many more c's there are than k's in the equation:
+
+c*w+k*x=constant
+
+We can do this by subtracting kx from both sides:
+
+c*w+k*x-k*x=constant-k*x
+
+c*w=constant-k*x
+
+c*w/c=constant/c-k*x/c
+
+w=constant/c-k*x/c
+
+w=constant/c-(constant/c-w)/x
+
+w=constant/c-(constant-c*w)/x
+
+w","Lucy went to the grocery store. She bought 10 packs of cookie and 4 packs of cake. 
+
+We want to know how many more packs of cookie she bought over cake. 
+
+We can find this out by subtracting the number of packs of cake from the number of packs of cookie. 
+
+10 - 4 = 6
+
+Lucy bought 6 more packs of cookie than cake.",Lucy bought 6 more packs of cookies than cake.,"Let's say that x is the number of packs of cookies and y is the number of packs of cake. 
+
+We know that:
+
+x + y = 14
+
+x = 10
+
+y = 4
+
+Now we can solve for y:
+
+y = 14 - 10
+
+y = 4",( w - x ),6,( 10.0 - 4.0 )
+19,205,"Bryan has w books and x magazines in each of his y bookshelves.
+
+This means that Bryan has w*y books in total and x*y magazines in total.", wxy magazines,"Bryan has w books and x magazines in each of his y bookshelves.
+
+This means that he has w*y books in total and x*y magazines in total.","Bryan has 9 books and 46 magazines in each of his 10 bookshelves. 
+
+This means that Bryan has 9 * 10 = 90 books in total. 
+
+Since he has 46 magazines in each bookshelf, this means that he has 46 * 10 = 460 magazines in total. 
+
+Therefore, Bryan has 90 books and 460 magazines in total.",Bryan has 9 books and 46 magazines in each of his 10 bookshelves. He has a total of 460 magazines.,"Bryan has 9 books and 46 magazines in each of his 10 bookshelves.
+
+Let's introduce the following variables:
+
+x = the number of bookshelves
+y = the number of books
+z = the number of magazines
+
+We know that:
+
+x = 10
+y = 9
+z = 46
+
+Now we can write an equation:
+
+x * y * z = 10 * 9 * 46
+
+x * y * z = 4140
+
+Therefore, Bryan has 4140 magazines in total.",( x * y ),460,( 46.0 * 10.0 )
+20,706,"Josh had w marbles. 
+
+Then he lost x marbles. 
+
+That means he now has w - x marbles. 
+
+But then he found y new marbles. 
+
+That means he now has w - x + y marbles.",Josh has w - x + y marbles in his collection.,"Let's say that Josh had w marbles in his collection. He lost x marbles and found y new ones. How many marbles does he have now?
+
+Josh had w marbles in his collection.
+
+Josh lost x marbles.
+
+Josh found y new marbles.
+
+Josh has w - x + y marbles in his collection now.","Josh had 19 marbles. 
+
+He lost 11 marbles. 
+
+That means he has 19 - 11 = 8 marbles left. 
+
+He found 5 new marbles. 
+
+That means he has 8 + 5 = 13 marbles now.",Josh has 13 marbles in his collection.,"Josh had 19 marbles in his collection. He lost 11 marbles and found 5 new ones. How many marbles does he have now?
+
+Josh had $x$ marbles in his collection. He lost $y$ marbles and found $z$ new ones. How many marbles does he have now?
+
+$x = 19, y = 11, z = 5$
+
+$x - y + z = 19 - 11 + 5 = 13$
+
+Josh has 13 marbles now.",( ( w - x ) + y ),13,( ( 19.0 - 11.0 ) + 5.0 )
+21,134,Emily made w necklaces. So she used w * x beads.,Emily had wx beads.,"Emily made w necklaces and each necklace takes x beads.
+
+Emily had w*x beads.","Emily made 11 necklaces. 
+Each necklace takes 28 beads. 
+
+We can multiply 11 by 28 to find out how many beads Emily used in total. 
+
+11 * 28 = 308
+
+Emily had 308 beads.",Emily had 308 beads.,"Emily has 11 necklaces and each necklace takes 28 beads. 
+
+We can say that: 
+
+11 necklaces * 28 beads = 308 beads
+
+Emily had 308 beads.",( w * x ),308,( 11.0 * 28.0 )
+22,386,"Emily made x necklaces. 
+Each necklace takes 2 beads. 
+
+So, if we multiply x and 2, we will get the answer. 
+
+2x = the number of beads 
+
+Therefore, the answer is 2x.","If Emily made x necklaces, she would have used 2x beads.","Emily made x necklaces. 
+Each necklace takes 2 beads. 
+Therefore, the total number of beads is 2x.","Emily has made 26 necklaces. Each necklace has 2 beads. 
+
+We can multiply to find out how many beads Emily has used in total. 
+
+26 x 2 = 52
+
+Emily has used 52 beads in total.",Emily had 52 beads.,"Emily has $x$ beads. 
+She made $y$ necklaces. 
+Each necklace takes $z$ beads. 
+
+We know that $y = 26$ and $z = 2$. 
+
+We need to find $x$. 
+
+We can write an equation: $x = yz$. 
+
+We know that $y = 26$ and $z = 2$. 
+
+Therefore, $x = 26 \cdot 2 = 52$. 
+
+Emily had 52 beads.",( x * y ),52,( 26.0 * 2.0 )
+23,512,"First, we know that David did more push-ups than Zachary. This means that the number of push-ups David did, x, is greater than the number of push-ups Zachary did. 
+
+We also know that the total number of push-ups done by both David and Zachary is w. 
+
+Now, we can set up an equation to solve for w. 
+
+x + y = w 
+
+We know that y is less than x, so we can say that y is less than w. 
+
+Now we have two equations: 
+
+x + y = w 
+y < w 
+
+We can solve for w by finding the intersection of these two equations. 
+
+The intersection of these two equations is w = x. 
+
+This means that the total number of push-ups done by both David and Zachary is equal to the number of push-ups that David did.","If David did x push-ups, then Zachary did (x - w) push-ups. So, David and Zachary did a total of x + (x - w) = 2x - w push-ups.","Let's say that David did x push-ups. 
+
+Zachary did w push-ups. 
+
+David did more push-ups than Zachary, so:
+
+x > w
+
+Now we need to find out how many push-ups David and Zachary did altogether. 
+
+We can use the fact that the sum of two numbers is equal to the difference between the larger number and the smaller number plus the smaller number. 
+
+The sum of two numbers is equal to the difference between the larger number and the smaller number plus the smaller number:
+
+x + w = (x - w) + w
+
+We know that x is larger than w, so we can write:
+
+x + w = (x - w) + w
+
+x + w = x - w + w
+
+x + w = x
+
+Now we know that the sum of David's and Zachary's push-ups is equal to x.","First, we know that David did more push-ups than Zachary. This means that the difference between the two is positive. 
+
+Next, we know that the difference is 56. This means that if we start with the number of push-ups that Zachary did, and we add 56, we will get the number of push-ups that David did. 
+
+So, if we start with the number of push-ups that Zachary did, and we add 56, we will get 38. 
+
+This means that Zachary did 38 - 56 = -18 push-ups. 
+
+However, this is not possible, because it is not possible to do a negative number of push-ups. 
+
+This means that our original assumption must be false, and David did not do 56 more push-ups than Zachary in gym class today.",Zachary and David did a total of 94 push-ups.,"Let's say that $x$ is the number of push-ups that Zachary did. Then we know that 
+$$x + 56 = 38 + 56 \Rightarrow x = 94$$
+
+So, Zachary did 94 push-ups and David did 38 + 56 = 94 push-ups. In total, they did 94 + 94 = 188 push-ups.",( ( x + <x) - w ),20,( ( 38.0 + 38.0 ) - 56.0 )
+24,753,"There are w boys and x girls in the school. 
+
+y more girls joined the school. 
+
+That means there are now w boys and x + y girls in the school. 
+
+There are x + y - w more girls than boys in the school.",There are w boys and x girls in the school. y more girls joined the school. The school has y more girls than boys.,"There are w boys and x girls in the school. 
+y more girls joined the school. 
+
+There are w boys and x + y girls in the school. 
+
+There are more girls than boys in the school if x + y > w.","There are 362 boys and 257 girls in the school. 
+
+403 more girls joined the school. 
+
+That means there are 660 girls in the school now. 
+
+There are 660 girls and 362 boys in the school. 
+
+That means there are 298 more girls than boys in the school.",There are 403 more girls than boys in the school.,"There are $b$ boys and $g$ girls in the school. 
+$b + g = 619$
+$b = 619 - g$
+$403$ more girls joined the school. 
+$g = 257 + 403 = 660$
+$b = 619 - 660 = -41$
+There are $41$ more girls than boys in the school.",( ( x + y ) - w ),298,( ( 257.0 + 403.0 ) - 362.0 )
+25,245,"There are w sets of tables. Each set has x chairs. So the total number of chairs from the sets of tables is wx. 
+
+There are also y chairs extra. 
+
+So the total number of chairs is wx + y.",There are w*x + y chairs in total.,"There are w sets of tables and each set has x chairs.
+This can be rewritten as wx chairs.
+
+There are also y chairs extra.
+This can be rewritten as wx + y chairs.
+
+Therefore, they have wx + y chairs for the guests.","There are 12 sets of tables and each set has 14 chairs. 
+
+That means there are 12 * 14 = 168 chairs in total. 
+
+There are also 6 chairs extra. 
+
+That means there are 168 + 6 = 174 chairs in total.",There are 168 chairs in total.,"There are 12 sets of tables and each set has 14 chairs. 
+
+There are 12*14=168 chairs in total. 
+
+There are 6 chairs extra. 
+
+There are 168+6=174 chairs in total.",( ( w * x ) + y ),174,( ( 12.0 * 14.0 ) + 6.0 )
+26,613,"First, we need to find out how many sacks of oranges they will have after one day of harvest. They harvest w sacks per day and discard x of them, so they will have w-x sacks of oranges after one day.
+
+Next, we need to find out how many sacks of oranges they will have after two days of harvest. They will have w-x sacks of oranges after the first day, and they will harvest w sacks per day and discard x of them on the second day, so they will have (w-x) + (w-x) = 2(w-x) sacks of oranges after two days.
+
+We can continue this pattern to find out how many sacks of oranges they will have after y days of harvest. They will have (w-x) + (w-x) + ... + (w-x) = y(w-x) sacks of oranges after y days.","After y days of harvest, they will have w*y - x*y sacks of oranges.","Let's say that on the first day they harvest w1 sacks of oranges and discard x1 of them. Then they have w1-x1 sacks of oranges. On the second day, they harvest w2 sacks of oranges and discard x2 of them. They now have (w1-x1)+(w2-x2) sacks of oranges. 
+
+Can you see the pattern? On the third day, they will have (w1-x1)+(w2-x2)+(w3-x3) sacks of oranges. 
+
+In general, on the yth day, they will have (w1-x1)+(w2-x2)+...+(wy-xy) sacks of oranges.","On the first day, they harvest 74 sacks and discard 71 of them. They are left with 3 sacks. 
+
+On the second day, they harvest 74 sacks and discard 71 of them. They are left with 6 sacks (3 from the first day, plus 3 from the second day). 
+
+On the third day, they harvest 74 sacks and discard 71 of them. They are left with 9 sacks (6 from the first two days, plus 3 from the third day). 
+
+This pattern continues. After the 51st day, they will have 3*51=153 sacks of oranges.","After 51 days of harvest, they will have 2,124 sacks of oranges.","Let's say that <code>s</code> is the number of sacks of oranges harvested per day. Then <code>d</code> is the number of sacks of oranges discarded per day. 
+
+The number of sacks of oranges harvested after <code>n</code> days is <code>s * n</code>. 
+The number of sacks of oranges discarded after <code>n</code> days is <code>d * n</code>. 
+
+The number of sacks of oranges remaining after <code>n</code> days is <code>s * n - d * n</code>. 
+
+Now, we know that <code>s = 74</code> and <code>d = 71</code>. 
+
+The number of sacks of oranges remaining after <code>51</code> days is <code>74 * 51 - 71 * 51</code>. 
+
+Therefore, the answer is <code>74 * 51 - 71 * 51 = 2323</code>. ",( ( w - x ) * y ),153,( ( 74.0 - 71.0 ) * 51.0 )
+27,155,"Carol is sending out birthday invitations to her friends. 
+
+If each package of invitations she bought had x invitations in it, she would need at least y packages so that no friend gets left out. 
+
+We can set up an equation to solve for y. 
+
+y ≥ w/x
+
+This equation says that y, the number of packages of invitations, must be greater than or equal to w/x, where w is the number of friends Carol has. 
+
+For example, if Carol has 20 friends and each package of invitations has 10 invitations in it, she would need at least 2 packages of invitations so that no friend gets left out.",Carol would need to buy at least y packages of invitations so that no friend gets left out.,"Carol has w friends. 
+Each package of invitations has x invitations in it. 
+Carol needs to buy p packages of invitations. 
+
+We need to find p. 
+
+We know that w = p * x. 
+
+We also know that p must be an integer, which means that w must be a multiple of x. 
+
+Therefore, we need to find the smallest integer p such that w is a multiple of x. 
+
+The smallest integer p such that w is a multiple of x is w / x. 
+
+Therefore, the number of packages of invitations Carol needs to buy is w / x.","Carol is sending out birthday invitations to 10 friends. 
+
+This means that she needs 10 invitations in total. 
+
+Each package of invitations she bought has 2 invitations in it. 
+
+This means that she needs 5 packages of invitations in total.",Carol would need to buy 5 packages of invitations so that no friend gets left out.,"Carol has 10 friends. 
+Each package of invitations has 2 invitations. 
+Therefore, Carol needs 10 / 2 = 5 packages of invitations.",( w / x ),5,( 10.0 / 2.0 )
+28,681,"Danny has w + x bottle caps and wrappers in total. 
+
+He found x wrappers at the park, which means that he had w + (x - x) = w bottle caps before he went to the park. 
+
+Now he has y + x wrappers and w + x - x = w bottle caps. 
+
+This means that he has y + x - w more wrappers than bottle caps.",Danny has y-x wrappers and z-w bottle caps in his collection. He has more wrappers than bottle caps if y-x > z-w.,"Danny has w + x bottle caps and wrappers in total at the park. 
+He collected y bottle caps and z wrappers. 
+Therefore, he has (w + x) - (y + z) = (w + x) - (w + x) = 0 bottle caps and wrappers in his collection now. 
+
+We can see that the number of bottle caps is equal to the number of wrappers.","Danny found 15 bottle caps and 18 wrappers at the park. 
+
+That means he had 15 bottle caps and 18 wrappers to start with. 
+
+Now he has 67 wrappers and 35 bottle caps in his collection. 
+
+That means he has 67 - 18 = 49 wrappers and 35 - 15 = 20 bottle caps more than he started with. 
+
+So he has 49 - 20 = 29 more wrappers than bottle caps.", Danny has 32 more wrappers than bottle caps.,"Let's say that Danny had x bottle caps and y wrappers in his collection before he went to the park. Then we know that:
+
+x + 15 = 67 
+y + 18 = 35
+
+We can solve this system of equations to find out what x and y are:
+
+x = 52
+y = 17
+
+So, Danny had 52 bottle caps and 17 wrappers in his collection before he went to the park. 
+
+Now we need to find out how many more wrappers than bottle caps Danny has in his collection now. We can do this by subtracting the number of bottle caps from the number of wrappers:
+
+67 - 35 = 32
+
+Danny has 32 more wrappers than bottle caps in his collection now.",( y - z ),32,( 67.0 - 35.0 )
+29,206,"First, we need to know how many pages of math and biology homework Rachel had to complete. 
+
+We are given that Rachel had to complete w pages of math homework, x pages of reading homework, and y more pages of biology homework. 
+
+We want to know how many pages of math and biology homework Rachel had to complete. 
+
+We can create the equation w + y = math and x + y = biology.","Rachel had to complete w pages of math homework, x pages of reading homework, and y pages of biology homework. In total, she had to complete w + y pages of math and biology homework.","First, we need to find out how many pages of math and biology homework Rachel had to complete. 
+
+We know that: 
+
+Rachel had to complete w pages of math homework, 
+
+x pages of reading homework, 
+
+and y more pages of biology homework. 
+
+That means that she had to complete w + y pages of math and biology homework. 
+
+We also know that: 
+
+w + x + y = 18 
+
+That means that: 
+
+w + y = 18 - x 
+
+Now we have all the information we need to solve the task. 
+
+We need to find out how many pages of math and biology homework Rachel had to complete. 
+
+That is w + y. 
+
+We know that w + y = 18 - x. 
+
+That means that w + y = 18 - 6 = 12. 
+
+That means that Rachel had to complete 12 pages of math and biology homework.","First, we need to find out how many pages of math and biology homework Rachel had to complete. 
+
+We know that Rachel had to complete 8 pages of math homework and 3 pages of biology homework. 
+
+That means she had to complete 11 pages of math and biology homework in total.","Rachel had to complete 8 pages of math homework, 7 pages of reading homework, and 3 more pages of biology homework. She had to complete 11 pages of math and biology homework.","Let's denote the number of pages of math homework as $x$, the number of pages of reading homework as $y$, and the number of pages of biology homework as $z$. 
+
+We know that:
+$$x + y + z = 18$$
+$$x = 8$$
+$$y = 7$$
+
+Therefore, we can calculate $z$:
+$$z = 18 - 8 - 7 = 3$$
+
+So, Rachel had to complete 8 pages of math homework, 7 pages of reading homework and 3 more pages of biology homework.",( w + y ),11,( 8.0 + 3.0 )
+30,712,"The first chapter is w5 pages long. 
+
+The second chapter is y pages long. 
+
+The third chapter is w pages long. 
+
+The second chapter has y - w pages more than the third chapter.",The second chapter has w + y - w = y pages more than the third chapter.,"Let's denote the number of pages in the first chapter as x, the number of pages in the second chapter as y, and the number of pages in the third chapter as z. 
+
+According to the conditions of the problem, we have the following system of equations:
+
+x=w5
+
+y=x+z
+
+z=w
+
+We need to find y-z. 
+
+y-z=x+z-z=x=w5. 
+
+Therefore, y-z=w5.","The first chapter is 35 pages long. 
+The second chapter is 18 pages long. 
+The third chapter is 3 pages long. 
+
+To find out how many more pages the second chapter has than the third chapter, we need to subtract the number of pages in the third chapter from the number of pages in the second chapter. 
+
+18 - 3 = 15 
+
+The second chapter has 15 more pages than the third chapter.",The second chapter has 15 more pages than the third chapter.,"Let's denote the number of pages in the first chapter as $x$, the number of pages in the second chapter as $y$, and the number of pages in the third chapter as $z$. 
+
+According to the problem statement, we have the following system of equations:
+$$
+\begin{cases}
+x=35,\\
+y=18,\\
+z=3,\\
+y-z=15.
+\end{cases}
+$$
+
+This system has a unique solution: $x=35$, $y=18$, $z=3$. 
+
+Therefore, the second chapter has 15 more pages than the third chapter.",( y - w ),15,( 18.0 - 3.0 )
+31,798,"Ed had w more marbles than Doug. This means that if we start with Doug's marbles, and add w, we will get Ed's marbles. So we can write:
+
+Doug's marbles + w = Ed's marbles
+
+Doug lost x of his marbles at the playground. This means that if we start with Doug's marbles, and subtract x, we will get the number of marbles Doug has now. So we can write:
+
+Doug's marbles - x = the number of marbles Doug has now
+
+We can solve this using algebra. We know that Doug's marbles + w = Ed's marbles, and Doug's marbles - x = the number of marbles Doug has now. If we set these equal to each other, we can solve for Doug's marbles.
+
+Doug's marbles + w = Doug's marbles - x
+
+w = -x
+
+Doug's marbles = x - w
+
+Doug's marbles = x + (-x)
+
+Doug's marbles = 0
+
+This means that Doug has 0 marbles now.",Doug has w - x - y marbles now.,"Let's say that Doug had m marbles before he lost any. Then:
+
+m - x = w + y
+
+m = w + y + x
+
+So, Doug has w + y + x - x = w + y marbles now.","Ed had 6 more marbles than Doug. So if we start with Doug having 0 marbles, then Ed would have 6. 
+
+Doug lost 7 of his marbles at the playground. So now Doug has 0 - 7 = -7 marbles, and Ed has 6 - 7 = -1 marbles. 
+
+But we know that Ed has 22 marbles. So Ed has 22 - (-1) = 23 marbles. 
+
+Therefore, Doug has 23 - 6 = 17 marbles.",Doug has 15 marbles now.,"Let's denote Doug's number of marbles as $x$ and Ed's number of marbles as $y$. 
+
+Then we have $y=x+6$ and $x-7=y-6$, which is equivalent to $x=y-1$. 
+
+Substituting this value of $x$ into the first equation, we get $y=y-1+6$, which is equivalent to $y=5$. 
+
+Thus, Doug has $4$ marbles now.",( ( y - w ) - x ),9,( ( 22.0 - 6.0 ) - 7.0 )
+32,645,"First, we need to find out how many cakes the baker sold. We know that he sold w cakes. 
+
+Next, we need to find out how many cakes the baker made. We know that he made x cakes. 
+
+Now, we need to compare the two values. The baker sold w cakes and he made x cakes. 
+
+We need to find out how many more cakes the baker made than those he sold. 
+
+This is equal to x - w.","If the baker sold w cakes, then he made w + x cakes in total. Therefore, the baker made x more cakes than those he sold.","Let's say that the baker sold w cakes. 
+
+This means that he had w + x cakes in total. 
+
+We know that he sold w cakes, so he must have had x more cakes than those he sold. 
+
+Therefore, the answer is x.","First, we need to figure out how many cakes the baker sold. We know that the baker sold 8 cakes. 
+
+Next, we need to figure out how many cakes the baker made in total. We know that the baker made 40 cakes in total. 
+
+Finally, we need to figure out how many more cakes the baker made than those he sold. We can do this by subtracting the number of cakes sold from the number of cakes made. 
+
+In other words, the answer is 40 - 8 = 32.",Baker made 32 more cakes than those he sold.,Let's say that the number of cakes that the baker sold is $x$. Then the number of cakes that the baker made is $x+40$. The number of cakes that the baker made is greater than the number of cakes that the baker sold by $40$.,( x - w ),32,( 40.0 - 8.0 )
+33,355,"Adam could fit w action figures on each shelf in his room.
+
+This means that if we have w shelves, we can fit w * w action figures in total. 
+
+His room has could hold x action figures.
+
+This means that if we have x shelves, we can fit x * x action figures in total. 
+
+How many total shelves did his room have?
+
+This means that we need to solve for x in the equation x * x = w * w.",There are a total of shelves in Adam's room.,"Let's say that Adam has y shelves in his room. 
+
+Then we know that: 
+
+y * w = x 
+
+That is, y shelves can hold w action figures each, and in total, this is equal to x action figures. 
+
+Now we can solve for y: 
+
+y = x / w 
+
+That is, the total number of shelves that Adam's room has is equal to the total number of action figures that it can hold, divided by the number of action figures that can fit on each shelf.","Adam could fit 10 action figures on each shelf in his room. 
+That means that if he had one shelf, he could fit 10 action figures on it. 
+If he had two shelves, he could fit 20 action figures on them. 
+If he had three shelves, he could fit 30 action figures on them. 
+
+We can keep going like this until we find the number of shelves that would allow him to fit 80 action figures. 
+
+If he had eight shelves, he could fit 80 action figures on them. 
+
+So, his room had eight shelves.",Adam's room had a total of 10 shelves.,"Let's say that the number of shelves in the room is $x$. Then we know that:
+$$10x \leq 8x$$
+$$x \leq \frac{8}{10}x$$
+$$x \leq \frac{8}{10} \cdot \frac{10}{10}x$$
+$$x \leq \frac{8}{10} \cdot \frac{10}{10} \cdot \frac{100}{100}x$$
+$$x \leq \frac{8}{10} \cdot \frac{10}{10} \cdot \frac{100}{100} \cdot \frac{1000}{1000}x$$
+$$x \leq \frac{8}{10} \cdot \frac{10}{10} \cdot \frac{100}{100} \cdot \frac{1000}{1000} \cdot \frac{10000}{10000}x$$
+$$x \leq \frac{8}{10} \cdot \frac{10}{10} \cdot \frac{100}{100} \cdot \frac{1000}{1000} \cdot \frac{",( x * w ),80,( 8.0 * 10.0 )
+34,927,"The grasshopper jumped w inches.
+The frog jumped w - x inches.
+The mouse jumped w - y inches.
+
+The grasshopper jumped w - (w - x) = x inches farther than the frog.
+The grasshopper jumped w - (w - y) = y inches farther than the mouse.
+
+Therefore, the grasshopper jumped x + y inches farther than the mouse.",The grasshopper jumped w + x inches farther than the mouse.,"The frog jumped f inches.
+
+The grasshopper jumped w inches.
+
+The mouse jumped m inches.
+
+The frog jumped f inches.
+
+The grasshopper jumped w inches.
+
+The mouse jumped m inches.
+
+The grasshopper jumped x inches farther than the frog.
+
+The mouse jumped y inches lesser than the frog.
+
+Now we have a system of 3 equations with 3 unknowns:
+
+f + x = w
+
+f - y = m
+
+x - y = z
+
+where z is the number of inches the grasshopper jumped farther than the mouse.
+
+We can solve this system using substitution:
+
+f + x = w
+
+f - y = m
+
+x - y = z
+
+f = w - x
+
+m = f + y
+
+z = x - y
+
+w - x + x - y = z
+
+w - x = z
+
+w - (w - x) = z
+
+x = z","The grasshopper jumped 21 inches.
+
+The frog jumped 4 inches.
+
+The mouse jumped 16 inches.
+
+The grasshopper jumped 25 inches farther than the frog.
+
+The mouse jumped 16 inches lesser than the frog.
+
+The grasshopper jumped 9 inches farther than the mouse.",The grasshopper jumped 41 inches farther than the mouse.,"Let's denote the frog's jump by $x$ and the mouse's jump by $y$. Then we have:
+
+$$
+\begin{cases}
+x + 16 = y \\
+x + 25 = 21
+\end{cases}
+$$
+
+Solving this system of linear equations, we get:
+
+$$
+\begin{cases}
+x = 5 \\
+y = 21
+\end{cases}
+$$
+
+Now we can calculate the difference between the grasshopper's and the mouse's jumps:
+
+$$
+21 - 5 = 16
+$$
+
+So, the grasshopper jumped 16 inches farther than the mouse.",( x + y ),41,( 25.0 + 16.0 )
+35,883,"Olivia had w dollars in her wallet. 
+
+She collected x more dollars from the ATM, so now she has w + x dollars. 
+
+She spent some money at the supermarket, so now she has w + x - y dollars. 
+
+We want to know how much money she spent at the supermarket, which is equal to y.",y - (w + x),"First, we know that:
+
+w + x = y
+
+That is, the amount of money in Olivia's wallet after she collected money from the ATM is equal to the amount of money she had in her wallet originally plus the amount of money she collected from the ATM. 
+
+Now, we also know that after she visited the supermarket, she had y - a dollars left in her wallet, where a is the amount of money she spent at the supermarket. 
+
+That is, we have:
+
+y - a = w + x
+
+We can solve this equation for a:
+
+a = w + x - y
+
+That is, the amount of money Olivia spent at the supermarket is equal to the amount of money she had in her wallet originally plus the amount of money she collected from the ATM minus the amount of money she had in her wallet after she visited the supermarket. 
+
+Now we have everything we need to answer the question. The question is asking for the difference between the amount of money Olivia spent at the supermarket and the amount of money she collected from the ATM. This difference is:
+
+a - x = (w + x - y) - x
+
+Which is equal to:","Olivia had 53 dollars in her wallet. She collected 91 more dollars from the ATM, so now she has 144 dollars. After she visits the supermarket, she has 14 dollars left. 
+
+To find out how much money she spent at the supermarket, we need to subtract the amount of money she had after the supermarket from the amount of money she had before the supermarket. 
+
+14 dollars - 144 dollars = 130 dollars
+
+Olivia spent 130 dollars at the supermarket.",Olivia spent 77 dollars more at the supermarket than she collected at the atm.,"Olivia's wallet: 53 dollars
+
+Olivia's wallet + money from ATM: 53 + 91 = 144 dollars
+
+Olivia's wallet + money from ATM - money spent at supermarket: 144 - 14 = 130 dollars
+
+Olivia spent 14 dollars more at the supermarket than she collected at the ATM.",( w - y ),39,( 53.0 - 14.0 )
+36,257,"First, we need to figure out how many cups of sugar are in the recipe. We can do this by adding w + z. 
+
+Next, we need to figure out how many cups of flour are in the recipe. We can do this by adding x + y. 
+
+Finally, we need to figure out how many more cups of sugar Mary needs to add. We can do this by subtracting y from w.", w-z cups of sugar,"First, we need to figure out how many cups of sugar she has put in so far. We know that she put in z cups of sugar, and the recipe calls for w cups of sugar. So we can say that:
+
+z + s = w
+
+where s is the number of cups of sugar she still needs to put in. 
+
+We also know that she put in y cups of flour, and the recipe calls for x cups of flour. So we can say that:
+
+y + f = x
+
+where f is the number of cups of flour she still needs to put in. 
+
+We can solve for s and f:
+
+s = w - z
+f = x - y
+
+Now we need to figure out how many cups of sugar she needs to add. We know that she put in z cups of sugar, and she needs to add s cups of sugar. So we can say that:
+
+z + a = s
+
+where a is the number of cups of sugar she needs to add. 
+
+We can solve for a:
+
+a = s - z","We know that the recipe calls for 11 cups of sugar and 9 cups of flour. 
+
+We know that Mary has already put in 12 cups of flour and 10 cups of sugar. 
+
+We want to know how many more cups of sugar Mary needs to add. 
+
+We can solve this problem by subtracting what Mary has already put in from what the recipe calls for. 
+
+11 cups of sugar - 10 cups of sugar = 1 cup of sugar
+
+9 cups of flour - 12 cups of flour = -3 cups of flour
+
+This means that Mary needs to add 1 more cup of sugar, but she has 3 cups of flour too many.",Mary needs to add 2 more cups of sugar to the cake.,"We have:
+$$
+s = 11, \; f = 9, \; S = 12, \; F = 10
+$$
+
+We need to find:
+$$
+S - s = ?
+$$
+
+We know that:
+$$
+S + f = F, \; s + F = S
+$$
+
+Therefore:
+$$
+S - s = F - f = 10 - 9 = 1
+$$
+
+So, Mary needs to add 1 more cup of sugar.",( w - z ),1,( 11.0 - 10.0 )
+37,593,"The shop sold $w worth of t-shirts. This means that they sold w/x t-shirts, since each t-shirt costs x. 
+
+Therefore, the cost of each t-shirt is x = w/x.",The cost of each t-shirt is $ w / x.,"Let's say that the cost of one t-shirt is $c$. 
+
+The total revenue from selling t-shirts is $w$. 
+
+The number of t-shirts sold is $x$. 
+
+We know that: 
+$$w = x \cdot c$$
+$$c = \frac{w}{x}$$","The shop sold 5 t-shirts, so we know that:
+
+5 t-shirts * $215 = $1075
+
+We want to know the cost of each t-shirt, so we want to divide both sides of the equation by 5:
+
+$1075 / 5 t-shirts = $215
+
+Therefore, the cost of each t-shirt is $215.",The cost of each t-shirt is $43.,"Let's denote the cost of one t-shirt as x. Then we have the equation:
+
+$$5x = 215$$
+
+$$x = 215/5$$
+
+$$x = 43$$
+
+So, the cost of one t-shirt is $43.",( w / x ),43,( 215.0 / 5.0 )
+38,958,"The grasshopper jumped w inches.
+The grasshopper jumped x inches farther than the frog.
+The frog jumped w + x inches.
+The mouse jumped w + x - y inches.",The mouse jumped w - y inches.,"The frog jumped f inches.
+
+The grasshopper jumped w inches.
+
+The grasshopper jumped x inches farther than the frog.
+
+The mouse jumped y inches lesser than the frog.
+
+Now we have four equations with four unknowns.
+
+f + y = m
+
+w + x = f
+
+w = f - x
+
+f = w + x
+
+From the first and the second equation we get:
+
+m = w + x
+
+From the third and the fourth equation we get:
+
+m = 2w
+
+Now we have two equations with two unknowns.
+
+w + x = 2w
+
+m = 2w
+
+From the first equation we get:
+
+x = w
+
+From the second equation we get:
+
+m = 2w
+
+Now we have two equations with two unknowns.
+
+x = w
+
+m = 2w
+
+From the first equation we get:
+
+w = x
+
+From the second equation we get:
+
+m = 2x
+
+Now we have two equations with two unknowns.
+
+w = x
+
+m = 2x
+
+The mouse jumped","The grasshopper jumped 39 inches. 
+
+The grasshopper jumped 19 inches farther than the frog. 
+
+The mouse jumped 12 inches lesser than the frog. 
+
+So, the frog jumped 20 inches. 
+
+The mouse jumped 8 inches.",The mouse jumped 27 inches.,"The frog jumped x inches.
+The mouse jumped y inches.
+
+The grasshopper jumped 39 inches.
+The grasshopper jumped 19 inches farther than the frog.
+
+39 = x + 19
+
+The mouse jumped 12 inches lesser than the frog.
+
+y = x - 12
+
+Now we have two equations with two unknowns. We can solve this system of linear equations.
+
+x + 19 = 39
+x - 12 = y
+
+x = 28
+y = 16",( ( w - x ) - y ),8,( ( 39.0 - 19.0 ) - 12.0 )
+39,786,"There were some children riding on the bus. 
+At the bus stop, more children got on the bus. 
+Then there were x children altogether on the bus. 
+
+We want to know how many children were riding on the bus before the bus stop. 
+
+We can set up an equation to solve this problem. 
+
+Some + more = x
+
+Some children were riding on the bus. (We don't know how many, so we'll call this number ""some."")
+At the bus stop, more children got on the bus. (Again, we don't know how many, so we'll call this number ""more."")
+Then there were x children altogether on the bus. (We know how many children were on the bus in the end, so x = the number of children on the bus in the end.)
+
+Some + more = x
+
+We don't know the values of ""some"" or ""more,"" but we do know the value of ""x."" 
+
+We can solve this equation for ""some"" by subtracting ""more"" from both sides and then subtracting ""x"" from both sides. 
+
+Some + more = x
+-more -more",There were originally y children riding on the bus before the bus stop.,"There were y children riding on the bus before the bus stop. 
+
+There were x children altogether on the bus. 
+
+At the bus stop, w more children got on the bus. 
+
+Some children were riding on the bus. 
+
+y + w = x
+
+y = x - w","There were 2 more children that got on the bus. So, that means that there were 39 children on the bus before the bus stop.",There were 39 children riding on the bus before the bus stop.,"There were $x$ children riding on the bus before the bus stop. 
+
+Then there were $x+2$ children riding on the bus after the bus stop. 
+
+We know that there were $41$ children altogether on the bus. 
+
+So we have the equation:
+$$x+x+2=41$$
+$$2x+2=41$$
+$$2x=39$$
+$$x=\frac{39}{2}$$
+$$x=19.5$$
+
+There were $19.5$ children riding on the bus before the bus stop.",( x - w ),39,( 41.0 - 2.0 )
+40,790,"Zachary did w push-ups and x crunches. 
+David did y more push-ups than Zachary, so he did w+y push-ups. 
+David did z less crunches than Zachary, so he did x-z crunches. 
+
+Now we can compare the two. 
+Zachary did w push-ups and x crunches. 
+David did w+y push-ups and x-z crunches. 
+
+Zachary did more crunches than David, so x>x-z. 
+That means z>0. 
+
+Zachary did x crunches and w+y push-ups. 
+David did x-z crunches and w+y push-ups. 
+
+Zachary did more push-ups than David, so w+y>x-z. 
+That means w+y+z>x. 
+
+We can add w to both sides. 
+w+w+y+z>x+w 
+2w+y+z>x+w 
+y+z>x 
+
+Zachary",Zachary did w push-ups and x crunches in gym class today. David did y more push-ups but z less crunches than zachary. Zachary did more crunches than push-ups by x-w.,"Zachary did w push-ups and x crunches in gym class today.
+David did y more push-ups but z less crunches than zachary.
+
+Zachary did w push-ups and x crunches in gym class today.
+David did y more push-ups but z less crunches than zachary.
+
+Zachary did w push-ups and x crunches in gym class today.
+David did y more push-ups but z less crunches than zachary.
+
+Zachary did w push-ups and x crunches in gym class today.
+David did y more push-ups but z less crunches than zachary.
+
+Zachary did w push-ups and x crunches in gym class today.
+David did y more push-ups but z less crunches than zachary.
+
+Zachary did w push-ups and x crunches in gym class today.
+David did y more push-ups but z less crunches than zachary.
+
+Zachary did w push-ups and x crunches in gym class today.
+David","Zachary did 46 push-ups and 58 crunches. 
+David did 38 more push-ups than Zachary, so he did 84 push-ups. 
+David did 62 less crunches than Zachary, so he did 96 crunches. 
+
+Zachary did 12 more crunches than David.",Zachary did 46 push-ups and 58 crunches in gym class today. David did 38 more push-ups but 62 less crunches than zachary. Zachary did 12 more crunches than push-ups.,"Zachary did 46 push-ups and 58 crunches in gym class today. 
+
+David did 38 more push-ups than zachary. 
+
+David did 62 less crunches than zachary. 
+
+Zachary did 46 + 38 = 84 push-ups in total. 
+
+David did 84 - 62 = 22 crunches in total. 
+
+Zachary did 58 - 22 = 36 more crunches than David. 
+
+Zachary did 36 more crunches than push-ups.",( x - w ),12,( 58.0 - 46.0 )
+41,876,"First, Rebecca wants to split a collection of marbles into groups of w. This means that each group will have w marbles in it. 
+
+Second, Rebecca has x eggs and y marbles. This means that she has a total of x + y items. 
+
+Third, we need to find out how many groups will be created. To do this, we need to divide the total number of items by the number of items in each group. This gives us the equation: 
+
+(x + y) / w = z
+
+where z is the number of groups. 
+
+We can solve for z by multiplying both sides of the equation by w: 
+
+x + y = wz
+
+Thus, the number of groups is equal to the sum of the eggs and marbles divided by the number of items in each group.",There will be a total of (x + y) / w groups created.,"First, we need to figure out how many marbles are in each group. 
+There are w marbles in each group. 
+
+Second, we need to figure out how many groups there are in total. 
+There are y groups in total. 
+
+Now, we can put these two pieces of information together to figure out how many groups Rebecca will create. 
+There are x groups in total.","First, Rebecca has 10 eggs. She can't split these into groups of 4, so she'll put them aside for now. 
+
+Next, she has 20 marbles. She can split these into 5 groups of 4. 
+
+So in total, Rebecca will have 5 groups.",There will be 5 groups created.,"There are 10 eggs and 20 marbles. 
+
+There are 4 groups. 
+
+There are 10 / 4 = 2.5 groups of eggs. 
+
+There are 20 / 4 = 5 groups of marbles. 
+
+There are 2.5 * 5 = 12.5 groups in total.",( y / w ),5,( 20.0 / 4.0 )
+42,387,"First, we know that Melissa played some games. This is represented by the variable w. 
+
+Second, we know that she scored x points in each game. This is represented by the variable x. 
+
+Now, we just have to put these two pieces of information together to solve for the number of games she played. 
+
+We can do this by setting up the equation: 
+
+w = x * games 
+
+We know w, and we know x, so we can solve for games. 
+
+games = w/x",There is not enough information provided to answer this question.,"Let's denote the number of games Melissa played as `g`. 
+
+We know that the total number of points she scored is `w`. 
+
+We also know that she scored `x` points in each game. 
+
+Therefore, we can write: 
+
+`w = g * x`
+
+We need to solve for `g`. 
+
+`g = w / x`
+
+ Melissa played `w / x` games.","First, we know that Melissa scored a total of 21 points. 
+
+Second, we know that she scored 7 points in each game. 
+
+From this, we can infer that she played 3 games.", Melissa played 3 games.,"Let's denote the number of games Melissa played as $x$. Then we can write:
+$$21 = 7x$$
+$$x = \frac{21}{7}$$
+
+So, Melissa played 3 games.",( w / x ),3,( 21.0 / 7.0 )
+43,105,"There are w baskets of peaches. 
+Each basket has x red peaches and y green peaches. 
+How many red peaches are in the baskets altogether?
+
+There are w baskets of peaches. 
+Each basket has x red peaches and y green peaches. 
+How many red peaches are in the baskets altogether?
+
+There are w baskets of peaches. 
+Each basket has x red peaches and y green peaches. 
+How many red peaches are in the baskets altogether?
+
+There are w baskets of peaches. 
+Each basket has x red peaches and y green peaches. 
+How many red peaches are in the baskets altogether?
+
+There are w baskets of peaches. 
+Each basket has x red peaches and y green peaches. 
+How many red peaches are in the baskets altogether?
+
+There are w baskets of peaches. 
+Each basket has x red peaches and y green peaches. 
+How many red peaches are in the baskets altogether?
+
+There are w baskets of peaches. 
+Each basket has x red peaches and y green peaches. 
+How", w * x,"There are w baskets of peaches. Each basket has x red peaches and y green peaches. 
+
+There are w baskets. 
+Each basket has x red peaches. 
+There are w*x red peaches in the baskets altogether.","There are 6 baskets of peaches. 
+Each basket has 16 red peaches and 18 green peaches. 
+How many red peaches are in the baskets altogether?
+
+There are a total of 96 red peaches in the baskets.",There are 96 red peaches in the baskets altogether.,"There are 6 baskets of peaches. Each basket has 16 red peaches and 18 green peaches. 
+
+Let's introduce the following variables: 
+
+x = the number of baskets; 
+y = the number of red peaches in each basket; 
+z = the number of green peaches in each basket. 
+
+According to the information given in the task, we know that: 
+
+x = 6; 
+y = 16; 
+z = 18. 
+
+Now we can calculate the total number of red peaches in all baskets: 
+
+x * y = 6 * 16 = 96. 
+
+Thus, the answer to the question is 96.",( x * w ),96,( 16.0 * 6.0 )
+44,821,"First, we need to find out how much money Fred had at the beginning of the weekend. We know that he had w dollars, and we know that Jason had x dollars. We also know that, at the end of the weekend, Fred had more money than Jason. So, we can set up the following equation:
+
+w + y + z > x
+
+Now, we need to solve for y + z. We can do this by subtracting w and x from both sides of the equation:
+
+y + z > x - w
+
+Now we know that, over the weekend, Fred earned more than x - w dollars.",Fred earned y + z dollars over the weekend.,"First, let's think about what we know. We know that Fred had w dollars last week, and we know that Jason had x dollars last week. So we can write: 
+
+Fred: w 
+Jason: x 
+
+Now we need to think about what happened over the weekend. We know that Fred delivered newspapers and washed cars. So we can write: 
+
+Fred: w + y + z 
+Jason: x
+
+We can see that Fred earned y + z dollars over the weekend.","First, we need to find out how much money Fred had at the beginning of the weekend. We know that he had 33 dollars last week, and that he earned 16 dollars and 74 dollars over the weekend. So we can say that:
+
+Fred had 33 dollars last week.
+He earned 16 dollars over the weekend.
+He earned 74 dollars over the weekend.
+
+Now we need to find out how much money Fred had at the end of the weekend. We can do this by adding up all the money he had at the beginning of the weekend, and all the money he earned over the weekend. So we can say that:
+
+Fred had 33 dollars at the beginning of the weekend.
+He earned 16 dollars over the weekend.
+He earned 74 dollars over the weekend.
+
+Therefore, Fred had 33 + 16 + 74 = 123 dollars at the end of the weekend.", Fred earned 90 dollars over the weekend.,"Let's denote Fred's money at the beginning of the week as $x_1$ and Jason's money as $x_2$. Then we have $x_1=33$ and $x_2=95$.
+
+Let's denote Fred's money at the end of the week as $x_3$ and Jason's money as $x_4$. Then we have $x_3=x_1+16+74=x_1+90$ and $x_4=x_2$.
+
+Thus, we have $x_3-x_1=90$ and we need to find $x_1$. We know that $x_1=33$, thus $x_3=33+90=123$.
+
+Fred earned $90$ dollars over the weekend.",( y + z ),90,( 16.0 + 74.0 )
+45,381,"First, we need to figure out how long her room is. We know that her room is w feet wide and x feet long. So, we can say that her room is x feet long. 
+
+Now, we need to figure out how wide her room is. We know that her room is w feet wide and x feet long. So, we can say that her room is w feet wide. 
+
+Now, we need to figure out how much longer her room is than it is wide. We know that her room is x feet long and w feet wide. So, we can say that her room is x-w feet longer than it is wide.",The room is x - w feet longer than it is wide.,"Let's say that Jesse's room is w wide and x long. 
+
+We want to know how much longer her room is than it is wide. 
+
+That is, we want to know how much longer x is than w. 
+
+That is, we want to know x - w.","First, we need to figure out how much longer her room is than it is wide. 
+
+To do this, we need to subtract the width from the length. 
+
+19 feet - 20 feet = 
+
+-1 feet
+
+Her room is 1 foot longer than it is wide.",Her room is 1 foot longer than it is wide.,"Let's denote the length of the room by $l$ and the width of the room by $w$. 
+
+We are told that $l=20$ feet and $w=19$ feet. 
+
+We want to find out how much longer the room is than it is wide. In other words, we want to find $l-w$. 
+
+We have $l=20$ feet and $w=19$ feet. 
+
+Therefore, $l-w=20-19=1$ foot.",( x - w ),1,( 20.0 - 19.0 )
+46,261,"The Razorback t-shirt shop makes $w dollars off each t-shirt sold. 
+
+During the Arkansas and Texas tech game, they made $w0 by selling t-shirts. 
+
+How many t-shirts did they sell?
+
+We know that the shop makes $w dollars off each t-shirt sold, and we know that they made $w0 during the game. So, to find out how many t-shirts they sold, we can set up the equation:
+
+$w * t = $w0
+
+where t is the number of t-shirts sold. 
+
+We can solve for t by dividing both sides by $w:
+
+t = $w0 / $w
+
+So, the number of t-shirts sold is equal to $w0/$w.",The Razorback t-shirt shop sold w0 t-shirts during the Arkansas and Texas tech game.,"Let's say that the shop sold x t-shirts during the game. 
+
+Then we know that: 
+
+w0 = w*x 
+
+or 
+
+x = w0/w. 
+
+Thus, if we know w and w0, we can calculate x.","The Razorback t-shirt shop makes $23 dollars off each t-shirt sold. 
+
+This means that for every t-shirt sold, the shop earns $23. 
+
+During the Arkansas and Texas tech game, they made $230 by selling t-shirts. 
+
+This means that in total, the shop sold t-shirts worth $230. 
+
+Now, we can set up an equation to solve this problem. 
+
+$23x = $230
+
+$23x/$23 = $230/$23
+
+x = $230/$23
+
+x = 10
+
+This means that the shop sold 10 t-shirts during the game.",The Razorback t-shirt shop sold 10 t-shirts during the Arkansas and Texas tech game.,"$23$ dollars off each t-shirt sold means that the shop sells each t-shirt for $23$ dollars. 
+
+$230$ dollars from selling t-shirts during the game means that the shop sold $230$ dollars worth of t-shirts during the game. 
+
+We can write this as follows: 
+$$23t = 230$$
+$$t = \frac{230}{23}$$
+$$t = 10$$
+
+This means that the shop sold $10$ t-shirts during the game.",( x / w ),10,( 230.0 / 23.0 )
+47,103,"Faye is placing her pencils into w rows with x pencils in each row. 
+
+That means that she has w rows of pencils, and each row has x pencils in it. 
+
+So, she has w * x pencils in total.",Fay has wx pencils.,"Faye has w rows of pencils. 
+Each row has x pencils. 
+Therefore, Faye has w*x pencils in total.","Faye has 14 rows of 11 pencils. 
+
+There are 14 times 11 pencils, so she has 154 pencils.",Fay has 154 pencils.,"Fay has 14 rows of 11 pencils each. 
+
+Fay has 154 pencils.",( w * x ),154,( 14.0 * 11.0 )
+48,902,"We are given that Paige had raised x goldfish in the pond initially. We are also given that the stray cats loved eating goldfish in the pond, leaving w goldfish. 
+
+From this, we can infer that the number of goldfish that disappeared is equal to x - w.",There is not enough information provided to answer this question.,"Let's say that the number of goldfish that disappeared is $x$. 
+
+Then, the number of goldfish that Paige had raised initially is $x+y$, where $y$ is the number of goldfish that are left in the pond. 
+
+We are told that $y=x-5$. 
+
+We can plug this value of $y$ into our equation for $x+y$ to solve for $x$: 
+
+$$x+y=x-(5-x)=2x-5$$
+
+We can solve this equation for $x$: 
+
+$$2x-5=x+y$$
+$$2x=x+y+5$$
+$$2x=y+10$$
+$$x=y+5$$
+
+We are told that $y=x-5$, so we can plug this value of $y$ into our equation for $x$: 
+
+$$x=x-5+5$$
+$$x=2x-5$$
+$$0=x-5$$
+$$x=5$$
+
+Therefore, the number of goldfish that disappeared is 5.","We know that Paige had 8 goldfish in the pond initially. 
+
+We know that 6 goldfish are left in the pond. 
+
+That means that 2 goldfish have disappeared.",8 goldfish disappeared.,"Let's denote the number of goldfish that disappeared as $x$. 
+
+We know that $x$ goldfish disappeared, and that $8-x$ goldfish remained. 
+
+We also know that $x$ is equal to the difference between the number of goldfish that were initially in the pond and the number of goldfish that were in the pond after the cats ate them. 
+
+That is, $x=8-6=2$. 
+
+Therefore, 2 goldfish disappeared.",( x - w ),2,( 8.0 - 6.0 )
+49,667,"The recipe calls for w cups of sugar and some more cups of flour. She already put in x cups of flour. If she still needs to add y more cups of flour, then we can say that:
+
+w cups of sugar + x cups of flour + y cups of flour = total cups of flour required
+
+Therefore, the recipe requires a total of w + x + y cups of flour.",The recipe requires w + y cups of flour.,"The recipe calls for w cups of sugar and some more cups of flour. She already put in x cups of flour. If she still needs to add y more cups of flour How many cups of flour did the recipe require?
+
+The recipe calls for w cups of sugar and some more cups of flour. She already put in x cups of flour. If she still needs to add y more cups of flour, then the recipe required x + y cups of flour.","First, we know that Mary has already put in 3 cups of flour. 
+
+Next, we know that the recipe calls for 11 cups of sugar and some more cups of flour. 
+
+From this, we can infer that the recipe requires a total of 11 + some cups of flour. 
+
+Lastly, we know that Mary still needs to add 6 more cups of flour. 
+
+From this, we can infer that the recipe requires a total of 3 + 6 + some cups of flour. 
+
+Therefore, the recipe requires a total of 3 + 6 + some = 9 + some cups of flour.", The recipe requires 11 cups of sugar and 9 cups of flour.,"The recipe calls for 11 cups of sugar and some more cups of flour. She already put in 3 cups of flour. If she still needs to add 6 more cups of flour How many cups of flour did the recipe require?
+
+We are looking for x, the number of cups of flour in the recipe. 
+
+We know: 
+3 cups of flour have already been added to the cake mixture
+11 cups of sugar are called for in the recipe
+and we need to add 6 more cups of flour
+
+So we set up the equation: 
+3 + x = 11 + 6 
+or 
+x = 11 + 6 - 3 
+
+Therefore, the recipe requires 14 cups of flour in total.",( x + y ),9,( 3.0 + 6.0 )

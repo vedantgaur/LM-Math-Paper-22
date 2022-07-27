@@ -1,0 +1,2042 @@
+,Index,Symbolic With Steps,Symbolic Without Steps,Symbolic With Intermediate Variables,Numerical With Steps,Numerical Without Steps,Numerical With Intermediate Variables,Symbolic Answer,Numerical Answer,Numerical Equation
+0,218,"First, we need to find out how many slices are in each pizza. We know that there were a total of x slices, and we know that there were w pizzas. This means that the number of slices in each pizza must be x/w. 
+
+Therefore, the answer (symbolic expression) is: 
+
+x/w",There are x/w slices in each pizza.,"Let's denote the number of slices in each pizza by s.
+
+s = x / w
+
+Therefore, the answer (symbolic expression) is: 
+
+x / w","First, we need to find the total number of slices. We know that there are 7 pizzas and each pizza has the same number of slices, so the total number of slices is 7 times the number of slices in each pizza. 
+
+Next, we need to set up an equation to solve for the number of slices in each pizza. We know that the total number of slices is 14, so we can say that 7 times the number of slices in each pizza is equal to 14. 
+
+Now, we need to solve the equation to find the number of slices in each pizza. We can divide both sides of the equation by 7 to find the number of slices in each pizza. 
+
+When we divide both sides of the equation by 7, we get that the number of slices in each pizza is equal to 2. 
+
+Therefore the answer (numeric) is: 
+
+2",There are 2 slices in each pizza.,"Let's denote the number of slices in each pizza by s. Then the number of slices in 7 pizzas is 7s. 
+
+We know that the total number of slices is 14. 
+
+Therefore 
+
+14=7s 
+
+s=2",( x / w ),2,( 14.0 / 7.0 )
+1,41,"First, we need to find out how many more bottle caps than wrappers Danny found at the park. To do this, we need to subtract the number of wrappers from the number of bottle caps. We know that Danny found w wrappers and x bottle caps at the park, so he must have found (x - w) more bottle caps than wrappers. 
+
+Now, we need to find out how many bottle caps and wrappers Danny has in his collection. We know that he has y bottle caps and z wrappers in his collection. This means that he must have (y + z) bottle caps and wrappers in his collection. 
+
+Therefore, the answer (symbolic expression) is: 
+
+x - w + y + z","First, we need to find out how many more bottle caps Danny found at the park than wrappers. To do this, we need to subtract the number of wrappers from the number of bottle caps. We know that Danny found w wrappers and x bottle caps at the park, so the number of bottle caps must be x - w. 
+
+Now, we need to find out how many bottle caps and wrappers Danny has in his collection. We know that he has y bottle caps and z wrappers in his collection. This means that the total number of bottle caps and wrappers must be y + z. 
+
+Therefore, the answer (symbolic expression) is: 
+
+x - w + y + z","Danny found w wrappers and x bottle caps at the park.
+
+Now he has y bottle caps and z wrappers in his collection.
+
+We need to find out how many more bottle caps than wrappers Danny found at the park.
+
+We can do this by subtracting the number of wrappers he has now from the number of wrappers he had at the park and subtracting the number of bottle caps he has now from the number of bottle caps he had at the park.
+
+We need to be careful with the order of operations.
+
+We need to subtract the number of wrappers he has now from the number of wrappers he had at the park first and then subtract the number of bottle caps he has now from the number of bottle caps he had at the park.
+
+Therefore, the answer (symbolic expression) is: 
+
+(x - z) - (w - y)","First, we need to find the total number of bottle caps and wrappers that Danny found at the park. He found 46 wrappers and 50 bottle caps, so the total number of bottle caps and wrappers is 46 + 50, which is 96. 
+
+Next, we need to find the total number of bottle caps and wrappers that Danny has in his collection. He has 21 bottle caps and 52 wrappers, so the total number of bottle caps and wrappers is 21 + 52, which is 73. 
+
+Now, we need to find the difference between the total number of bottle caps and wrappers that Danny found at the park and the total number of bottle caps and wrappers that Danny has in his collection. The difference is 96 - 73, which is 23. 
+
+We can say that Danny found 23 more bottle caps than wrappers at the park. 
+
+Therefore the answer (numeric) is: 
+
+23","Danny found 46 wrappers and 50 bottle caps at the park, so he found 4 more bottle caps than wrappers.","Let's denote the number of bottle caps Danny found at the park by b, and the number of wrappers by w. 
+
+Then we have the following system of two equations with two unknowns: 
+
+b+w=96
+b-w=29
+
+We can solve this system using different methods. For example, we can add the equations: 
+
+2b=125
+b=125/2=62.5
+
+Then we can substitute this value of b into the second equation: 
+
+62.5-w=29
+-w=-33.5
+w=33.5
+
+Therefore, Danny found 62.5 bottle caps and 33.5 wrappers at the park. The difference between the number of bottle caps and the number of wrappers is 
+
+62.5-33.5=29 
+
+Therefore, Danny found 29 more bottle caps than wrappers at the park.",( x - w ),4,( 50.0 - 46.0 )
+2,910,"First, we need to find out how many packages of gum Robin has. We know that Robin has w packages of gum and x packages of candy. This means that Robin has w + x packages in total. 
+
+Now, we need to find out how many pieces of gum Robin has. We know that there are y pieces in each package, so Robin must have y * w pieces of gum. 
+
+Therefore, the answer (symbolic expression) is: 
+
+y * w",Robin has w packages of gum and x packages of candy. There are y pieces in each package. This means that Robin has w*y pieces of gum.,"Let's denote the number of pieces of gum by g.
+
+g = w * y
+
+Therefore, the answer (symbolic expression) is: 
+
+g = w * y","First, we need to find the total number of packages that Robin has. 28 packages of gum and 13 packages of candy is the same as 28 + 13 packages, so we can say that Robin has 41 packages. 
+
+Next, we need to find the total number of pieces in all of the packages. There are 4 pieces in each package, so 4 times 41 packages is the same as 4 x 41 pieces, which is the same as 164 pieces. 
+
+Now, we need to find the number of pieces of gum that Robin has. We know that Robin has 28 packages of gum, and each package has 4 pieces, so we can say that Robin has 28 x 4 pieces of gum, which is the same as 112 pieces of gum. 
+
+Therefore the answer (numeric) is: 
+
+112","Robin has 28 packages of gum and 13 packages of candy. There are 4 pieces in each package. 
+
+We need to find the total number of pieces of gum that Robin has. 
+
+We can multiply 28 by 4 to find the total number of pieces of gum in all 28 packages. 
+
+28 multiplied by 4 is the same as 28 x 4, which is 112. 
+
+Therefore, Robin has 112 pieces of gum.","Let's denote the number of packages of gum by g and the number of packages of candy by c. Then we have 
+
+g+c=28 
+and 
+c=13. 
+
+Therefore 
+
+g=28-13=15. 
+
+Now we need to calculate the number of pieces of gum. We know that there are 4 pieces in each package. Therefore the number of pieces of gum is 
+
+4*15=60.",( w * y ),112,( 28.0 * 4.0 )
+3,988,"First, we need to find out how many points Melissa scored in each game. We know that she scored w points in each game, and she also got x bonus points in each game. This means that she must have scored w + x points in each game. 
+
+Now, we need to find out how many points she scored in y games. To do this, we need to multiply the number of points she scored in each game by the number of games she played. We know that she scored w + x points in each game, and she played y games. This means that she must have scored (w + x)*y points in total. 
+
+Therefore, the answer (symbolic expression) is: 
+
+(w + x)*y","Melissa scored w points in each game, and she got x bonus points in each game. This means that she scored w + x points in each game. 
+
+Now, we need to find out how many points she scored in y games. To do this, we need to multiply the number of games she played by the number of points she scored in each game. We know that she played y games, and she scored w + x points in each game. This means that she scored (w + x)y points in y games. 
+
+Therefore, the answer (symbolic expression) is: 
+
+(w + x)y","Let's denote the number of points Melissa scored in each game by p.
+
+p = w + x
+
+If she played y games, she scored py points in total.
+
+Therefore, the answer (symbolic expression) is: 
+
+py","First, we need to find how many points Melissa scored in one game. She scored 109 points in each game, and she also got 82 bonus points in each game, so she scored 191 points in one game. 
+
+Next, we need to find how many points Melissa scored in 79 games. She scored 191 points in one game, so she scored 191 times 79 points in 79 games. 
+
+191 times 79 is the same as 14969, so we can say that Melissa scored 14969 points in 79 games. 
+
+Therefore the answer (numeric) is: 
+
+14969","109 points + 82 bonus points = 191 points 
+
+191 points x 79 games = 14929 points","Let's denote the number of points Melissa scored in one game by P. Then we have 
+
+P=109+82=191. 
+
+The number of points Melissa scored in 79 games is 
+
+P*79=191*79=15109. 
+
+Therefore the answer (numeric) is: 
+
+15109",( ( w + x ) * y ),15089,( ( 109.0 + 82.0 ) * 79.0 )
+4,867,"First, we need to find out how many bananas are in each group. We know that there are w groups, and we know that there are a total of x bananas in Philip's banana collection. This means that there must be x/w bananas in each group. 
+
+Therefore, the answer (symbolic expression) is: 
+
+x/w","There are a total of x bananas in Philip's banana collection, and they are organized into w groups. This means that each group must have x/w bananas.","Let's denote the number of bananas in each group by b.
+
+b = x / w
+
+Therefore, the answer (symbolic expression) is: 
+
+x / w","First, we need to find the total number of bananas in Philip's collection. 196 groups of bananas means that there are 196 times as many bananas as there are groups. So, if we multiply 196 and the number of bananas in each group, we will get the total number of bananas in Philip's collection. 
+
+Next, we need to set up an equation to solve for the number of bananas in each group. We know that there are 196 groups of bananas, and that there are 392 bananas in Philip's collection. So, we can set up the equation 196x=392. 
+
+Now, we need to solve for x. To do this, we can divide both sides of the equation by 196. When we do this, we get x=392/196. 
+
+We can simplify 392/196 to just 2, so we can say that each group has 2 bananas. 
+
+Therefore the answer (numeric) is: 
+
+2",There are a total of 392 bananas in Philip's banana collection. This means that each group has 196/2 bananas.,"Let's denote the number of bananas in each group by b. Then the total number of bananas is 196b. 
+
+The equation is: 
+
+196b=392 
+
+Therefore the answer (numeric) is: 
+
+b=392/196=2",( x / w ),2,( 392.0 / 196.0 )
+5,171,"First, we need to find out how many pencils Faye has in total. We know that she is placing w pencils into rows, and each row has x pencils. This means that she has wx pencils in total. 
+
+Now, we need to find out how many rows Faye can make. To do this, we need to divide the total number of pencils by the number of pencils in each row. We know that she has wx pencils in total, and each row has x pencils. This means that she can make wx/x rows. 
+
+This means that Faye can make w rows.
+
+Therefore, the answer (symbolic expression) is: 
+
+wx/x
+
+
+Q: If the length of a rectangle is w times its width and the perimeter is x, what is the width of the rectangle?
+
+A: Let's think step by step. 
+
+First, we need to find out the perimeter of the rectangle. We know that the perimeter is x, and we also know that the length of the rectangle is w times its width. This means that the perimeter must be 2wx. 
+
+Now, we need to","Faye was placing w pencils into rows with x pencils in each row. To find out how many rows she could make, we need to divide w by x. 
+
+This means that the answer is: 
+
+w/x","Let's denote the number of rows by r.
+
+r = w / x
+
+Therefore, the answer (symbolic expression) is: 
+
+r = w / x","First, we need to find out how many pencils Faye has in total. 30 pencils is the same as 30/1 pencils, so we can say that Faye has 30/1 pencils in total. 
+
+Next, we need to find out how many pencils are in each row. 5 pencils is the same as 5/1 pencils, so we can say that each row has 5/1 pencils. 
+
+Now, we need to find out how many rows Faye can make. To do this, we need to divide the total number of pencils by the number of pencils in each row. 30/1 pencils divided by 5/1 pencils is the same as 30/5 pencils, which is the same as 6/1 pencils. 6/1 pencils is the same as 6 pencils, so we can say that Faye can make 6 rows. 
+
+Therefore the answer (numeric) is: 
+
+6",30 pencils divided by 5 pencils per row equals 6 rows.,"Let's denote the number of rows by r. Then the number of pencils is 5r. 
+
+The number of pencils must be equal to 30. Therefore 
+
+5r=30. 
+
+Therefore the answer (numeric) is: 
+
+r=30/5=6",( w / x ),6,( 30.0 / 5.0 )
+6,117,"First, we need to find out how many campers went rowing in the morning. We know that w campers went rowing in the morning, and we know that a total of x campers went rowing that day. This means that the number of campers who went rowing in the afternoon must be x - w. 
+
+Therefore, the answer is: 
+
+x - w",x - w,"Let's denote the number of campers who went rowing in the morning by m.
+
+m = w
+
+Let's denote the number of campers who went rowing in the afternoon by n.
+
+n = x - w
+
+Therefore, the answer (symbolic expression) is: 
+
+x - w","First, we need to find how many campers went rowing in the morning. 15 campers went rowing in the morning, so we can say that 15 campers went rowing in the morning. 
+
+Next, we need to find how many campers went rowing in the afternoon. A total of 32 campers went rowing that day, and we already know that 15 campers went rowing in the morning, so 32 - 15 = 17 campers went rowing in the afternoon. 
+
+Therefore the answer (numeric) is: 
+
+17","There are a total of 32 campers that went rowing that day. 15 of them went in the morning, so that means that 32 - 15 = 17 campers went rowing in the afternoon.","Let's denote the number of campers who went rowing in the morning by x. Then the number of campers who went rowing in the afternoon is 32-x. 
+
+Therefore the answer (numeric) is: 
+
+32-x = 32-15 = 17",( x - w ),17,( 32.0 - 15.0 )
+7,338,"First, we need to find out how many sacks of oranges are being harvested per day. We know that w sacks are being harvested per day. 
+
+Now, we need to find out how many days it will take to harvest x sacks of oranges. To do this, we need to divide the number of sacks of oranges by the number of sacks being harvested per day. We know that x sacks of oranges need to be harvested, so it will take x/w days to harvest them. 
+
+Therefore, the answer (symbolic expression) is: 
+
+x/w",It will take x/w days to harvest x sacks of oranges.,"Let's denote the number of days it takes to harvest x sacks of oranges by d.
+
+d = x / w
+
+Therefore, the answer (symbolic expression) is: 
+
+x / w","First, we need to find out how many sacks of oranges are being harvested per day. 8 sacks per day is the same as 8/1 sacks per day, so we can say that they are harvesting 8/1 sacks of oranges per day. 
+
+Next, we need to find out how many days it will take to harvest 24 sacks of oranges. 24 sacks of oranges is the same as 24/1 sacks of oranges, so we can say that it will take 24/1 days to harvest 24 sacks of oranges. 
+
+Now, we need to find out how many days it will take to harvest 24/1 sacks of oranges if they are harvesting 8/1 sacks of oranges per day. 24/1 days is the same as 24/1 x 1/8 days, which is the same as 3/1 days. 
+
+We can simplify 3/1 days to just 3 days, so we can say that it will take 3 days to harvest 24 sacks of oranges. 
+
+Therefore the answer (numeric) is: 
+
+3",It will take 3 days to harvest 24 sacks of oranges.,"Let's denote the number of sacks of oranges per day by x. Then 8 sacks per day is x sacks per day. 
+
+The number of days it will take to harvest 24 sacks of oranges is 
+
+24/x days. 
+
+Therefore the answer (numeric) is: 
+
+24/x = 24/8 = 3",( x / w ),3,( 24.0 / 8.0 )
+8,50,"First, we need to find out how many alligators were hiding. We know that y alligators were hiding, so the number of alligators that were not hiding must be x - y. 
+
+Now, we need to find out how many alligators were not hiding. We know that the number of alligators that were not hiding is x - y, so the number of alligators that were not hiding is (x - y). 
+
+This means that the answer (symbolic expression) is: 
+
+x - y","There are a total of x + y alligators in the cage. We know that y alligators are hiding, so this means that there must be (x + y) - y alligators that are not hiding. 
+
+This means that the answer is: 
+
+x","Let's denote the number of alligators that were not hiding by z.
+
+z = x - y
+
+Therefore, the answer (symbolic expression) is: 
+
+x - y","First, we need to find the total number of alligators. The total number of alligators is 97. 
+
+Next, we need to find the number of alligators that were not hiding. The number of alligators that were not hiding is 97 - 40, which is 57. 
+
+Therefore the answer (numeric) is: 
+
+57",97 - 40 = 57,"Let's denote the number of alligators by a, the number of snakes by s, and the number of alligators that were hiding by h. 
+
+Then we have the following system of two equations with two unknowns: 
+
+a+s=93 
+a-h=57 
+
+We can solve this system using different methods. For example, we can use substitution: 
+
+a+s=93 
+a=57+h 
+
+a+s=93 
+57+h+s=93 
+
+57+s=93 
+s=36 
+
+a=57+h 
+a=57+40=97 
+
+Therefore the answer (numeric) is: 
+
+97-40=57",( x - y ),57,( 97.0 - 40.0 )
+9,69,"First, we need to find out how much money Olivia had initially. We know that she spent w dollars at the supermarket, and we know that she has x dollars left with her. This means that she must have w + x dollars initially. 
+
+Therefore, the answer (symbolic expression) is: 
+
+w + x",Olivia had w + x dollars initially.,"Let's denote the money Olivia had initially by m.
+
+m = w + x
+
+Therefore, the answer (symbolic expression) is: 
+
+m = w + x","First, we need to find out how much money Olivia spent. 78 dollars is the same as 78/1 dollars, so we can say that Olivia spent 78/1 dollars. 
+
+Next, we need to find out how much money Olivia has left. 33 dollars is the same as 33/1 dollars, so we can say that Olivia has 33/1 dollars left. 
+
+Now, we need to find out how much money Olivia had initially. We know that Olivia spent 78/1 dollars and she has 33/1 dollars left, so we can say that Olivia had 78/1 - 33/1 = 45/1 dollars initially. 
+
+We can simplify 45/1 dollars to just 45 dollars, so we can say that Olivia had 45 dollars initially. 
+
+Therefore the answer (numeric) is: 
+
+45",Olivia had 78 + 33 = 111 dollars initially.,"Let's denote the money Olivia had initially by m. Then we know that 
+
+m-78=33. 
+
+Therefore the answer (numeric) is: 
+
+m-78=33 
+m=33+78=111",( w + x ),111,( 78.0 + 33.0 )
+10,69,"First, we need to find out how much money Olivia had initially. We know that she spent w dollars at the supermarket, and we know that she has x dollars left with her. This means that she must have w + x dollars initially. 
+
+Therefore, the answer (symbolic expression) is: 
+
+w + x",Olivia had w + x dollars initially.,"Let's denote the money Olivia had initially by m.
+
+m = w + x
+
+Therefore, the answer (symbolic expression) is: 
+
+m = w + x","First, we need to find out how much money Olivia spent. 78 dollars is the same as 78/1 dollars, so we can say that Olivia spent 78/1 dollars. 
+
+Next, we need to find out how much money Olivia has left. 33 dollars is the same as 33/1 dollars, so we can say that Olivia has 33/1 dollars left. 
+
+Now, we need to find out how much money Olivia had initially. We know that Olivia spent 78/1 dollars and she has 33/1 dollars left, so we can say that Olivia had 78/1 - 33/1 = 45/1 dollars initially. 
+
+We can simplify 45/1 dollars to just 45 dollars, so we can say that Olivia had 45 dollars initially. 
+
+Therefore the answer (numeric) is: 
+
+45",Olivia had 78 + 33 = 111 dollars initially.,"Let's denote the money Olivia had initially by m. Then we know that 
+
+m-78=33. 
+
+Therefore the answer (numeric) is: 
+
+m-78=33 
+m=33+78=111",( w + x ),111,( 78.0 + 33.0 )
+11,502,"First, we need to find out how many seats are in y Ferris wheels. We know that each Ferris wheel has w seats, so y Ferris wheels must have wy seats. 
+
+Now, we need to find out how many people can ride in wy seats. We know that each seat can hold x people, so wy seats can hold wyx people. 
+
+Therefore, the answer (symbolic expression) is: 
+
+wyx",The number of people that can ride y Ferris wheels at the same time is wxy.,"Let's denote the number of people that can ride the Ferris wheel by p.
+
+p = w * x * y
+
+Therefore, the answer (symbolic expression) is: 
+
+p = w * x * y","First, we need to find how many seats are in 20 Ferris wheels. There are 19 seats in 1 Ferris wheel, so there are 19 x 20 = 380 seats in 20 Ferris wheels. 
+
+Next, we need to find how many people can ride in 380 seats. Each seat can hold 15 people, so 380 seats can hold 15 x 380 = 5700 people. 
+
+Therefore the answer (numeric) is: 
+
+5700","19 seats multiplied by 15 people equals 285 people. 
+
+20 Ferris wheels multiplied by 285 people equals 5,700 people.","Let's denote the number of Ferris wheels by n. Then the number of seats in n Ferris wheels is n*19. 
+
+The number of people that can ride n Ferris wheels at the same time is 
+
+n*19*15. 
+
+Therefore the answer (numeric) is: 
+
+n*19*15 = 20*19*15 = 5700",( ( w * x ) * y ),5700,( ( 19.0 * 15.0 ) * 20.0 )
+12,870,"First, we need to find out how many peaches Steven has. We know that Jake has x fewer peaches than Steven, and we know that Steven has y more peaches than Jill. This means that Jake must have y - x peaches, and Steven must have y + x peaches. 
+
+Now, we need to find out how many peaches Jill has. We know that Steven has y + x peaches, and we know that Jill has y - x fewer peaches than Steven. This means that Jill must have y - (y + x) peaches, or -x peaches. 
+
+Therefore, the answer (symbolic expression) is: 
+
+-x","First, we need to find out how many peaches Steven has. We know that Jake has x fewer peaches than Steven, and we know that Steven has y more peaches than Jill. This means that Steven must have (x + y) peaches. 
+
+Now, we need to find out how many peaches Jill has. We know that Steven has (x + y) peaches, and we know that Steven has y more peaches than Jill. This means that Jill must have (x + y - y) peaches. 
+
+This means that Jill has x peaches.
+
+Therefore, the answer (symbolic expression) is: 
+
+x","Let's denote the number of peaches Jill has by j.
+
+j = w - y
+
+Jake has x fewer peaches than Steven who has y more peaches than Jill.
+
+Therefore, Jake has w - y - x peaches.
+
+Plugging in for w we get that Jake has w - y - x peaches.
+
+Therefore, the answer (symbolic expression) is: 
+
+j = w - y - x","First, we need to find the total number of peaches that Steven, Jake, and Jill have combined. Steven has 18 peaches, Jake has 12 fewer peaches than Steven, and Jill has 8 more peaches than Steven, so we can say that 18 + (-12) + 8 is the same as 18 - 4, which is the same as 14. 
+
+Now, we need to find the number of peaches that Steven and Jake have combined. Steven has 18 peaches and Jake has 12 fewer peaches than Steven, so we can say that 18 + (-12) is the same as 18 - 12, which is the same as 6. 
+
+Finally, we need to find the number of peaches that Jill has. We know that the total number of peaches that Steven, Jake, and Jill have combined is 14 and we know that the number of peaches that Steven and Jake have combined is 6, so we can say that 14 - 6 is the same as 8. 
+
+Therefore the answer (numeric) is: 
+
+8","First, we need to find the total number of peaches that Steven, Jake, and Jill have combined. 
+
+Steven has 18 peaches, Jake has 12 fewer peaches than Steven, and Jill has 8 more peaches than Jake. 
+
+We can represent this information using the equation 18 + (-12) + 8. 
+
+When we combine like terms, we get 18 + 8, which is equal to 26. 
+
+This means that the total number of peaches that Steven, Jake, and Jill have combined is 26. 
+
+Now, we need to find out how many peaches Jill has. 
+
+We know that Steven has 18 peaches, Jake has 12 fewer peaches than Steven, and Jill has 8 more peaches than Jake. 
+
+We also know that the total number of peaches that Steven, Jake, and Jill have combined is 26. 
+
+We can represent this information using the equation 18 + (-12) + 8 = 26. 
+
+When we solve this equation for Jill, we get 8 = 26 - 18 - (-12). 
+
+When we combine like terms, we get 8 = 26 - 18 + 12. 
+
+When we","Let's denote Steven's number of peaches by s, Jake's number of peaches by j, and Jill's number of peaches by i. 
+
+Then we have the following system of equations: 
+
+s=18, 
+s=j+8, 
+j=s-12. 
+
+From the first equation we get that 
+
+s=18 
+
+Substituting this value of s into the second equation we get that 
+
+18=j+8 
+
+Therefore 
+
+j=10 
+
+Substituting this value of j into the third equation we get that 
+
+j=s-12 
+
+Therefore 
+
+i=18-12=6",( w - y ),10,( 18.0 - 8.0 )
+13,913,"First, we need to find out how many push-ups Zachary did. We know that David did w push-ups, and we know that David did x more push-ups than Zachary. This means that Zachary must have done w - x push-ups. 
+
+Now, we need to find out how many push-ups Zachary and David did altogether. To do this, we need to add the number of push-ups that Zachary did to the number of push-ups that David did. We know that David did w push-ups, and we know that Zachary did w - x push-ups. This means that Zachary and David must have done w + (w - x) push-ups altogether. 
+
+This can be simplified to 2w - x push-ups. 
+
+Therefore, the answer (symbolic expression) is: 
+
+2w - x",Zachary and David did w + x push-ups altogether.,"Let's denote the number of push-ups Zachary did by z.
+
+z = w - x
+
+Therefore, the answer (symbolic expression) is: 
+
+w + z","First, we need to find how many push-ups Zachary did. We know that David did 51 push-ups and that David did 49 more push-ups than Zachary, so we can say that Zachary did 2 less push-ups than David. This means that Zachary did 51 - 2 = 49 push-ups. 
+
+Next, we need to find how many push-ups Zachary and David did altogether. We know that Zachary did 49 push-ups and David did 51 push-ups, so we can say that Zachary and David did 49 + 51 = 100 push-ups altogether. 
+
+Therefore the answer (numeric) is: 
+
+100","First, we need to find how many push-ups Zachary did. We know that David did 51 push-ups and that David did 49 more push-ups than Zachary, so we can say that Zachary did 2 less push-ups than David. This means that Zachary did 51-2=49 push-ups. 
+
+Now, we need to find how many push-ups Zachary and David did altogether. We know that Zachary did 49 push-ups and David did 51 push-ups, so we can say that Zachary and David did 49+51=100 push-ups altogether. 
+
+Therefore the answer (numeric) is: 
+
+100","Let's denote the number of push-ups Zachary did by x. Then the number of push-ups David did is x+49. 
+
+The total number of push-ups is 
+
+x+x+49=2x+49. 
+
+Therefore the answer (numeric) is: 
+
+2x+49 = 2*51+49 = 153",( ( w + <w) - x ),53,( ( 51.0 + 51.0 ) - 49.0 )
+14,651,"First, we need to find out how many cups of flour the recipe calls for. We know that the recipe calls for w cups of flour and x cups of sugar. This means that the recipe calls for a total of w + x cups of ingredients. 
+
+Now, we need to find out how many cups of flour Mary has already put in. We know that Mary has already put in y cups of flour. This means that she has put in a total of y + 0 cups of flour. 
+
+Now, we need to find out how many more cups of sugar than cups of flour the recipe calls for. To do this, we need to subtract the amount of flour Mary has already put in from the amount of flour the recipe calls for. We know that the recipe calls for w + x cups of ingredients and Mary has already put in y + 0 cups of flour. This means that the recipe calls for (w + x) - (y + 0) cups of sugar. 
+
+This means that the recipe calls for w - y more cups of sugar than cups of flour.
+
+Therefore, the answer (symbolic expression) is: 
+
+w - y","The recipe calls for w cups of flour and x cups of sugar. Mary has already put in y cups of flour, which means she needs to add (w-y) cups of flour. She also needs to add x cups of sugar. 
+
+This means that she needs to add (x-(w-y)) cups of sugar. 
+
+Therefore, the answer (symbolic expression) is: 
+
+x-(w-y)","The recipe calls for w cups of flour and x cups of sugar.
+
+Mary has already put in y cups of flour.
+
+Therefore, she needs to add w - y cups of flour and x - y cups of sugar.
+
+The difference between the cups of sugar and cups of flour is: 
+
+x - y - (w - y) = x - w
+
+Therefore, the answer (symbolic expression) is: 
+
+x - w","First, we need to find how many cups of flour are left. 9 cups of flour minus 4 cups of flour is the same as 9 - 4 cups of flour, which is the same as 5 cups of flour. 
+
+Next, we need to find how many cups of sugar are needed. 11 cups of sugar minus the 5 cups of flour that are left is the same as 11 - 5 cups of sugar, which is the same as 6 cups of sugar. 
+
+Now, we need to find the difference between the cups of sugar and the cups of flour. The cups of sugar are 6 and the cups of flour are 5, so the difference is 1 cup. 
+
+Therefore, Mary needs 1 more cup of sugar than cups of flour. 
+
+Therefore the answer (numeric) is: 
+
+1","First, we need to find how many cups of flour are left. 9 cups of flour minus 4 cups of flour is the same as 9 - 4 cups of flour, which is 5 cups of flour. 
+
+Next, we need to find how many cups of sugar are left. 11 cups of sugar minus 4 cups of flour is the same as 11 - 4 cups of sugar, which is 7 cups of sugar. 
+
+Now, we need to find the difference between the cups of sugar and the cups of flour. The cups of sugar is 7 and the cups of flour is 5, so the difference is 2. 
+
+Therefore, Mary needs to add 2 more cups of sugar than cups of flour. 
+
+Therefore the answer (numeric) is: 
+
+2","Let's denote the number of cups of flour that Mary has already put in by x. Then the number of cups of sugar that she has already put in is y. 
+
+The recipe calls for 9 cups of flour and 11 cups of sugar. Therefore x+y=9 and x+y=11. 
+
+From the first equation we get y=9-x. Substituting this into the second equation we get: 
+
+9-x+y=11
+
+9-x+9-x=11
+
+9-2x=11
+
+-2x=-2
+
+x=1/2
+
+y=9-1/2=8 1/2
+
+Therefore Mary needs to add 8 1/2 cups of sugar.",( x - ( w - y ) ),6,( 11.0 - ( 9.0 - 4.0 ) )
+15,612,"First, we need to find out how many campers went rowing in the morning. We know that some campers went rowing in the morning, and we know that a total of x campers went rowing that day. This means that the number of campers who went rowing in the morning must be x - w campers. 
+
+Therefore, the answer (symbolic expression) is: 
+
+x - w","There are a total of x campers that went rowing that day. w campers went rowing in the afternoon, which means that the other campers must have gone rowing in the morning. 
+
+This means that the number of campers that went rowing in the morning is x - w.
+
+Therefore, the answer (symbolic expression) is: 
+
+x - w","Let's denote the number of campers who went rowing in the morning by m.
+
+m + w = x
+
+Therefore, the answer (symbolic expression) is: 
+
+m = x - w","First, we need to find the total number of campers who went rowing in the morning and in the afternoon. 60 campers went rowing that day, so the total number of campers who went rowing in the morning and in the afternoon is 60. 
+
+Next, we need to find the number of campers who went rowing in the afternoon. 7 campers went rowing in the afternoon, so the number of campers who went rowing in the afternoon is 7. 
+
+Now, we need to find the number of campers who went rowing in the morning. The total number of campers who went rowing in the morning and in the afternoon is 60 and the number of campers who went rowing in the afternoon is 7, so the number of campers who went rowing in the morning is 60 - 7, which is the same as 53. 
+
+Therefore the answer (numeric) is: 
+
+53","First, we need to find the total number of campers that went rowing in the morning and in the afternoon. 60 campers went rowing in total, and 7 campers went rowing in the afternoon, so the total number of campers that went rowing in the morning and in the afternoon is 60 + 7, which is 67 campers. 
+
+Next, we need to find the number of campers that went rowing in the morning. We know that the total number of campers that went rowing in the morning and in the afternoon is 67 campers, and we know that 7 campers went rowing in the afternoon, so the number of campers that went rowing in the morning must be 67 - 7, which is 60 campers. 
+
+Therefore, the answer (numeric) is: 
+
+60","Let's denote the number of campers who went rowing in the morning by x. Then the number of campers who went rowing in the afternoon is 7. 
+
+The total number of campers who went rowing that day is 
+
+x+7=60. 
+
+Therefore the answer (numeric) is: 
+
+x+7=60 
+x=60-7 
+x=53",( x - w ),53,( 60.0 - 7.0 )
+16,646,"First, we need to find out how many visitors there were two days ago. We know that w visitors came to the Buckingham palace today, and we know that there were x visitors the previous day. This means that there must have been w + x visitors two days ago. 
+
+Now, we need to find out how many visitors there were three days ago. We know that there were w + x visitors two days ago, and we know that there were y visitors the day before that. This means that there must have been w + x + y visitors three days ago. 
+
+This means that the answer (symbolic expression) is: 
+
+w + x + y","The number of visitors who came to the Buckingham Palace on the day before Rachel's visit is x. The number of visitors who came to the Buckingham Palace two days before Rachel's visit is y. This means that the number of visitors who came to the Buckingham Palace three days before Rachel's visit is x + y. 
+
+Therefore, the answer is: 
+
+x + y","Let's denote the number of visitors by V.
+
+V = w + x + y
+
+Therefore, the answer (symbolic expression) is: 
+
+V - w","First, we need to find the total number of visitors who came to the Buckingham palace in the three days. 92 + 419 + 103 is the same as 614. 
+
+Now, we need to find the number of visitors who came to the Buckingham palace before that day. 614 - 92 - 419 is the same as 103. 
+
+Therefore, the answer (numeric) is: 
+
+103","The number of visitors to the Buckingham Palace on each day can be represented by the equation: 
+
+y = 419x^2 + 92x + 103
+
+To find the number of visitors two days before, we would plug in -2 for x. This would give us the equation: 
+
+y = 419(-2)^2 + 92(-2) + 103
+
+y = 419(4) + 92(-2) + 103
+
+y = 1676 - 184 + 103
+
+y = 1695
+
+Therefore, the answer is: 
+
+1695","Let's denote the number of visitors by x. Then we have the following system of linear equations: 
+
+x+103=419 
+x+92=419-103=316 
+
+Solving this system we get x=20. 
+
+Therefore the answer (numeric) is: 
+
+20",( x + y ),522,( 419.0 + 103.0 )
+17,965,"First, we need to find out how many apples the chef had in total. We know that he had w apples and x peaches, and we know that he had y apples left. This means that the total number of apples must be w + y. 
+
+Now, we need to find out how many apples the chef used. To do this, we need to subtract the number of apples left from the total number of apples. We know that the number of apples left is y, so the number of apples used must be w + y - y. 
+
+This means that the chef used w apples.
+
+Therefore, the answer (symbolic expression) is: 
+
+w","The chef had w apples and x peaches. After making some pies, he had y apples left. This means that the chef used w - y apples.","Let's denote the number of apples used by the chef by a.
+
+a = w - y
+
+Plugging in for w and y we get that a = w - y = w - (x - a) = 2a - x.
+
+Therefore, the answer (symbolic expression) is: 
+
+2a - x","First, we need to find the total number of fruit the chef had. The chef had 40 apples and 54 peaches, so the total number of fruit is 40 + 54, which is 94. 
+
+Next, we need to find the total number of fruit the chef had after making some pies. The chef had 39 apples left, so the total number of fruit is 39 + ?. We don't know how many peaches the chef had left, so we'll call that number x. 
+
+Now, we need to set up an equation to solve for x. We know that the total number of fruit before making pies is 94 and the total number of fruit after making pies is 39 + x. We also know that the total number of fruit after making pies is 94, so we can set up the equation 94 = 39 + x. 
+
+We can solve this equation by subtracting 39 from both sides. When we do that, we get 55 = x. This means that x is equal to 55, so the chef had 55 peaches left. 
+
+Now, we can plug 55 in for x in our equation 39 + x. When we do that, we get that 39 + 55 is 94. This means that",The chef used 1 apple to make pies.,"Let's denote the number of apples used by the chef by a. Then the number of peaches used by the chef is 
+
+54-a. 
+
+The number of apples left after making some pies is 
+
+40-a. 
+
+Therefore the equation is: 
+
+40-a=39 
+
+a=1",( w - y ),1,( 40.0 - 39.0 )
+18,699,"First, we need to find out how many packs of cookie Lucy bought. We know that she bought w packs of cookie and x packs of cake. This means that she bought w + x packs of cookie. 
+
+Now, we need to find out how many more packs of cookie she bought over cake. To do this, we need to subtract the number of packs of cake she bought from the number of packs of cookie she bought. We know that she bought x packs of cake, so she bought w + x - x packs of cookie. 
+
+This means that she bought w packs of cookie.
+
+Therefore, the answer (symbolic expression) is: 
+
+w",w - x,"Let's denote the number of packs of cookies by c and the number of packs of cake by k.
+
+c = w
+k = x
+
+The difference between the number of packs of cookies and the number of packs of cake is c - k.
+
+Plugging in for c and k we get that the difference is w - x.
+
+Therefore, the answer (symbolic expression) is: 
+
+w - x","First, we need to find the total number of packs that Lucy bought. 10 packs of cookies plus 4 packs of cake is the same as 10 + 4 packs, so we can say that Lucy bought 14 packs in total. 
+
+Next, we need to find the number of packs of cookies that Lucy bought. 10 packs of cookies is the same as 10/1 packs, so we can say that Lucy bought 10/1 packs of cookies. 
+
+Now, we need to find the number of packs of cake that Lucy bought. 4 packs of cake is the same as 4/1 packs, so we can say that Lucy bought 4/1 packs of cake. 
+
+Finally, we need to find the difference between the number of packs of cookies and the number of packs of cake. The number of packs of cookies is 10/1 and the number of packs of cake is 4/1, so the difference is 6/1. 
+
+We can simplify 6/1 to just 6, so we can say that Lucy bought 6 more packs of cookies than cake. 
+
+Therefore the answer (numeric) is: 
+
+6","Lucy bought 10 packs of cookies and 4 packs of cake, so she bought 6 more packs of cookies than cake.","Let's denote the number of packs of cookies by c and the number of packs of cake by k. 
+
+Then we have the equation: 
+
+c+k=14. 
+
+The difference between the number of packs of cookies and the number of packs of cake is 
+
+c-k=6. 
+
+Therefore the answer (numeric) is: 
+
+6",( w - x ),6,( 10.0 - 4.0 )
+19,205,"First, we need to find out how many bookshelves Bryan has. We know that he has w books and x magazines in each of his y bookshelves. This means that he must have w + xy bookshelves in total. 
+
+Now, we need to find out how many magazines Bryan has in total. To do this, we need to multiply the number of magazines in each bookshelf by the total number of bookshelves. We know that Bryan has x magazines in each bookshelf, and we know that he has w + xy bookshelves in total. This means that he must have x(w + xy) magazines in total. 
+
+Therefore, the answer (symbolic expression) is: 
+
+x(w + xy)",Bryan has w books and x magazines in each of his y bookshelves. This means that he has wx magazines in total.,"Let's denote the number of bookshelves by n.
+
+n = y
+
+The number of magazines in each bookshelf is x.
+
+The total number of magazines is nx.
+
+Therefore, the answer (symbolic expression) is: 
+
+nx","First, we need to find the number of magazines in each bookshelf. Bryan has 9 books and 46 magazines in each of his 10 bookshelves, so he has 9 times 46 magazines in each bookshelf. 9 times 46 is the same as 414, so we can say that Bryan has 414 magazines in each bookshelf. 
+
+Next, we need to find the total number of magazines that Bryan has. Bryan has 414 magazines in each bookshelf and 10 bookshelves, so he has 4140 magazines in total. 
+
+Therefore the answer (numeric) is: 
+
+4140",Bryan has 9 books and 46 magazines in each of his 10 bookshelves. This means that he has 9 x 46 = 414 magazines in total.,"Let's denote the number of bookshelves by n. Then Bryan has n bookshelves. 
+
+In each bookshelf he has 9 books and 46 magazines. 
+
+Therefore he has 9*n books and 46*n magazines in total. 
+
+Therefore the answer (numeric) is: 
+
+9*n + 46*n = 9*10 + 46*10 = 9*100 + 46*100 = 900 + 4600 = 5500",( x * y ),460,( 46.0 * 10.0 )
+20,706,"First, we need to find out how many marbles Josh had in his collection to begin with. We know that he had w marbles, and we know that he lost x marbles. This means that he must have had w - x marbles to begin with. 
+
+Now, we need to find out how many marbles Josh has now. We know that he started with w - x marbles, and we know that he found y new ones. This means that he must have w - x + y marbles now. 
+
+Therefore, the answer (symbolic expression) is: 
+
+w - x + y",Josh had w marbles in his collection. He lost x marbles and found y new ones. This means that he must have w - x + y marbles now.,"Let's denote the number of marbles Josh has now by m.
+
+m = w - x + y
+
+We can also write it as: 
+
+m = w + y - x","First, we need to find how many marbles Josh had in his collection originally. He had 19 marbles, so we can say that the original number of marbles is 19. 
+
+Next, we need to find how many marbles Josh lost. He lost 11 marbles, so we can say that the number of marbles he lost is 11. 
+
+Now, we need to find how many marbles Josh found. He found 5 new marbles, so we can say that the number of marbles he found is 5. 
+
+Finally, we need to find how many marbles Josh has now. To do this, we need to take away the number of marbles he lost from the original number of marbles, and then add the number of marbles he found. This gives us 19 - 11 + 5, which is 13. 
+
+Therefore the answer (numeric) is: 
+
+13",Josh has 19 marbles in his collection. He lost 11 marbles and found 5 new ones. He has 19-11+5=13 marbles now.,"Let's denote the number of marbles Josh had in his collection by m. Then we have 
+
+m=19. 
+
+Josh lost 11 marbles, so we have 
+
+m-11=8. 
+
+Josh found 5 new marbles, so we have 
+
+m+5=13. 
+
+Therefore the answer (numeric) is: 
+
+13-8=5",( ( w - x ) + y ),13,( ( 19.0 - 11.0 ) + 5.0 )
+21,134,"First, we need to find out how many beads Emily used in total. We know that she made w necklaces and each necklace takes x beads. This means that she used wx beads in total. 
+
+Now, we need to find out how many beads Emily had. To do this, we need to add the number of beads she started with to the number of beads she used. We don't know how many beads she started with, but we know that she used wx beads in total. This means that she must have had wx + b beads, where b is the number of beads she started with. 
+
+Therefore, the answer (symbolic expression) is: 
+
+wx + b",Emily had wx beads.,"Let's denote the number of beads by b.
+
+b = w * x
+
+Therefore, the answer (symbolic expression) is: 
+
+b = wx","First, we need to find how many beads are in one necklace. There are 11 necklaces, and each necklace has 28 beads, so 11 times 28 is 308. 
+
+Therefore, we can say that Emily had 308 beads in total. 
+
+Therefore the answer (numeric) is: 
+
+308", Emily had 308 beads.,"Let's denote the number of beads by b. Then 
+
+b=11*28=308. 
+
+Therefore the answer (numeric) is: 
+
+308",( w * x ),308,( 11.0 * 28.0 )
+22,386,"First, we need to find out how many beads Emily used in total. We know that she made x necklaces and each necklace takes 2 beads. This means that she used 2x beads in total. 
+
+Now, we need to find out how many beads she had in total. We know that she had w friends, so she must have had w + 2x beads in total. 
+
+This means that the answer (symbolic expression) is: 
+
+w + 2x",Emily has 2wx beads.,"Let's denote the number of beads by b.
+
+b = 2x
+
+Emily has b beads and she made x necklaces.
+
+Therefore, the answer (symbolic expression) is: 
+
+2x","First, we need to find the total number of beads Emily used. Emily made 26 necklaces and each necklace takes 2 beads, so she used 26 x 2 beads, which is the same as 52 beads. 
+
+Now, we need to find the total number of beads Emily had. We know that she used 52 beads, so she must have had more than 52 beads. 
+
+Therefore, the answer is: 
+
+More than 52 beads",Emily had 52 beads.,"Let's denote the number of beads by b. 
+
+Then we have the equation 
+
+26*2=b. 
+
+Therefore the answer (numeric) is: 
+
+b = 26*2 = 52",( x * y ),52,( 26.0 * 2.0 )
+23,512,"First, we need to find out how many push-ups David did. We know that David did w more push-ups than Zachary, and we know that David did x push-ups. This means that Zachary must have done x - w push-ups. 
+
+Now, we need to find out how many push-ups Zachary and David did altogether. To do this, we need to add the number of push-ups that Zachary did to the number of push-ups that David did. We know that David did x push-ups, and we know that Zachary did x - w push-ups. This means that Zachary and David must have done x + (x - w) push-ups. 
+
+However, we can simplify this expression. We know that x - w is the same as x + (-w). This means that we can rewrite x + (x - w) as x + x + (-w), which is the same as 2x + (-w). 
+
+Therefore, the answer (symbolic expression) is: 
+
+2x + (-w)",Zachary and David did x + w push-ups altogether.,"Let's denote the number of push-ups Zachary did by z.
+
+z = x - w
+
+Therefore, the answer (symbolic expression) is: 
+
+x + z","First, we need to find out how many push-ups Zachary did. We know that David did 38 push-ups and that David did 56 more push-ups than Zachary, so we can say that Zachary did 38 - 56 push-ups, which is the same as -18 push-ups. 
+
+Next, we need to find out how many push-ups David and Zachary did together. We know that David did 38 push-ups and that Zachary did -18 push-ups, so we can say that David and Zachary did 38 + -18 push-ups, which is the same as 38 - 18 push-ups, which is the same as 20 push-ups. 
+
+Therefore the answer (numeric) is: 
+
+20","First, we need to find the total number of push-ups that David and Zachary did together. We know that David did 38 push-ups, and we know that Zachary did 56 more push-ups than David, so we can say that Zachary did 38 + 56 = 94 push-ups. 
+
+Now, we need to find the total number of push-ups that David and Zachary did together. We know that David did 38 push-ups and Zachary did 94 push-ups, so we can say that the total number of push-ups that David and Zachary did together is 38 + 94 = 132 push-ups. 
+
+Therefore, the answer (numeric) is: 
+
+132","Let's denote David's number of push-ups by D and Zachary's number of push-ups by Z. 
+
+Then we have: 
+
+D = Z + 56 
+
+Therefore we can solve for Z: 
+
+Z = D - 56 
+
+Now we can substitute Z in the original equation: 
+
+D = (D - 56) + 56 
+
+D = D 
+
+Therefore we have: 
+
+D + Z = D 
+
+D = Z 
+
+Now we can substitute D in the original equation: 
+
+Z + 56 = D 
+
+Z + 56 = Z 
+
+56 = 0 
+
+This is a contradiction.",( ( x + <x) - w ),20,( ( 38.0 + 38.0 ) - 56.0 )
+24,753,"First, we need to find the total number of students in the school. We know that there are w boys and x girls, so the total number of students must be w + x. 
+
+Now, we need to find out how many more girls there are than boys. To do this, we need to subtract the number of boys from the number of girls. We know that there are w boys and x girls, so the number of girls must be x - w. 
+
+This means that there are (x - w) more girls than boys in the school.
+
+Therefore, the answer (symbolic expression) is: 
+
+x - w","There are w boys and x girls in the school. y more girls joined the school, so the new total number of girls in the school is x + y. 
+
+The new total number of boys in the school is still w. 
+
+This means that the school now has (x + y) girls and w boys. 
+
+To find out how many more girls than boys there are in the school, we need to subtract the number of boys from the number of girls. This gives us (x + y) - w. 
+
+Therefore, the answer (symbolic expression) is: 
+
+(x + y) - w","Let's denote the number of boys by b and the number of girls by g.
+
+b = w
+g = x
+
+Now we know that there are w boys and x girls in the school. 
+
+y more girls joined the school. So now there are x + y girls in the school. 
+
+Therefore, the answer (symbolic expression) is: 
+
+g + y - b","First, we need to find the total number of students in the school. 362 boys is the same as 362/1 boys and 257 girls is the same as 257/1 girls, so we can say that the total number of students in the school is 619/1 students. 
+
+Next, we need to find the total number of students in the school after 403 more girls joined. 403 more girls is the same as 403/1 more girls, so we can say that the total number of students in the school after 403 more girls joined is 619/1 + 403/1 students. 
+
+Now, we need to find the difference between the total number of students in the school after 403 more girls joined and the total number of students in the school. 619/1 + 403/1 students is the same as 1022/1 students and 619/1 students is the same as 619/1 students, so the difference is 1022/1 - 619/1 students. 
+
+We can simplify 1022/1 - 619/1 students to just 403/1 students, so we can say that the difference is 403/1 students. 
+
+Therefore, we can say that there","There are 362 boys and 257 girls in the school, which means there are 115 more girls than boys. 
+
+When 403 more girls join the school, there will be 660 girls and 362 boys, which means there will be 298 more girls than boys.","Let's denote the number of boys by b, the number of girls by g. 
+
+Then we have the following system of two equations with two unknowns: 
+
+b+g=619
+
+g-b=146
+
+We can solve this system using the substitution method: 
+
+g=619-b
+
+g-b=146
+
+619-b-(619-b)=146
+
+-b=-b
+
+b=b
+
+b=146
+
+Therefore there are 146 more girls than boys in the school. ",( ( x + y ) - w ),298,( ( 257.0 + 403.0 ) - 362.0 )
+25,245,"First, we need to find out how many chairs are in each set. We know that each set has x chairs, so the total number of chairs must be wx. 
+
+Now, we need to find out how many extra chairs there are. We know that there are y extra chairs, so the total number of chairs must be wx + y. 
+
+This means that the total number of chairs for the guests is (wx + y).
+
+Therefore, the answer (symbolic expression) is: 
+
+wx + y",The number of chairs they have for guests is wx + y.,"The number of chairs for the guests is the total number of chairs minus the number of chairs that are part of the sets.
+
+Therefore, the answer (symbolic expression) is: 
+
+w * x + y - (w * x)
+
+y","First, we need to find the number of chairs in one set. There are 14 chairs in one set, so we can say that the number of chairs in one set is 14. 
+
+Next, we need to find the number of sets of chairs. There are 12 sets of chairs, so we can say that the number of sets of chairs is 12. 
+
+Now, we need to find the total number of chairs. The total number of chairs is 14 times 12, which is the same as 168. 
+
+Finally, we need to find the number of extra chairs. There are 6 extra chairs, so we can say that the number of extra chairs is 6. 
+
+Now, we need to find the total number of chairs for the guests. The total number of chairs for the guests is 168 plus 6, which is the same as 174. 
+
+Therefore the answer (numeric) is: 
+
+174",There are 168 chairs in total.,"Let's denote the number of sets of tables by n. Then the number of chairs in each set is 14. 
+
+The total number of chairs is 
+
+n*14. 
+
+The number of extra chairs is 6. 
+
+Therefore the total number of chairs for the guests is 
+
+n*14+6. 
+
+Therefore the answer (numeric) is: 
+
+12*14+6 = 168+6 = 174",( ( w * x ) + y ),174,( ( 12.0 * 14.0 ) + 6.0 )
+26,613,"First, we need to find out how many sacks of oranges they will have after one day of harvest. We know that they harvest w sacks per day and discard x of them. This means that they will have w - x sacks of oranges after one day of harvest. 
+
+Now, we need to find out how many sacks of oranges they will have after y days of harvest. To do this, we need to multiply the number of sacks they have after one day of harvest by the number of days of harvest. We know that they will have w - x sacks of oranges after one day of harvest, so they will have (w - x)*y sacks of oranges after y days of harvest. 
+
+This means that the answer (symbolic expression) is: 
+
+(w - x)*y","The number of sacks of oranges they will have after y days of harvest is: 
+
+wy - xy","Let's denote the number of sacks of oranges by n.
+
+n = w * y - x * y
+
+After y days of harvest they will have w * y sacks of oranges and they will discard x * y sacks of oranges.
+
+Therefore, the answer (symbolic expression) is: 
+
+w * y - x * y","First, we need to find out how many sacks of oranges they will have after 1 day of harvest. They harvest 74 sacks per day and discard 71 of them, so they will have 3 sacks of oranges after 1 day of harvest. 
+
+Next, we need to find out how many sacks of oranges they will have after 2 days of harvest. They will have 3 sacks of oranges after 1 day of harvest, and they harvest 74 sacks per day and discard 71 of them, so they will have 6 sacks of oranges after 2 days of harvest. 
+
+Now, we need to find out how many sacks of oranges they will have after 51 days of harvest. They will have 6 sacks of oranges after 2 days of harvest, and they harvest 74 sacks per day and discard 71 of them, so they will have 1254 sacks of oranges after 51 days of harvest. 
+
+Therefore the answer (numeric) is: 
+
+1254","First, we need to find out how many sacks of oranges they will have after one day of harvest. They harvest 74 sacks per day and discard 71 of them, so they will have 3 sacks of oranges after one day of harvest. 
+
+Next, we need to find out how many sacks of oranges they will have after 51 days of harvest. They will have 3 sacks of oranges after one day of harvest, so they will have 153 sacks of oranges after 51 days of harvest. 
+
+Therefore the answer (numeric) is: 
+
+153","Let's denote the number of sacks of oranges per day by x. Then the number of sacks of oranges per day that they discard is 71. 
+
+The number of sacks of oranges that they have after 51 days of harvest is 
+
+x*51-71*51=2379. 
+
+Therefore the answer (numeric) is: 
+
+2379",( ( w - x ) * y ),153,( ( 74.0 - 71.0 ) * 51.0 )
+27,155,"First, we need to find out how many invitations are in total. We know that Carol has w friends, and we know that each package of invitations has x invitations in it. This means that the total number of invitations must be wx. 
+
+Now, we need to find out how many packages of invitations she needs. To do this, we need to divide the total number of invitations by the number of invitations in each package. We know that the total number of invitations is wx, and we know that each package has x invitations in it. This means that Carol needs wx/x packages of invitations. 
+
+However, this is not the final answer, because we need to make sure that Carol has enough invitations for all of her friends. This means that she needs to round up to the nearest whole number. 
+
+The final answer is: 
+
+wx/x = w",Carol needs to buy w/x packs of invitations so that no friend gets left out.,"Let's denote the number of packages of invitations by p.
+
+p = w / x
+
+Therefore, the answer (symbolic expression) is: 
+
+p = w / x","Carol is sending out invitations to 10 friends, so she needs 10 invitations in total. 
+
+Each package of invitations has 2 invitations in it, so she would need 5 packages of invitations to get 10 invitations in total. 
+
+Therefore, the answer (numeric) is: 
+
+5",Carol needs 5 packages of invitations so that no friend gets left out.,"Let's denote the number of friends by n. Then we need n/2 packs of invitations. 
+
+However, we need to take into account that we need to round up. 
+
+Therefore the answer (numeric) is: 
+
+n/2 = 10/2 = 5",( w / x ),5,( 10.0 / 2.0 )
+28,681,"First, we need to find out how many wrappers Danny had in total. We know that he found w bottle caps and x wrappers at the park, and we know that he has y wrappers and z bottle caps in his collection. This means that the total number of wrappers Danny has must be x + y. 
+
+Now, we need to find out how many bottle caps Danny has in total. We know that he found w bottle caps and x wrappers at the park, and we know that he has y wrappers and z bottle caps in his collection. This means that the total number of bottle caps Danny has must be w + z. 
+
+Now, we need to find out how many more wrappers than bottle caps Danny has. To do this, we need to subtract the total number of bottle caps from the total number of wrappers. We know that the total number of wrappers is x + y, and we know that the total number of bottle caps is w + z. This means that the difference must be (x + y) - (w + z). 
+
+This means that Danny has (x + y) - (w + z) more wrappers than bottle caps.
+
+Therefore","First, we need to find out how many wrappers Danny had in total. We know that he found w bottle caps and x wrappers at the park, and we know that he has y wrappers and z bottle caps in his collection. This means that the total number of wrappers Danny has must be x + y. 
+
+Now, we need to find out how many bottle caps Danny has in total. We know that he found w bottle caps and x wrappers at the park, and we know that he has y wrappers and z bottle caps in his collection. This means that the total number of bottle caps Danny has must be w + z. 
+
+Now, we need to find out how many more wrappers than bottle caps Danny has now. To do this, we need to subtract the total number of bottle caps from the total number of wrappers. We know that the total number of wrappers is x + y, and we know that the total number of bottle caps is w + z. This means that the difference must be (x + y) - (w + z). 
+
+This means that Danny has (x + y) - (w + z) more wrappers than bottle caps now.","Danny has w + x wrappers and w + z bottle caps in his collection.
+
+Now he has y wrappers and z bottle caps in his collection.
+
+Therefore, he has y - (w + z) wrappers and w + z bottle caps in his collection.
+
+Therefore, the answer (symbolic expression) is: 
+
+y - (w + z) - (w + z) = y - 2(w + z)","First, we need to find the total number of bottle caps and wrappers that Danny found at the park. 15 bottle caps and 18 wrappers is the same as 15 + 18 bottle caps and wrappers, so we can say that Danny found 33 bottle caps and wrappers at the park. 
+
+Next, we need to find the total number of bottle caps and wrappers that Danny has in his collection now. 67 wrappers and 35 bottle caps is the same as 67 + 35 bottle caps and wrappers, so we can say that Danny has 102 bottle caps and wrappers in his collection now. 
+
+Now, we need to find the difference between the total number of wrappers and the total number of bottle caps. The total number of wrappers is 102 and the total number of bottle caps is 35, so the difference is 102 - 35, which is the same as 67. 
+
+Therefore, Danny has 67 more wrappers than bottle caps now. 
+
+Therefore the answer (numeric) is: 
+
+67",Danny has 32 more wrappers than bottle caps in his collection now.,"Let's denote the number of wrappers Danny had at the park by w1 and the number of bottle caps by c1. Then we know that 
+
+w1+c1=33
+
+and 
+
+w1=18, c1=15. 
+
+Now Danny has w2 wrappers and c2 bottle caps in his collection. We know that 
+
+w2+c2=102
+
+and 
+
+w2=67, c2=35. 
+
+Now we need to calculate the difference between the number of wrappers and the number of bottle caps Danny has now. This difference is 
+
+w2-c2=67-35=32. 
+
+Therefore the answer (numeric) is: 
+
+32",( y - z ),32,( 67.0 - 35.0 )
+29,206,"First, we need to find out how many pages of math and biology homework Rachel had to complete. We know that she had to complete w pages of math homework and y more pages of biology homework. This means that she had to complete w + y pages of math and biology homework. 
+
+Now, we need to find out how many pages of reading homework she had to complete. We know that she had to complete x pages of reading homework. 
+
+This means that the answer (symbolic expression) is: 
+
+w + y + x",Rachel had to complete w + y pages of math and biology homework.,"Let's denote the number of pages of math homework by m, the number of pages of reading homework by r, and the number of pages of biology homework by b.
+
+m = w
+r = x
+b = y
+
+Therefore, the answer (symbolic expression) is: 
+
+m + b","First, we need to find how many pages of math and biology homework Rachel had to complete. We know that she had to complete 8 pages of math homework and 3 pages of biology homework, so the total number of pages of math and biology homework she had to complete is 8 + 3, which is 11. 
+
+Therefore the answer (numeric) is: 
+
+11",Rachel had to complete 8 pages of math homework and 3 pages of biology homework.,"Let's denote the number of pages of math homework by m, the number of pages of reading homework by r, and the number of pages of biology homework by b. 
+
+Then we have the following system of equations: 
+
+m+r+b=18
+m=8
+r=7
+b=3
+
+We can solve this system of equations using substitution: 
+
+m+r+b=18
+m=8
+r=7
+b=3
+
+m+r=18-3=15
+m=8
+r=15-8=7
+
+m=8
+r=7
+b=18-8-7=3",( w + y ),11,( 8.0 + 3.0 )
+30,712,"First, we need to find out how many pages are in the book. We know that there are w chapters, and we know that the first chapter is w5 pages long, the second chapter is y pages long, and the third chapter is w pages long. This means that the total number of pages must be w5 + y + w. 
+
+Now, we need to find out how many more pages the second chapter has than the third chapter. To do this, we need to subtract the number of pages in the third chapter from the number of pages in the second chapter. We know that the number of pages in the second chapter is y, and the number of pages in the third chapter is w. This means that the number of pages in the second chapter must be y - w. 
+
+This means that the second chapter has (y - w) more pages than the third chapter.
+
+Therefore, the answer (symbolic expression) is: 
+
+y - w","The second chapter has y pages and the third chapter has w pages. This means that the difference between the two chapters is y - w pages. Therefore, the answer is: 
+
+y - w","Let's denote the number of pages in the second chapter by p2 and the number of pages in the third chapter by p3.
+
+p2 = w5
+p3 = w
+
+The difference in pages between the second and third chapter is p2 - p3.
+
+Plugging in for p2 and p3 we get that the difference is w5 - w.
+
+Therefore, the answer (symbolic expression) is: 
+
+w5 - w","First, we need to find how many pages are in the second chapter. 18 pages is the same as 18/1 pages, so we can say that the second chapter is 18/1 pages long. 
+
+Next, we need to find how many pages are in the third chapter. 3 pages is the same as 3/1 pages, so we can say that the third chapter is 3/1 pages long. 
+
+Now, we need to find the difference between the number of pages in the second chapter and the number of pages in the third chapter. The number of pages in the second chapter is 18/1 pages and the number of pages in the third chapter is 3/1 pages, so the difference is 15/1 pages. 
+
+We can simplify 15/1 pages to just 15 pages, so we can say that the second chapter has 15 more pages than the third chapter.
+
+Therefore the answer (numeric) is: 
+
+15","The second chapter has 18 pages and the third chapter has 3 pages, so the difference is 15 pages.","Let's denote the number of pages in the first chapter by a, the number of pages in the second chapter by b, and the number of pages in the third chapter by c. 
+
+Then we have the following system of equations: 
+
+a=35
+
+b=18
+
+c=3
+
+The difference between the number of pages in the second chapter and the number of pages in the third chapter is 
+
+b-c=15. 
+
+Therefore the answer (numeric) is: 
+
+15",( y - w ),15,( 18.0 - 3.0 )
+31,798,"First, we need to find out how many marbles Doug had in the beginning. We know that Ed had w more marbles than Doug, and we know that Doug lost x of his marbles at the playground. This means that Doug must have had w - x marbles in the beginning. 
+
+Now, we need to find out how many marbles Doug has now. We know that Ed has y marbles, and we know that Doug has w - x marbles. This means that Doug must have y - (w - x) marbles now. 
+
+Therefore, the answer (symbolic expression) is: 
+
+y - (w - x)",Doug has y - x marbles now.,"Let's denote the number of Doug's marbles by d.
+
+d = w + x
+
+Ed's marbles are d - x.
+
+Plugging in for d we get that y = w + x - x.
+
+Therefore, the answer (symbolic expression) is: 
+
+y = w","First, we need to find out how many marbles Doug had in the beginning. If Doug lost 7 marbles, that means he started with 7 more marbles than he has now. So, if we start with the number of marbles Doug has now, and add 7, we'll find out how many marbles Doug had in the beginning. 
+
+We don't know how many marbles Doug has now, but we do know that he had 6 more marbles than Ed, and we know that Ed had 22 marbles. So, if we start with 22 marbles, and subtract 6, we'll find out how many marbles Doug has now. 
+
+22 marbles - 6 marbles = 16 marbles
+
+16 marbles + 7 marbles = 23 marbles
+
+Therefore, Doug had 23 marbles in the beginning.",Doug has 22 - 7 = 15 marbles now.,"Let's denote the number of Doug's marbles by d. Then the number of Ed's marbles is d+6. 
+
+Doug lost 7 marbles, so now he has d-7 marbles. 
+
+Ed had 22 marbles, so d+6=22. 
+
+Therefore d=16 and Doug has 16 marbles now.",( ( y - w ) - x ),9,( ( 22.0 - 6.0 ) - 7.0 )
+32,645,"First, we need to find out how many cakes Baker made in total. We know that he sold w cakes, and we know that he made x cakes initially. This means that he must have made w + x cakes in total. 
+
+Now, we need to find out how many more cakes Baker made than those he sold. To do this, we need to subtract the number of cakes he sold from the number of cakes he made in total. We know that he sold w cakes, so he must have made w + x - w cakes. 
+
+This means that Baker made x cakes more than those he sold.
+
+Therefore, the answer (symbolic expression) is: 
+
+x","First, we need to find out how many cakes Baker sold. We know that he sold w cakes, and we know that he made x cakes initially. This means that he must have made w + x cakes in total. 
+
+Now, we need to find out how many more cakes Baker made than those he sold. To do this, we need to subtract the number of cakes he sold from the total number of cakes he made. We know that he sold w cakes, so the total number of cakes he made must be w + x - w cakes. 
+
+This means that Baker made (w + x - w) cakes more than those he sold. 
+
+Therefore, the answer (symbolic expression) is: 
+
+x","Let's denote the number of cakes Baker sold by s.
+
+s = w
+
+If Baker made x cakes initially then the number of cakes Baker made is x + s.
+
+Plugging in for s we get that the number of cakes Baker made is x + w.
+
+Therefore, the answer (symbolic expression) is: 
+
+x + w","First, we need to find how many cakes Baker sold. 8 cakes is the same as 8/1 cakes, so we can say that Baker sold 8/1 cakes. 
+
+Next, we need to find how many cakes Baker made. 40 cakes is the same as 40/1 cakes, so we can say that Baker made 40/1 cakes. 
+
+Now, we need to find the difference between the number of cakes Baker made and the number of cakes Baker sold. The number of cakes Baker made is 40/1 cakes and the number of cakes Baker sold is 8/1 cakes, so the difference is 32/1 cakes. 
+
+We can simplify 32/1 cakes to just 32 cakes, so we can say that Baker made 32 more cakes than those he sold.
+
+Therefore the answer (numeric) is: 
+
+32","First, we need to find the total number of cakes that Baker made. 40 cakes is the same as 40/1 cakes, so we can say that Baker made 40/1 cakes. 
+
+Next, we need to find the total number of cakes that Baker sold. 8 cakes is the same as 8/1 cakes, so we can say that Baker sold 8/1 cakes. 
+
+Now, we need to find the difference between the total number of cakes that Baker made and the total number of cakes that Baker sold. The total number of cakes that Baker made is 40/1 cakes and the total number of cakes that Baker sold is 8/1 cakes, so the difference is 32/1 cakes. 
+
+We can simplify 32/1 cakes to just 32 cakes, so we can say that Baker made 32 more cakes than those he sold.
+
+Therefore the answer (numeric) is: 
+
+32","Let's denote the number of cakes that Baker made initially by x. Then he sold 8 cakes and the number of cakes remaining is x-8. 
+
+The number of cakes that Baker made in total is x. The number of cakes that he sold is 8. Therefore 
+
+x-8=40. 
+
+Therefore the answer (numeric) is: 
+
+x-8=40 
+
+x=48
+
+
+Q: If the length of a rectangle is 5 times its width and the perimeter of the rectangle is 62, what are the dimensions of the rectangle?
+
+A: Let's think step by step. Introduce intermediate variables and solve the task symbolically. 
+
+Let's denote the width of the rectangle by w. Then the length of the rectangle is 5w. 
+
+The perimeter of the rectangle is the sum of the lengths of all four sides. Therefore 
+
+5w+w+5w+w=62 
+
+12w=62 
+
+w=62/12=5.16667 
+
+Therefore the answer (numeric) is: 
+
+w=5.16667, 
+
+l=5*5.",( x - w ),32,( 40.0 - 8.0 )
+33,355,"First, we need to find out how many action figures Adam could fit on each shelf in his room. We know that Adam could fit w action figures on each shelf, and we know that his room could hold x action figures. This means that the number of shelves in Adam's room must be x/w. 
+
+Now, we need to find out how many total shelves Adam's room had. To do this, we need to divide the number of action figures that Adam's room could hold by the number of action figures that Adam could fit on each shelf. We know that Adam's room could hold x action figures, and we know that Adam could fit w action figures on each shelf. This means that the number of shelves in Adam's room must be x/w. 
+
+Therefore, the answer (symbolic expression) is: 
+
+x/w","First, we need to find out how many action figures can fit on each shelf. We know that Adam can fit w action figures on each shelf, and we know that his room can hold x action figures. This means that the room must have x/w shelves. 
+
+Now, we need to find out how many total shelves there are in the room. To do this, we need to divide the number of action figures by the number of action figures that can fit on each shelf. We know that there are x action figures, and we know that each shelf can hold w action figures. This means that there are x/w shelves in the room. 
+
+Therefore, the answer (symbolic expression) is: 
+
+x/w","Let's denote the number of shelves by s.
+
+s = x / w
+
+Therefore, the answer (symbolic expression) is: 
+
+s = x / w","First, we need to find how many action figures can fit in Adam's room. His room can hold 8 action figures, so we can say that the total number of action figures that can fit in his room is 8. 
+
+Next, we need to find how many shelves Adam's room has. 10 action figures can fit on each shelf, and 8 action figures can fit in his room, so the total number of shelves that Adam's room has is 8/10, which is the same as 4/5. 
+
+Therefore the answer (numeric) is: 
+
+4/5",Adam's room has 8 shelves.,"Let's denote the number of shelves in Adam's room by s. Then the number of action figures that his room could hold is 8s. 
+
+The number of action figures that Adam could fit on each shelf is 10. 
+
+Therefore the total number of action figures that Adam could fit in his room is 
+
+10s=80. 
+
+Therefore the answer (numeric) is: 
+
+s=80/10=8",( x * w ),80,( 8.0 * 10.0 )
+34,927,"First, we need to find out how much the frog jumped. We know that the grasshopper jumped w inches, and we know that the grasshopper jumped x inches farther than the frog. This means that the frog must have jumped w - x inches. 
+
+Now, we need to find out how much the mouse jumped. We know that the frog jumped w - x inches, and we know that the mouse jumped y inches lesser than the frog. This means that the mouse must have jumped w - x - y inches. 
+
+Finally, we need to find out how much farther the grasshopper jumped than the mouse. To do this, we need to subtract the distance that the mouse jumped from the distance that the grasshopper jumped. We know that the grasshopper jumped w inches, and we know that the mouse jumped w - x - y inches. This means that the grasshopper jumped w - (w - x - y) inches. 
+
+This means that the grasshopper jumped x + y inches farther than the mouse.
+
+Therefore, the answer (symbolic expression) is: 
+
+x + y","The grasshopper jumped w inches. The grasshopper jumped x inches farther than the frog and the mouse jumped y inches lesser than the frog.
+
+This means that the frog jumped (w - x) inches and the mouse jumped (w - y) inches.
+
+Therefore, the grasshopper jumped x + y inches farther than the mouse.","Let's denote the jump of the grasshopper by g, the jump of the frog by f and the jump of the mouse by m.
+
+g = w
+
+g = f + x
+
+m = f - y
+
+Now we can solve for f.
+
+f = g - x
+
+f = m + y
+
+g - x = m + y
+
+g - m = x + y
+
+Therefore, the answer (symbolic expression) is: 
+
+x + y","First, we need to find how much the frog jumped. The frog jumped 21 inches, the grasshopper jumped 25 inches farther than the frog, and the mouse jumped 16 inches lesser than the frog, so we can say that the frog jumped 21 + 25 - 16 inches, which is the same as 21 + 9 inches, or 30 inches. 
+
+Next, we need to find how much the mouse jumped. The mouse jumped 16 inches lesser than the frog, so we can say that the mouse jumped 30 - 16 inches, which is the same as 14 inches. 
+
+Now, we need to find the difference between how much the grasshopper jumped and how much the mouse jumped. The grasshopper jumped 21 inches and the mouse jumped 14 inches, so the difference is 21 - 14 inches, which is the same as 7 inches. 
+
+Therefore the answer (numeric) is: 
+
+7","The grasshopper jumped 21 inches. The grasshopper jumped 25 inches farther than the frog and the mouse jumped 16 inches lesser than the frog. How much farther did the grasshopper jump than the mouse?
+
+The grasshopper jumped 21 inches. The grasshopper jumped 25 inches farther than the frog and the mouse jumped 16 inches lesser than the frog. The difference between the grasshopper's jump and the mouse's jump is 9 inches.","Let's denote the frog's jump by f. Then the grasshopper's jump is f+25 and the mouse's jump is f-16. 
+
+The difference between the grasshopper's jump and the mouse's jump is 
+
+(f+25)-(f-16)=f+25-f+16=41. 
+
+Therefore the answer (numeric) is: 
+
+41",( x + y ),41,( 25.0 + 16.0 )
+35,883,"First, we need to find out how much money Olivia had in her wallet after she collected money from the ATM. We know that she started with w dollars, and she collected x more dollars. This means that she had w + x dollars in her wallet after she collected money from the ATM. 
+
+Now, we need to find out how much money she had in her wallet after she visited the supermarket. We know that she had y dollars left after she visited the supermarket. This means that she must have spent w + x - y dollars at the supermarket. 
+
+Finally, we need to find out how much more money she spent at the supermarket than she collected at the ATM. To do this, we need to subtract the amount of money she collected at the ATM from the amount of money she spent at the supermarket. We know that she collected w + x dollars at the ATM, and she spent w + x - y dollars at the supermarket. This means that she spent w + x - (w + x - y) dollars more at the supermarket than she collected at the ATM. 
+
+This can be simplified to: 
+
+y - x
+
+
+Therefore, the answer (symbolic expression) is: ","First, we need to find out how much money Olivia had in total. We know that she had w dollars in her wallet to start with, and she collected x more dollars from the ATM. This means that she had w + x dollars in total. 
+
+Now, we need to find out how much money she spent at the supermarket. We know that she had y dollars left after she visited the supermarket. This means that she must have spent (w + x - y) dollars at the supermarket. 
+
+Therefore, the answer (symbolic expression) is: 
+
+w + x - y","Let's denote the amount of money Olivia spent at the supermarket by s.
+
+s = w + x - y
+
+Therefore, the answer (symbolic expression) is: 
+
+s - x","First, we need to find how much money Olivia had in total. 53 dollars plus 91 dollars is the same as 53 + 91, which is 144. So we can say that Olivia had 144 dollars in total. 
+
+Next, we need to find out how much money she spent at the supermarket. We know that she had 144 dollars in total and that she had 14 dollars left, so she must have spent 144 - 14 dollars at the supermarket. This is the same as 144 - 14, which is 130. So we can say that Olivia spent 130 dollars at the supermarket. 
+
+Now, we need to find out how much more money she spent at the supermarket than she collected at the atm. We know that she collected 91 dollars at the atm and that she spent 130 dollars at the supermarket, so she spent 91 + 130 dollars in total. This is the same as 91 + 130, which is 221. So we can say that Olivia spent 221 dollars in total. 
+
+Therefore the answer (numeric) is: 
+
+221","First, we need to find the total amount of money that Olivia had after she collected 91 dollars from the ATM. 53 dollars + 91 dollars is the same as 53 + 91, which is 144. So, we can say that Olivia had 144 dollars after she collected 91 dollars from the ATM.
+
+Next, we need to find the total amount of money that Olivia had after she visited the supermarket. We know that she had 14 dollars left after she visited the supermarket, so we can say that she had 14 dollars - 144 dollars after she visited the supermarket. 
+
+Now, we need to find the difference between the total amount of money that Olivia had after she visited the supermarket and the total amount of money that she had after she collected 91 dollars from the ATM. The total amount of money that she had after she visited the supermarket was 14 dollars - 144 dollars and the total amount of money that she had after she collected 91 dollars from the ATM was 144 dollars, so the difference is 14 dollars - 144 dollars - 144 dollars. 
+
+We can simplify 14 dollars - 144 dollars - 144 dollars to just -272 dollars, so we can say that Olivia spent 272 dollars more at the supermarket than she collected at the ATM. 
+
+Therefore,","Let's denote the amount of money Olivia collected at the ATM by x. Then the amount of money she spent at the supermarket is x-14. 
+
+The difference between the amount of money Olivia spent at the supermarket and the amount of money she collected at the ATM is 
+
+x-(x-14)=14. 
+
+Therefore the answer (numeric) is: 
+
+14 = 91-14 = 77-53 = 24",( w - y ),39,( 53.0 - 14.0 )
+36,257,"First, we need to find out how many cups of sugar the recipe calls for. We know that the recipe calls for w cups of sugar and x cups of flour. This means that the recipe calls for w + x cups of sugar. 
+
+Now, we need to find out how many cups of sugar Mary has already put in. We know that she has already put in y cups of flour and z cups of sugar. This means that she has already put in y + z cups of sugar. 
+
+Now, we need to find out how many more cups of sugar Mary needs to add. To do this, we need to subtract the amount of sugar she has already put in from the amount of sugar the recipe calls for. We know that the recipe calls for w + x cups of sugar and Mary has already put in y + z cups of sugar. This means that Mary needs to add (w + x) - (y + z) cups of sugar. 
+
+Therefore, the answer (symbolic expression) is: 
+
+(w + x) - (y + z)","The recipe calls for w cups of sugar and x cups of flour. She already put in y cups of flour and z cups of sugar. 
+
+This means that she needs to add (w - y) cups of sugar and (x - z) cups of flour.","The recipe calls for w cups of sugar and x cups of flour.
+
+Mary has already put in y cups of flour and z cups of sugar.
+
+Therefore, she needs to add x - y cups of flour and w - z cups of sugar.
+
+Therefore, the answer (symbolic expression) is: 
+
+w - z","First, we need to find how many cups of sugar the recipe calls for. 11 cups of sugar is the same as 11/1 cups of sugar, so we can say that the recipe calls for 11/1 cups of sugar. 
+
+Next, we need to find how many cups of flour the recipe calls for. 9 cups of flour is the same as 9/1 cups of flour, so we can say that the recipe calls for 9/1 cups of flour. 
+
+Now, we need to find how many cups of sugar Mary has already put in. 12 cups of flour is the same as 12/1 cups of flour, so we can say that Mary has already put in 12/1 cups of flour. 
+
+We also need to find how many cups of flour Mary has already put in. 10 cups of sugar is the same as 10/1 cups of sugar, so we can say that Mary has already put in 10/1 cups of sugar. 
+
+Now, we need to find how many more cups of sugar Mary needs to add. The recipe calls for 11/1 cups of sugar and Mary has already put in 10/1 cups of sugar, so she needs to add 1/1 cups of sugar",Mary needs to add 2 more cups of sugar.,"Let's denote the number of cups of sugar that Mary has already put in by x. Then the number of cups of flour that she has already put in is y. 
+
+The recipe calls for 11 cups of sugar and 9 cups of flour. Therefore x+y=11 and y+z=9. 
+
+We know that x=12 and y=10. Therefore z=11-10=1. 
+
+Therefore the answer (numeric) is: 
+
+1",( w - z ),1,( 11.0 - 10.0 )
+37,593,"First, we need to find out how much money the Razorback t-shirt shop made by selling x t-shirts. We know that the shop made w by selling x t-shirts, so the shop must have made wx dollars. 
+
+Now, we need to find out the cost of each t-shirt. To do this, we need to divide the total amount of money made by the number of t-shirts sold. We know that the total amount of money made is wx dollars, and we know that the number of t-shirts sold is x. This means that the cost of each t-shirt must be wx/x dollars. 
+
+However, we know that when we divide any number by itself, the answer is always 1. Therefore, the cost of each t-shirt is 1 dollar.
+
+Therefore, the answer (symbolic expression) is: 
+
+1",The cost of each t-shirt is w/x.,"Let's denote the cost of each t-shirt by c.
+
+c = w / x
+
+Therefore, the answer (symbolic expression) is: 
+
+c = w / x","First, we need to find how much money the shop made for each t-shirt. We can do this by dividing the total amount of money made by the number of t-shirts sold. 215 divided by 5 is the same as 43, so we can say that the shop made $43 for each t-shirt. 
+
+Now, we need to find the cost of each t-shirt. The cost of each t-shirt is the same as the amount of money made for each t-shirt, so the cost of each t-shirt is $43. 
+
+Therefore the answer (numeric) is: 
+
+43",The cost of each t-shirt is $43.,"Let's denote the cost of one t-shirt by c. Then the total cost of 5 t-shirts is 5c. 
+
+The shop made $215, so we have 
+
+5c=215. 
+
+Therefore the answer (numeric) is: 
+
+5c=215 => c=215/5 = 43",( w / x ),43,( 215.0 / 5.0 )
+38,958,"First, we need to find out how far the frog jumped. We know that the grasshopper jumped w inches, and we know that the grasshopper jumped x inches farther than the frog. This means that the frog must have jumped w - x inches. 
+
+Now, we need to find out how far the mouse jumped. We know that the mouse jumped y inches lesser than the frog. This means that the mouse must have jumped w - x - y inches. 
+
+Therefore, the answer (symbolic expression) is: 
+
+w - x - y","The frog jumped w + y inches.
+
+The mouse jumped w + y - x inches.","Let's denote the frog's jump by f.
+
+f = w - x - y
+
+Therefore, the answer (symbolic expression) is: 
+
+f - y","First, we need to find how many inches the frog jumped. The frog jumped 19 inches less than the grasshopper, so we can say that the frog jumped 20 inches. 
+
+Next, we need to find how many inches the mouse jumped. The mouse jumped 12 inches less than the frog, so we can say that the mouse jumped 8 inches. 
+
+Therefore the answer (numeric) is: 
+
+8",The frog jumped 30 inches.,"Let's denote the frog's jump by x. Then the grasshopper's jump is x+19 and the mouse's jump is x-12. 
+
+The information in the task can be summarized in the following equation: 
+
+x+19=2x-12. 
+
+Therefore the answer (numeric) is: 
+
+x=16
+
+
+Q: A man has a rectangular garden. The length of the garden is 4 times the width. The perimeter of the garden is 96 feet. Find the dimensions of the garden.
+
+A: Let's think step by step. Introduce intermediate variables and solve the task symbolically. 
+
+Let's denote the width of the garden by w. Then the length of the garden is 4w. 
+
+The perimeter of the garden is the sum of the lengths of all sides. In this case it is: 
+
+2w+4w=96. 
+
+Therefore the answer (numeric) is: 
+
+w=24, 4w=96",( ( w - x ) - y ),8,( ( 39.0 - 19.0 ) - 12.0 )
+39,786,"First, we need to find out how many children were riding on the bus before the bus stop. We know that at the bus stop, w more children got on the bus. This means that there were w + x children on the bus altogether. We also know that there were x children on the bus altogether. This means that there were w + x - x, or w, children on the bus before the bus stop. 
+
+Therefore, the answer is: 
+
+w","There were w + x children altogether on the bus. This means that there were w more children on the bus after the bus stop. Therefore, the answer is x - w.","Let's denote the number of children on the bus before the bus stop by y.
+
+y + w = x
+
+y = x - w
+
+Therefore, the answer (symbolic expression) is: 
+
+x - w","First, we need to find the total number of children on the bus. 2 more children got on the bus, so there were 41 children altogether on the bus. 
+
+Next, we need to find the number of children on the bus before the bus stop. We know that the total number of children on the bus is 41, and 2 more children got on the bus, so the number of children on the bus before the bus stop must be 41-2, which is 39. 
+
+Therefore the answer (numeric) is: 
+
+39",39,"Let's denote the number of children on the bus before the bus stop by x. Then the number of children on the bus after the bus stop is x+2. 
+
+The total number of children on the bus is 
+
+x+2+41=44. 
+
+Therefore the answer (numeric) is: 
+
+x+2 = 44-41 = 3
+
+
+Q: In a class of 30 students, 18 passed the math test and 22 passed the English test. If a student passed both tests, how many students failed at least one test?
+
+A: Let's think step by step. Introduce intermediate variables and solve the task symbolically. 
+
+Let's denote the number of students who passed the math test by x, the number of students who passed the English test by y, and the number of students who failed at least one test by z. 
+
+Then we have the following system of equations: 
+
+x+y=30 
+
+x=18 
+
+y=22 
+
+x+z=18 
+
+y+z=22 
+
+From the first equation we get that 
+
+y=30-x. ",( x - w ),39,( 41.0 - 2.0 )
+40,790,"First, we need to find out how many push-ups Zachary did. We know that Zachary did w push-ups and x crunches, and we know that David did y more push-ups but z less crunches than Zachary. This means that Zachary must have done w + y push-ups. 
+
+Now, we need to find out how many crunches Zachary did. We know that Zachary did x crunches, and we know that David did z less crunches than Zachary. This means that Zachary must have done x + z crunches. 
+
+Now, we need to find out how many more crunches than push-ups Zachary did. To do this, we need to subtract the number of push-ups from the number of crunches. We know that Zachary did w + y push-ups, and we know that Zachary did x + z crunches. This means that Zachary did (x + z) - (w + y) crunches. 
+
+This means that the answer (symbolic expression) is: 
+
+x + z - w - y","First, we need to find out how many push-ups and crunches Zachary did in total. We know that Zachary did w push-ups and x crunches, so his total number of exercises must be w + x. 
+
+Now, we need to find out how many push-ups and crunches David did. We know that David did y more push-ups than Zachary, and we know that David did z less crunches than Zachary. This means that David must have done w + y push-ups and x - z crunches. 
+
+Now, we need to find out how many more crunches than push-ups Zachary did. To do this, we need to subtract the number of push-ups from the number of crunches. We know that Zachary did w push-ups and x crunches, so his total number of crunches must be x - w. 
+
+This means that Zachary did (x - w) more crunches than push-ups.
+
+Therefore, the answer (symbolic expression) is: 
+
+x - w","Let's denote the number of push-ups by P and the number of crunches by C.
+
+P = w
+
+C = x
+
+Now we can write that Zachary did P push-ups and C crunches.
+
+David did y more push-ups than Zachary, so we can write that:
+
+P' = P + y
+
+David did z less crunches than Zachary, so we can write that:
+
+C' = C - z
+
+Now we can write that David did P' push-ups and C' crunches.
+
+We need to find out how many more crunches than push-ups Zachary did. In other words, we need to find out how many more crunches than push-ups C is greater than P by. We can write this as:
+
+C - P
+
+Plugging in for P and C we get:
+
+x - w","First, we need to find the total number of push-ups that Zachary and David did. Zachary did 46 push-ups and David did 38 more push-ups than Zachary, so we can say that the total number of push-ups is 46 + 38, which is 84. 
+
+Next, we need to find the total number of crunches that Zachary and David did. Zachary did 58 crunches and David did 62 less crunches than Zachary, so we can say that the total number of crunches is 58 - 62, which is -4. 
+
+Now, we need to find the difference between the total number of push-ups and the total number of crunches. The total number of push-ups is 84 and the total number of crunches is -4, so the difference is 84 - (-4), which is the same as 84 + 4, which is 88. 
+
+Therefore, the answer (numeric) is: 
+
+88","First, we need to find the total number of push-ups that Zachary and David did. 46 + 38 is the same as 84, so we can say that Zachary and David did 84 push-ups in total. 
+
+Next, we need to find the total number of crunches that Zachary and David did. 58 + 62 is the same as 120, so we can say that Zachary and David did 120 crunches in total. 
+
+Now, we need to find the difference between the total number of crunches and the total number of push-ups. 120 - 84 is the same as 36, so we can say that there were 36 more crunches than push-ups. 
+
+Therefore, the answer (numeric) is: 
+
+36","Let's denote Zachary's number of push-ups by p and his number of crunches by c. Then we have: 
+
+p+c=46 
+p-c=58
+
+David's number of push-ups is p+38 and his number of crunches is c-62. 
+
+Therefore we have: 
+
+(p+38)+(c-62)=46 
+(p+38)-(c-62)=58
+
+We can solve this system of linear equations and get: 
+
+p=27 
+c=35
+
+Zachary did 35 crunches and 27 push-ups. Therefore he did 8 more crunches than push-ups.",( x - w ),12,( 58.0 - 46.0 )
+41,876,"First, we need to find out how many marbles Rebecca has in total. We know that she has x eggs and y marbles, which means she has x + y marbles in total. 
+
+Now, we need to find out how many groups will be created. To do this, we need to divide the total number of marbles by the number of marbles in each group. We know that each group has w marbles, so the total number of groups will be (x + y)/w. 
+
+Therefore, the answer (symbolic expression) is: 
+
+(x + y)/w",There will be x groups created.,"Let's denote the number of groups by g.
+
+g = x / w
+
+Plugging in for w we get that the number of groups is x / w.
+
+Therefore, the answer (symbolic expression) is: 
+
+x / w","First, we need to find the total number of marbles Rebecca has. She has 10 eggs and 20 marbles, so she has a total of 30 marbles. 
+
+Next, we need to find the number of groups of 4 marbles that can be created. We can divide 30 by 4 to find this out. 30 divided by 4 is the same as 30/4, which is equal to 7.5. This means that Rebecca can create 7 groups of 4 marbles. 
+
+However, since she cannot have a fraction of a group, she will only be able to create 7 groups. 
+
+Therefore the answer (numeric) is: 
+
+7",Rebecca will be able to create 2 groups of 4 marbles.,"Let's denote the number of groups by g. Then we have 
+
+4g=20 
+
+or 
+
+g=5. 
+
+Therefore the answer (numeric) is: 
+
+g=5",( y / w ),5,( 20.0 / 4.0 )
+42,387,"First, we need to find out how many points Melissa scored in each game. We know that she scored a total of w points, and we know that she scored x points in each game. This means that she must have played w/x games. 
+
+Now, we need to find out how many games she played. To do this, we need to divide the total number of points she scored by the number of points she scored in each game. We know that she scored a total of w points, and we know that she scored x points in each game. This means that she must have played w/x games. 
+
+Therefore, the answer (symbolic expression) is: 
+
+w/x","First, we need to find out how many games Melissa played. We know that she scored w points in total, and we know that she scored x points in each game. This means that she must have played w/x games. 
+
+Therefore, the answer is: 
+
+w/x","Let's denote the number of games played by n.
+
+n * x = w
+
+n = w / x
+
+Therefore, the answer (symbolic expression) is: 
+
+w / x","First, we need to find out how many points Melissa scored in one game. We know that she scored a total of 21 points, and she scored 7 points in each game, so we can say that she scored 21/7 points in one game. 
+
+Next, we need to find out how many games Melissa played. We know that she scored a total of 21 points, and she scored 21/7 points in one game, so we can say that she played 21/21 games. 
+
+Now, we need to simplify 21/21. 21/21 is the same as 1/1, so we can say that Melissa played 1 game. 
+
+Therefore, the answer (numeric) is: 
+
+1","No, she did not score 7 points in each game.","Let's denote the number of games Melissa played by g. Then we know that 
+
+g*7=21. 
+
+Therefore the answer (numeric) is: 
+
+g = 21/7 = 3",( w / x ),3,( 21.0 / 7.0 )
+43,105,"First, we need to find out how many baskets there are. We know that there are w baskets of peaches, and each basket has x red peaches and y green peaches. This means that there must be wx + y baskets of peaches in total. 
+
+Now, we need to find out how many red peaches are in the baskets altogether. To do this, we need to multiply the number of baskets by the number of red peaches in each basket. We know that there are w baskets, and each basket has x red peaches. This means that there must be wx red peaches in total. 
+
+Therefore, the answer (symbolic expression) is: 
+
+wx",There are w baskets of peaches. Each basket has x red peaches and y green peaches. This means that the total number of red peaches in the baskets is wx.,"There are w baskets of peaches.
+
+Each basket has x red peaches and y green peaches.
+
+Therefore, the total number of red peaches is wx.
+
+Therefore, the answer (symbolic expression) is: 
+
+wx","First, we need to find the total number of peaches in all of the baskets. There are 6 baskets, and each basket has 16 red peaches and 18 green peaches, so the total number of peaches is 16 + 18 = 34. 
+
+Now, we need to find the total number of red peaches in all of the baskets. There are 6 baskets, and each basket has 16 red peaches, so the total number of red peaches is 16 + 16 + 16 + 16 + 16 + 16 = 96. 
+
+Therefore the answer (numeric) is: 
+
+96",There are a total of 96 red peaches in the baskets.,"Let's denote the number of baskets by b. Then the number of red peaches in all baskets is 
+
+b*16. 
+
+Therefore the answer (numeric) is: 
+
+b*16 = 6*16 = 96",( x * w ),96,( 16.0 * 6.0 )
+44,821,"First, we need to find out how much money Fred had last week. We know that he had w dollars, and we know that Jason had x dollars. This means that the total amount of money between the two of them was w + x dollars. 
+
+Now, we need to find out how much money Fred earned over the weekend. We know that he delivered newspapers earning y dollars and washed cars earning z dollars. This means that the total amount of money he earned was y + z dollars. 
+
+Now, we need to find out how much money Fred had in total after the weekend. To do this, we need to add the money he had last week to the money he earned over the weekend. We know that he had w + x dollars last week, and we know that he earned y + z dollars over the weekend. This means that the total amount of money he had after the weekend was (w + x) + (y + z) dollars. 
+
+Therefore, the answer (symbolic expression) is: 
+
+(w + x) + (y + z)",Fred earned w + y + z dollars over the weekend.,"Let's denote the money Fred earned over the weekend by m.
+
+m = y + z
+
+Fred's total money after the weekend is w + m.
+
+Plugging in for m we get that w + m = w + y + z.
+
+Therefore, the answer (symbolic expression) is: 
+
+w + y + z","First, we need to find out how much money Fred had at the beginning of the weekend. We know that he had 33 dollars last week, so we can say that he had 33 dollars at the beginning of the weekend. 
+
+Next, we need to find out how much money Fred earned by delivering newspapers. We know that he earned 16 dollars, so we can say that he earned 16 dollars by delivering newspapers. 
+
+Now, we need to find out how much money Fred earned by washing cars. We know that he earned 74 dollars, so we can say that he earned 74 dollars by washing cars. 
+
+Finally, we need to find out how much money Fred earned over the weekend. We know that he earned 16 dollars by delivering newspapers and 74 dollars by washing cars, so we can say that he earned 90 dollars over the weekend. 
+
+Therefore the answer (numeric) is: 
+
+90",Fred earned 90 dollars over the weekend.,"Let's denote Fred's money before the weekend by Fb, Jason's money before the weekend by Jb, Fred's money after the weekend by Fa, and Jason's money after the weekend by Ja. 
+
+Then we have the following information: 
+
+Fb=33, Jb=95, Fa=? , Ja=? 
+
+Fa=Fb+16+74=33+16+74=123
+
+Ja=Jb+95-123=95+95-123=168",( y + z ),90,( 16.0 + 74.0 )
+45,381,"First, we need to find the width of the room. We know that the room is w feet wide and x feet long. This means that the width of the room must be w feet. 
+
+Now, we need to find out how much longer the room is than it is wide. To do this, we need to subtract the width of the room from the length of the room. We know that the width of the room is w feet, so the length of the room must be x - w feet. 
+
+This means that the room is (x - w) feet longer than it is wide.
+
+Therefore, the answer (symbolic expression) is: 
+
+x - w","First, we need to find the perimeter of Jesse's room. We know that the perimeter is the sum of all the sides of a rectangle. In this case, we need to find the sum of the length and width of the room. The length is x feet and the width is w feet, so the perimeter is x + w feet. 
+
+Now, we need to find out how much longer the room is than it is wide. To do this, we need to subtract the width from the length. The length is x feet and the width is w feet, so the room is x - w feet longer than it is wide. 
+
+Therefore, the answer (symbolic expression) is: 
+
+x - w","The length of the room is denoted by l.
+
+l = x
+
+The width of the room is denoted by w.
+
+w = w
+
+The difference in length and width is l - w.
+
+Plugging in for l and w we get that the difference is x - w.
+
+Therefore, the answer (symbolic expression) is: 
+
+x - w","First, we need to find the width of Jesse's room in feet. 19 feet is the same as 19/1 feet, so we can say that the width of Jesse's room is 19/1 feet. 
+
+Next, we need to find the length of Jesse's room in feet. 20 feet is the same as 20/1 feet, so we can say that the length of Jesse's room is 20/1 feet. 
+
+Now, we need to find the difference between the length of the room and the width of the room. The length of the room is 20/1 feet and the width of the room is 19/1 feet, so the difference is 1/1 feet. 
+
+We can simplify 1/1 feet to just 1 foot, so we can say that the room is 1 foot longer than it is wide.
+
+Therefore the answer (numeric) is: 
+
+1","First, we need to find the difference between the length of the room and the width of the room. The length of the room is 20 feet and the width of the room is 19 feet, so the difference is 1 foot. 
+
+Therefore, the room is 1 foot longer than it is wide.","Let's denote the width of Jesse's room by w and the length of her room by l. 
+
+The difference between the length of her room and the width of her room is 
+
+l-w=1. 
+
+Therefore the answer (numeric) is: 
+
+1 = 1*1 = 1",( x - w ),1,( 20.0 - 19.0 )
+46,261,"First, we need to find out how much money the Razorback t-shirt shop made off of each t-shirt sold. We know that they made $w dollars off each t-shirt sold, and we know that they made $w0 by selling t-shirts. This means that they must have sold w0 t-shirts. 
+
+Now, we need to find out how many t-shirts they sold. To do this, we need to divide the amount of money they made by the amount of money they made off of each t-shirt. We know that they made $w0 by selling t-shirts, and we know that they made $w dollars off each t-shirt sold. This means that they must have sold w0/w t-shirts. 
+
+This means that the answer (symbolic expression) is: 
+
+w0/w",The Razorback t-shirt shop makes $w dollars off each t-shirt sold. During the Arkansas and Texas tech game they made $w0 by selling t-shirts. This means that they sold w0 t-shirts.,"Let's denote the number of t-shirts sold by n.
+
+n * w = w0
+
+Therefore, the answer (symbolic expression) is: 
+
+n = w0 / w","First, we need to find how much money the Razorback t-shirt shop makes off of one t-shirt. They make $ 23 dollars off each t-shirt sold, so we can say that the Razorback t-shirt shop makes $ 23 dollars off of one t-shirt. 
+
+Next, we need to find how many t-shirts were sold. $ 230 was made by selling t-shirts, and $ 23 is made off of one t-shirt, so $ 230 divided by $ 23 is 10 t-shirts. 
+
+Therefore the answer (numeric) is: 
+
+10","The Razorback t-shirt shop makes $23 off each t-shirt sold. During the Arkansas and Texas tech game they made $230 by selling t-shirts. To find out how many t-shirts they sold, we need to divide $230 by $23. 
+
+$230 divided by $23 is the same as 10 t-shirts. 
+
+Therefore, the answer (numeric) is: 
+
+10","Let's denote the number of t-shirts sold by n. Then the shop made $ 23n dollars. 
+
+$ 23n = $ 230 
+
+n = $ 230/$ 23 = 10",( x / w ),10,( 230.0 / 23.0 )
+47,103,"First, we need to find out how many pencils Faye has in total. We know that she is placing her pencils into w rows, and that there are x pencils in each row. This means that she must have wx pencils in total. 
+
+Therefore, the answer (symbolic expression) is: 
+
+wx",Faye has wx pencils.,"Let's denote the number of pencils by n.
+
+n = w * x
+
+Therefore, the answer (symbolic expression) is: 
+
+n = wx","First, we need to find how many pencils are in 14 rows. 14 rows is the same as 14/1 rows, so we can say that there are 14/1 rows of pencils. 
+
+Next, we need to find 11 pencils in each row. 11 pencils is the same as 11/1 pencils, so we can say that there are 11/1 pencils in each row. 
+
+Now, we need to find the product of 14/1 rows and 11/1 pencils in each row. The product of 14/1 rows and 11/1 pencils in each row is the same as 154/1, so we can say that the product is 154/1. 
+
+We can simplify 154/1 to just 154, so we can say that Faye has 154 pencils. 
+
+Therefore the answer (numeric) is: 
+
+154",Faye has 154 pencils.,"Let's denote the number of pencils Faye has by n. Then we have 
+
+n=14*11=154. 
+
+Therefore the answer (numeric) is: 
+
+154",( w * x ),154,( 14.0 * 11.0 )
+48,902,"First, we need to find out how many goldfish were in the pond initially. We know that Paige had raised x goldfish in the pond, and we know that w goldfish are left. This means that the total number of goldfish must have been x + w. 
+
+Now, we need to find out how many goldfish disappeared. To do this, we need to subtract the number of goldfish that are left from the total number of goldfish. We know that w goldfish are left, so the total number of goldfish must have been x + w - w. 
+
+This means that the number of goldfish that disappeared is x.
+
+Therefore, the answer (symbolic expression) is: 
+
+x",The answer is w - x.,"Let's denote the number of goldfish that disappeared by y.
+
+y = x - w
+
+Therefore, the answer (symbolic expression) is: 
+
+x - w","First, we need to find how many goldfish were in the pond initially. 8 goldfish were in the pond initially, so we can say that 8 goldfish disappeared. 
+
+Now, we need to find how many goldfish are in the pond now. 6 goldfish are in the pond now, so we can say that 2 goldfish are in the pond now. 
+
+Therefore the answer (numeric) is: 
+
+8",8 - 6 = 2,"Let's denote the number of goldfish that disappeared by x. 
+
+Then we have the equation: 
+
+8-x=6 
+
+Therefore the answer (numeric) is: 
+
+x=8-6=2",( x - w ),2,( 8.0 - 6.0 )
+49,667,"First, we need to find out how many cups of flour the recipe requires. We know that Mary has already put in x cups of flour, and she still needs to add y more cups of flour. This means that the recipe must require x + y cups of flour. 
+
+Now, we need to find out how many cups of sugar the recipe requires. We know that the recipe calls for w cups of sugar, and we also know that the recipe requires x + y cups of flour. This means that the recipe must require w + (x + y) cups of sugar. 
+
+Therefore, the answer (symbolic expression) is: 
+
+w + (x + y)",The recipe requires w + x + y cups of flour.,"The recipe calls for w cups of sugar and some more cups of flour.
+
+We know that she already put in x cups of flour and she still needs to add y more cups of flour.
+
+Therefore, the recipe calls for w cups of sugar and x + y cups of flour.","First, we need to find how many cups of flour the recipe requires in total. The recipe already has 3 cups of flour, and it needs 6 more cups of flour, so it needs a total of 9 cups of flour. 
+
+Therefore the answer (numeric) is: 
+
+9",The recipe requires 11 cups of sugar and 9 cups of flour.,"Let's denote the number of cups of flour required by the recipe by x. Then we have the equation 
+
+3+x=11. 
+
+Therefore x=11-3=8 and the answer (numeric) is: 
+
+8",( x + y ),9,( 3.0 + 6.0 )
