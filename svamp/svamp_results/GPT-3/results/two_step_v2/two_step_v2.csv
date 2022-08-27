@@ -1,0 +1,166 @@
+,Index,With Steps,Without Steps,With Intermediate Variables,Numerical Answer
+0,218,There are 2 slices in each pizza.,There are 2 slices in each pizza.,There are 2 slices in each pizza.,2
+1,41,Danny found 4 more bottle caps than wrappers at the park.,Danny found 4 more bottle caps than wrappers at the park.,Danny found 4 more bottle caps than wrappers at the park.,4
+2,910,"There are 28 packages of gum and 13 packages of candy. 
+
+There are 4 pieces in each package. 
+
+So, Robin has 28 * 4 = 112 pieces of gum.",Robin has 112 pieces of gum.,w * y = 28 * 4 = 112,112
+3,988,"In each game, Melissa scored 109 + 82 = 191 points. 
+
+In 79 games, she scored 191 * 79 = 15,029 points.","Melissa scored 8,651 points in 79 games.",w * y + x * y = 109 * 79 + 82 * 79 = 8651,15089
+4,867,"There are a total of 196 groups, each containing 2 bananas.",Each group contains 2 bananas.,"There are w groups and x bananas in Philip's banana collection. 
+
+Each group has x/w bananas. 
+
+Therefore, each group has 392/196 bananas. 
+
+Each group has 2 bananas.",2
+5,171,Faye could make 6 rows.,There would be 6 rows in total.,Faye could make 6 rows.,6
+6,117,17,17,17 campers went rowing in the afternoon.,17
+7,338,It will take 3 days to harvest 24 sacks of oranges.,It will take 3 days to harvest 24 sacks of oranges.,3 days.,3
+8,50,"There are 97 alligators in the cage. 
+
+40 of them are hiding. 
+
+This means that 97 - 40 = 57 alligators are not hiding.",There are 57 alligators not hiding.,"There are 97 alligators in the cage. 
+
+40 of them are hiding. 
+
+97 - 40 = 57 alligators are not hiding.",57
+9,69,Olivia had 78 + 33 = 111 dollars initially.,Olivia had 111 dollars initially.,Olivia had w + x = 78 + 33 = 111 dollars initially.,111
+10,69,Olivia had 78 + 33 = 111 dollars initially.,Olivia had 111 dollars initially.,Olivia had w + x = 78 + 33 = 111 dollars initially.,111
+11,502,"There are 19 seats in each Ferris wheel in paradise park. 
+
+Each seat in a Ferris wheel can hold 15 people. 
+
+So, y Ferris wheels can hold (19*15*20) people at the same time.",19 * 15 * 20 = 5700,"The number of seats in each Ferris wheel is w. 
+The number of people that can ride in each seat is x. 
+The number of Ferris wheels is y. 
+
+The number of people that can ride the Ferris wheels at the same time is w*x*y. 
+
+Therefore, w*x*y = 19*15*20 = 5700 people can ride the Ferris wheels at the same time.",5700
+12,870,Jill has 8 peaches.,Jill has 8 peaches.,Jill has 8 peaches.,10
+13,913,"Zachary did 49 push-ups. 
+
+David and Zachary did a total of 100 push-ups.",Zachary and David did 100 push-ups altogether.,"Zachary did w - x = 2 push-ups. 
+
+David and Zachary did w + (w - x) = 51 + 2 = 53 push-ups altogether.",53
+14,651,Mary needs to add 7 more cups of sugar than flour.,7,3 more cups of sugar than cups of flour.,6
+15,612,"Some campers went rowing in the morning while 7 campers went rowing in the afternoon. 
+
+If a total of 60 campers went rowing that day, then 53 campers went rowing in the morning.","Some campers went rowing in the morning while 7 campers went rowing in the afternoon. If a total of 60 campers went rowing that day, then 53 campers went rowing in the morning.",There were 43 campers rowing in the morning.,53
+16,646,There were 419 visitors the previous day and 103 visitors the day before that.,There were 92 + 419 + 103 = 614 visitors to the Buckingham Palace before that day.,There were w + x + y = 614 visitors in total before that day.,522
+17,965,The chef used 1 apple and 9 peaches to make pies.,The chef used 1 apple.,The chef used w - y apples.,1
+18,699,6,6,6,6
+19,205,"9 books * 46 magazines in each book = 414 magazines 
+
+10 bookshelves * 414 magazines = 4,140 magazines",9 * 46 * 10 = 4140,9*46*10 = 4140,460
+20,706,Josh had 19 marbles in his collection. He lost 11 marbles and found 5 new ones. He has 19 - 11 + 5 = 13 marbles now.,Josh has 13 marbles in his collection.,"Josh had w marbles in his collection. He lost x marbles and found y new ones. How many marbles does he have now?
+
+Josh had 19 marbles in his collection. He lost 11 marbles and found 5 new ones. How many marbles does he have now?
+
+Josh had 19 marbles in his collection. He lost 11 marbles and found 5 new ones. How many marbles does he have now?
+
+Josh had 8 marbles in his collection.",13
+21,134,Emily had 308 beads.,11 * 28 = 308,Emily had 308 beads.,308
+22,386,Emily had 52 beads.,Emily had 52 beads.,Emily had 52 beads.,52
+23,512,"Zachary did 38 - 56 = -18 push-ups. 
+
+David and Zachary did 38 + (-18) = 20 push-ups altogether.","Zachary did 38 push-ups and David did 56 push-ups, so they did 94 push-ups altogether.","Zachary did w - x = 56 - 38 = 18 push-ups. 
+
+David and Zachary did x + (w - x) = 38 + 18 = 56 push-ups altogether.",20
+24,753,There are 403 more girls than boys in the school.,There are 146 more girls than boys in the school.,"There are w boys and x girls in the school. 
+
+There are y more girls in the school. 
+
+There are w + y boys and x + y girls in the school. 
+
+There are x + y - w = 403 - 362 = 41 more girls than boys in the school.",298
+25,245,"There are w sets of tables and each set has x chairs. In other words, there are w*x chairs in total for the sets of tables. 
+
+There are also y chairs extra. 
+
+Therefore, the total number of chairs they have for the guests is w*x + y. 
+
+In this case, w*x + y = 12*14 + 6 = 168 + 6 = 174.",There are a total of 168 chairs for the guests.,"There are w sets of tables and each set has x chairs. There are also y chairs extra. 
+
+This can be rewritten as: 
+
+There are w*x chairs in total for the sets of tables. There are also y chairs extra. 
+
+Therefore, the total number of chairs for the guests is: 
+
+w*x + y = 12*14 + 6 = 168 + 6 = 174 chairs.",174
+26,613,"The number of sacks of oranges they will have after y days of harvest is 2,451.","After 51 days of harvest, they will have 2,574 sacks of oranges.",The number of sacks of oranges they will have after y days of harvest is: w*y - x*y,153
+27,155,Carol needs 5 packages of invitations so that no friend gets left out.,Carol will need 5 packages of invitations so that no friend gets left out.,Carol needs 5 packs of invitations.,5
+28,681,Danny has 52 more wrappers than bottle caps in his collection.,Danny has 32 more wrappers than bottle caps in his collection.,Danny has 52 more wrappers than bottle caps in his collection.,32
+29,206,"Rachel had to complete 8 pages of math homework, 3 pages of biology homework, and 7 pages of reading homework.","Rachel had to complete 8 pages of math homework, 3 pages of biology homework, and 7 pages of reading homework.",8 + 7 + 3 = 18,11
+30,712,"The second chapter has y pages. The third chapter has w pages. 
+
+y - w = 18 - 3 = 15.",The second chapter has 17 more pages than the third chapter.,17.,15
+31,798,Doug has 7 - x = 0 marbles now.,Doug has 9 marbles now.,Doug has y - x = 22 - 7 = 15 marbles now.,9
+32,645,"The baker sold 8 cakes. 
+
+The baker made 40 cakes. 
+
+The baker made 32 more cakes than those he sold.",Baker made 32 more cakes than those he sold.,"Baker sold 8 cakes. 
+
+Baker made 40 cakes initially. 
+
+Baker made 32 more cakes than those he sold.",32
+33,355,Adam's room has 8 shelves.,Adam's room had 8 shelves.,There are 8 shelves in total.,80
+34,927,"The grasshopper jumped 21 inches. 
+The frog jumped 21 + 16 = 37 inches. 
+The mouse jumped 21 - 25 = -4 inches. 
+
+The grasshopper jumped 21 + 25 = 46 inches farther than the mouse.",The grasshopper jumped 9 inches farther than the mouse.,"The grasshopper jumped w inches. The grasshopper jumped x inches farther than the frog and the mouse jumped y inches lesser than the frog. How much farther did the grasshopper jump than the mouse?
+
+The grasshopper jumped 21 inches. The grasshopper jumped 25 inches farther than the frog and the mouse jumped 16 inches lesser than the frog. How much farther did the grasshopper jump than the mouse?
+
+The grasshopper jumped 21 inches. The grasshopper jumped 25 inches farther than the frog and the mouse jumped 16 inches lesser than the frog. The grasshopper jumped 9 inches farther than the mouse.",41
+35,883,"53 + 91 = 144 
+
+144 - 14 = 130 
+
+130 - 91 = 39 
+
+39 is the answer.",Olivia spent 77 dollars at the supermarket.,"y = w + x - z 
+
+z = w + x - y 
+
+z - w = x - y 
+
+z - w = 77 
+
+z = 77 + w 
+
+z = 130 
+
+The supermarket visit cost 130 - 53 = 77 dollars.",39
+36,257,Mary needs to add 1 more cup of sugar.,1 more cup of sugar.,1 cup,1
+37,593,The cost of each t-shirt is $43.,The cost of each t-shirt is $43.,"w = 215 
+x = 5 
+
+The cost of each t-shirt is 43 dollars.",43
+38,958,The mouse jumped 12 inches.,The mouse jumped 27 inches.,The mouse jumped 18 inches.,8
+39,786,There were 39 children riding on the bus before the bus stop.,There were 39 children riding on the bus before the bus stop.,There were 39 children riding on the bus before the bus stop.,39
+40,790,"Zachary did 46 push-ups and 58 crunches in gym class today. David did 38 more push-ups but 62 less crunches than Zachary. How many more crunches than push-ups did Zachary do?
+
+The answer is 12.",Zachary did 16 more crunches than push-ups.,"Zachary did w push-ups and x crunches in gym class today. David did y more push-ups but z less crunches than zachary. How many more crunches than push-ups did Zachary do?
+
+Zachary did 46 push-ups and 58 crunches in gym class today. David did 38 more push-ups but 62 less crunches than zachary. How many more crunches than push-ups did Zachary do?
+
+Zachary did 46 push-ups and 58 crunches in gym class today. David did 38 more push-ups but 62 less crunches than zachary. How many more crunches than push-ups did Zachary do?
+
+Zachary did 46 push-ups and 58 crunches in gym class today. David did 38 more push-ups but 62 less crunches than zachary. Zachary did 20 more crunches than push-ups.",12
+41,876,There will be 5 groups created.,There will be 5 groups created.,There will be 5 groups created.,5
+42,387,3 games,3 games,3 games.,3
+43,105,There are 96 red peaches in the baskets altogether.,There are 96 red peaches in the baskets altogether.,There are 96 red peaches in the baskets altogether.,96
+44,821,Fred earned 90 dollars over the weekend.,Fred earned 90 dollars over the weekend.,Fred earned 90 dollars over the weekend.,90
+45,381,1 foot,1 foot,1 foot,1
+46,261,The Razorback t-shirt shop makes $23 dollars off each t-shirt sold. During the Arkansas and Texas tech game they made $230 by selling t-shirts. They sold 10 t-shirts.,"The Razorback t-shirt shop sold 10,000 t-shirts.",The Razorback t-shirt shop makes $23 dollars off each t-shirt sold. During the Arkansas and Texas tech game they made $230 by selling t-shirts. They sold 10 t-shirts.,10
+47,103,Faye has 154 pencils.,Faye has 154 pencils.,Fay has 154 pencils in total.,154
+48,902,2 goldfish disappeared.,2 goldfish disappeared.,2 goldfish disappeared.,2
+49,667,"The recipe requires 11 cups of sugar and 11 more cups of flour. She already put in 3 cups of flour. If she still needs to add 6 more cups of flour, the recipe requires 11 cups of flour.",The recipe requires 11 cups of sugar and 9 cups of flour.,The recipe requires 11 cups of sugar and 11 cups of flour.,9

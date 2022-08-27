@@ -14,7 +14,7 @@ df = pd.read_csv(f"{root_dir}/svamp/svamp_results/GPT-3/results/results_0temp.cs
 data = pd.DataFrame(columns=["Numeric Answer With Steps", "Numeric Answer Without Steps", "Numeric Answer With Intermediate"], index=np.arange(len(df)))
 
 for i in range(len(df)):
-    prompt = "{}{}\n\nTherefore, the answer (numerical) is: ".format(numeric_prompt_steps(i), df["Numerical With Steps"][i])
+    prompt = "{}{}\n\Thus the final answer (only the number) is: ".format(numeric_prompt_steps(i), df["Numerical With Steps"][i])
     response = openai.Completion.create(
         model="text-davinci-002",
         prompt=prompt,
@@ -25,7 +25,7 @@ for i in range(len(df)):
     response = response.strip('\n')
     data["Numeric Answer With Steps"][i] = response
 
-    prompt = "{}{}\n\nTherefore, the answer (numerical) is: ".format(numeric_prompt(i), df["Numerical Without Steps"][i])
+    prompt = "{}{}\n\nThus the final answer (only the number) is: ".format(numeric_prompt(i), df["Numerical Without Steps"][i])
     response = openai.Completion.create(
         model="text-davinci-002",
         prompt=prompt,
@@ -36,7 +36,7 @@ for i in range(len(df)):
     response = response.strip('\n')
     data["Numeric Answer Without Steps"][i] = response
 
-    prompt = "{}{}\n\nTherefore, the answer (numerical) is: ".format(numeric_prompt_intermediate(i), df["Numerical With Intermediate Variables"][i])
+    prompt = "{}{}\n\nThus the final answer (only the number) is: ".format(numeric_prompt_intermediate(i), df["Numerical With Intermediate Variables"][i])
     response = openai.Completion.create(
         model="text-davinci-002",
         prompt=prompt,

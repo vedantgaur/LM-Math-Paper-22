@@ -4,7 +4,7 @@ import openai
 import pandas as pd
 import numpy as np
 
-from benchmarks import symbolic_prompt, symbolic_prompt_steps, symbolic_prompt_intermediate
+from benchmarks_zero_shot import symbolic_prompt, symbolic_prompt_steps, symbolic_prompt_intermediate
 
 openai.api_key = os.getenv("OPENAI_API_KEY")
 

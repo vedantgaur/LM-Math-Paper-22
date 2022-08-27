@@ -1,0 +1,603 @@
+,Index,With Steps,Without Steps,With Intermediate Variables,Numerical Answer
+0,288,8 - 6 = 2,2,2,2
+1,821,Fred earned 90 dollars over the weekend.,Fred earned 90 dollars over the weekend.,Fred earned 90 dollars over the weekend.,90
+2,69,Olivia had 78 + 33 = 111 dollars initially.,Olivia had 111 dollars initially.,Olivia had w + x = 78 + 33 = 111 dollars initially.,111
+3,74,There are a total of 569 students.,There were 569 students who suggested adding bacon to the menu.,"There are w + x = 569 students in total. 
+
+There are w students who suggested adding mashed potatoes as well as bacon. 
+
+There are x students who suggested adding only bacon to the menu. 
+
+Therefore, the number of students who suggested adding bacon is w + x = 569.",569
+4,750,Jessie weighed 192 kg before starting to jog.,"Before starting to jog, Jessie weighed 192 kilograms.","Before starting to jog, Jessie weighed (x + w) kilograms.",192
+5,34,Jack received 3 emails in the afternoon.,Jack received 3 emails in the afternoon.,3,1
+6,152,10 * 45 = 450,450 seeds,10 * 45 = 450,450
+7,571,"Paul had 134 books. 
+
+After giving 39 books to his friend, he had 95 books left. 
+
+After selling some books in a garage sale, he had 68 books left. 
+
+So, he sold 95 - 68 = 27 books in the garage sale.",27,The number of books sold in the garage sale is 27.,27
+8,866,w - x = 166 - 20 = 146,146 grams,w - x = 166 - 20 = 146,146
+9,82,Tiffany found 2 more bags of cans on the next day.,Tiffany found 2 more bags of cans on the next day.,Tiffany found 2 more bags of cans on the next day.,2
+10,921,There were 5 more campers rowing in the morning than in the afternoon.,There were 5 more campers rowing in the morning than in the afternoon.,There were 5 more campers rowing in the morning than in the afternoon.,5
+11,887,"Paco had 36 cookies. 
+He gave 14 cookies to his friend. 
+He ate 10 cookies. 
+He had 12 cookies left.",Paco had 12 cookies left.,"Paco had w cookies. He gave x cookies to his friend and ate y cookies. 
+
+Paco had 36 cookies. He gave 14 cookies to his friend and ate 10 cookies. 
+
+Paco had 36 - 14 - 10 = 12 cookies left.",12
+12,73,"Paco had 40 cookies. He ate 2 of them. Then he bought 37 more cookies. 
+
+Paco had 40 - 2 + 37 = 75 cookies left.",Paco had 39 cookies left.,"Paco had w cookies. He ate x of them. Then he bought y more cookies. 
+
+Paco had 40 cookies. He ate 2 of them. Then he bought 37 more cookies. 
+
+Paco had 2 cookies left.",75
+13,185,Kelly will have 42 games left.,Kelly will have 42 games left.,She will have 42 games left.,42
+14,899,"Randy has 36 blocks. 
+
+If he had 59 blocks, he would have 23 more blocks.",There are 23 blocks left.,There are 23 blocks left.,23
+15,783,Frank would take 392/14 = 28 days to finish the book.,28 days,w / x = 392 / 14 = 28 days,28
+16,646,There were 419 visitors the previous day and 103 visitors the day before that.,There were 92 + 419 + 103 = 614 visitors to the Buckingham Palace before that day.,There were w + x + y = 614 visitors in total before that day.,522
+17,555,Paco had 1 cookie left.,Paco had 1 cookie left.,Paco had 1 cookie left.,1
+18,350,"There were a total of 16 trees in Haley's backyard. 
+
+13 of those trees died in the typhoon. 
+
+3 of those trees survived the typhoon. 
+
+10 more trees died in the typhoon than those that survived.",10 trees died in the typhoon.,"There were 3 trees in Haley's backyard initially. 
+
+After the typhoon, w = 13 trees died and x - w = -10 trees survived. 
+
+Therefore, the number of trees that died in the typhoon is w - x = 13 - 3 = 10.",23
+19,25,Danny found 60 more wrappers than bottle caps at the park.,Danny found 60 more wrappers than bottle caps at the park.,Danny found 60 more wrappers than bottle caps at the park.,60
+20,49,Nell has more baseball cards than Ace cards by 94.,Nell has 106 more baseball cards than Ace cards.,Nell has more baseball cards than Ace cards by y - x = 415 - 356 = 59.,266
+21,108,"2 + 3 = 5 
+
+4 + 0 = 4 
+
+5 - 4 = 1","Allan had 5 balloons and Jake had 4 balloons, so Allan had 1 more balloon than Jake.","2 + 3 = 5 
+
+4 + 0 = 4 
+
+5 - 4 = 1",1
+22,50,"There are 97 alligators in the cage. 
+
+40 of them are hiding. 
+
+This means that 97 - 40 = 57 alligators are not hiding.",There are 57 alligators not hiding.,"There are 97 alligators in the cage. 
+
+40 of them are hiding. 
+
+97 - 40 = 57 alligators are not hiding.",57
+23,661,"The Razorback t-shirt shop sold 14 t-shirts for $ w dollars. 
+
+$ w = $201 
+
+$ x = $217 
+
+$ y = $14 
+
+$201 * $14 = $2814","The Razorback t-shirt shop sold 14 t-shirts for a total of $3,017.",The Razorback t-shirt shop sells each t-shirt for $201 dollars. During the Arkansas and Texas tech game they increased the prices by $217 per t-shirt and sold 14 t-shirts. They made $6068 from selling the t-shirts.,5852
+24,986,Jackie has 6 apples.,Jackie has 6 apples.,Jackie has 6 apples.,6
+25,574,Faye has 24 pencils.,Faye has a total of 24 pencils.,Faye has 24 pencils.,720
+26,699,6,6,6,6
+27,110,"There are 26 bags, each with 2 cookies.",Each bag has 2 cookies.,2 cookies per bag.,2
+28,483,y - x = 412 - 90 = 322,y - x = 412 - 90 = 322,y - x = 412 - 90 = 322,322
+29,116,"There are 400 flowers in total. 
+
+Each pot has 40 flowers in it. 
+
+There are 10 pots in all.",There are 10 pots in all.,"There are 400 flowers in total. 
+
+Each pot has w flowers in it. 
+
+There are w pots in total. 
+
+Therefore, w = 400 and there are 400 pots in total.",10
+30,383,There are more erasers than crayons.,There were 70 more erasers than crayons left.,There are more erasers than crayons by 70.,70
+31,988,"In each game, Melissa scored 109 + 82 = 191 points. 
+
+In 79 games, she scored 191 * 79 = 15,029 points.","Melissa scored 8,651 points in 79 games.",w * y + x * y = 109 * 79 + 82 * 79 = 8651,15089
+32,340,2,2 more emails in the morning,2 more emails,2
+33,368,Edward spent $4 on books and $3 on pens.,Edward spent $4 on books and $3 on pens.,Edward spent $4 on books and $3 on pens.,7
+34,967,3,3 more cups of flour than cups of sugar.,3 more cups of flour than cups of sugar.,1
+35,315,There would be 18 drums of grapes filled in each day.,18 drums of grapes would be filled in each day.,There would be 18 drums of grapes filled in each day.,18
+36,595,"The oranges being harvested per day is w sacks per day. 
+
+The number of oranges being harvested per day is w*y. 
+
+The number of oranges being discarded per day is x. 
+
+Therefore, the total number of oranges being harvested per day is w*y+x.",They harvest 3120 oranges per day.,The number of oranges they harvest per day is y*(w-x) = 50*(76-64) = 2600.,600
+37,224,There will be 3 groups created.,There will be 3 groups created.,There will be 3 groups created.,3
+38,925,Nell has more baseball cards than Ace cards by 123.,Nell has 123 more baseball cards than Ace cards.,Nell has more baseball cards than Ace cards by 123.,123
+39,358,There are more bird families that flew away to Asia than those that flew away to Africa by 94 - 47 = 47 bird families.,There are 94 - 47 = 47 more bird families that flew away to Asia than those that flew away to Africa.,y - x = 47,47
+40,921,There were 5 more campers rowing in the morning than in the afternoon.,There were 5 more campers rowing in the morning than in the afternoon.,There were 5 more campers rowing in the morning than in the afternoon.,5
+41,349,"There are 3 red peaches and 10 more green peaches than red peaches in the basket. 
+
+This means that there are a total of 3 + 10 = 13 green peaches in the basket.",There are 13 green peaches in the basket.,There are w + x = 3 + 10 = 13 green peaches in the basket.,13
+42,113,1 more,1,"1. Jack received w emails in the morning, x emails in the afternoon and y emails in the evening.
+2. Jack received 10 emails in the morning, 5 emails in the afternoon and 4 emails in the evening.
+3. Jack received more emails in the afternoon than in the evening by 1.",1
+43,305,Jake has 7 fewer peaches and 65 more apples than Steven.,Jake has 7 fewer peaches and 65 more apples than Steven.,Jake has w fewer peaches and x more apples than Steven. Steven has y peaches and z apples. Jake has 3 peaches.,7
+44,815,There are now 13 + 4 = 17 people on the bus.,17,There are now w + x = 13 + 4 = 17 people on the bus.,17
+45,479,The grasshopper jumped 35 inches. The frog jumped 31 inches. They jumped a total of 66 inches.,"The grasshopper jumped 35 inches and the frog jumped 31 inches, for a total of 66 inches.","The grasshopper jumped w inches. The grasshopper jumped x inches farther than the frog. How much did they jump altogether?
+
+The grasshopper jumped 35 inches. The grasshopper jumped 4 inches farther than the frog. How much did they jump altogether?
+
+The grasshopper jumped 35 inches. The frog jumped 31 inches. How much did they jump altogether?
+
+The grasshopper and the frog jumped 66 inches altogether.",66
+46,841,Dave had 2 tickets left.,2,w - x - y = 18 - 5 - 11 = 2,2
+47,281,"There are w classrooms in the school. 
+There are x seats on each bus. 
+There are y students in the school. 
+
+There are w classrooms in the school. 
+There are x seats on each bus. 
+There are y students in the school. 
+
+There are w classrooms in the school. 
+There are x seats on each bus. 
+There are y students in the school. 
+
+There are w classrooms in the school. 
+There are x seats on each bus. 
+There are y students in the school. 
+
+There are w classrooms in the school. 
+There are x seats on each bus. 
+There are y students in the school. 
+
+There are w classrooms in the school. 
+There are x seats on each bus. 
+There are y students in the school. 
+
+There are w classrooms in the school. 
+There are x seats on each bus. 
+There are y students in the school. 
+
+There are w classrooms in the school. 
+There are x seats on each bus. 
+There are y students in the school. 
+
+There are w classrooms in the",There would be a total of 37 buses needed to take the trip.,"There are 37 students per bus. 
+
+There are 3 buses needed to take the trip.",37
+48,874,21 * 6 - 702 = 126,$21(6) - $702 = $108,"$ w = 21 $
+
+$ x = 216 $
+
+$ y = 702 $
+
+$ z = w * x $
+
+$ a = z - y $",3834
+49,235,253 - 70 = 183,Paul had 183 crayons left by the end of the school year.,w - x = 253 - 70 = 183,183
+50,760,"There are w + x = 19 + 4 = 23 peaches in each basket. 
+
+There are y = 15 baskets. 
+
+Therefore, there are y * (w + x) = 15 * (19 + 4) = 15 * 23 = 345 peaches in the baskets altogether.",There are 285 peaches in the baskets altogether.,"There are w*y = 285 red peaches and x*y = 60 green peaches. 
+
+In total, there are 285 + 60 = 345 peaches.",345
+51,355,Adam's room has 8 shelves.,There are a total of 8 shelves in the room.,There are 8 shelves in total.,80
+52,303,Jill has 1 more peach than Jake.,Jill has 1 more peach than Jake.,Jill has 1 more peach than Jake.,1
+53,231,"There are 8 sacks per day and each sack has 35 oranges. 
+
+8 sacks per day x 35 oranges per sack = 280 oranges per day",8 * 35 = 280,8*35 = 280,280
+54,662,"Ed had 12 more marbles than Doug. Ed lost 20 of his marbles at the playground. If Ed had 17 marbles, Doug would have 5 marbles.",Doug has 9 marbles.,Doug has w - x + y = 12 - 20 + 17 = 9 marbles now.,5
+55,95,Dan spent $1 more on chocolate than he did on candy bars.,Dan spent 1 more dollar on chocolate than he did on candy bars.,Dan spent 1 more dollar on chocolate than he did on candy bars.,1
+56,927,"The grasshopper jumped 21 inches. 
+The frog jumped 21 + 16 = 37 inches. 
+The mouse jumped 21 - 25 = -4 inches. 
+
+The grasshopper jumped 21 + 25 = 46 inches farther than the mouse.",The grasshopper jumped 9 inches farther than the mouse.,"The grasshopper jumped w inches. The grasshopper jumped x inches farther than the frog and the mouse jumped y inches lesser than the frog. How much farther did the grasshopper jump than the mouse?
+
+The grasshopper jumped 21 inches. The grasshopper jumped 25 inches farther than the frog and the mouse jumped 16 inches lesser than the frog. How much farther did the grasshopper jump than the mouse?
+
+The grasshopper jumped 21 inches. The grasshopper jumped 25 inches farther than the frog and the mouse jumped 16 inches lesser than the frog. The grasshopper jumped 9 inches farther than the mouse.",41
+57,230,Danny found 16 more bottle caps than wrappers at the park.,Danny found 16 more bottle caps than wrappers at the park.,Danny found 30 bottle caps and 14 wrappers at the park. Now he has 7 bottle caps and 86 wrappers in his collection. Danny found 16 more bottle caps than wrappers at the park.,16
+58,409,Nell had 455 cards initially.,Nell had 455 cards initially.,Nell had 455 cards initially.,455
+59,691,A jersey costs 146 more than a t-shirt.,A jersey costs 146 more than a t-shirt.,A jersey costs 146 more than a t-shirt.,146
+60,157,"The frog jumped 37 inches. 
+
+The mouse jumped 21 inches. 
+
+The grasshopper jumped 14 inches. 
+
+The mouse jumped 7 inches farther than the grasshopper.",The mouse jumped 21 inches farther than the grasshopper.,"The frog jumped y = 37 inches. 
+The mouse jumped x = 16 inches. 
+The grasshopper jumped w = 14 inches. 
+
+The mouse jumped 21 inches farther than the grasshopper.",21
+61,404,Paco had 39 sweet cookies and 6 salty cookies. He ate 23 salty cookies and 32 sweet cookies. He ate 9 more sweet cookies than salty cookies.,Paco ate 9 more sweet cookies than salty cookies.,Paco had 9 more sweet cookies than salty cookies.,9
+62,863,The water bottles would last for 22 days.,The water bottles would last for 22 days.,The water bottles will last for 22 days.,22
+63,400,There are 8 more red peaches than yellow peaches in the basket.,There are 8 more red peaches than yellow peaches in the basket.,There are 8 more red peaches than yellow peaches in the basket.,8
+64,387,3 games,3 games,3 games.,3
+65,103,Faye has 154 pencils.,Faye has 154 pencils.,Fay has 154 pencils in total.,154
+66,946,Josh had 15 marbles in his collection. He found 9 marbles while he lost 23 marbles. He lost 14 more marbles than those he found.,Josh lost 14 more marbles than those he found.,y - x = 23 - 9 = 14,14
+67,268,"Melissa played 3 games and scored a total of 81 points. 
+
+This means that she scored the same number of points in each game. 
+
+We can set up an equation to solve for the number of points she scored in each game. 
+
+3 games * ? points = 81 points 
+
+We can solve for ? by dividing both sides by 3. 
+
+? = 81/3 
+
+? = 27 
+
+This means that Melissa scored 27 points in each game.",Melissa scored 27 points in each game.,Melissa played 3 games and scored a total of 81 points. She scored the same for each game. In each game she scored 27 points.,27
+68,53,Frank would have 2 bags.,2 bags,2 bags,2
+69,113,1 more,1,"1. Jack received w emails in the morning, x emails in the afternoon and y emails in the evening.
+2. Jack received 10 emails in the morning, 5 emails in the afternoon and 4 emails in the evening.
+3. Jack received more emails in the afternoon than in the evening by 1.",1
+70,65,Dave deleted 6 files.,Dave deleted 6 files.,Dave deleted 6 files.,3
+71,190,There are more pastries than cakes.,There were more pastries sold than cakes.,"y - z = 154 - 78 = 76. 
+
+There are 76 more pastries than cakes.",76
+72,559,"79 - 14 = 65 
+
+65 - 11 = 54",79 - (14 + 11) = 54,w - x - y = 54,54
+73,919,"There are 4 people who can ride the Ferris wheel at the same time. 
+
+Each seat on the Ferris wheel can hold 2 people. 
+
+Therefore, the Ferris wheel has 2 seats.",The Ferris wheel has 8 seats.,"There are w people who can ride the Ferris wheel at the same time. 
+
+Each seat on the Ferris wheel can hold x people. 
+
+Therefore, the Ferris wheel has w/x seats. 
+
+In this case, w/x = 4/2 = 2 seats.",2
+74,38,"There are w bananas and x oranges in Philip's collection. 
+
+There are 47 groups of bananas and 178 groups of oranges. 
+
+Each group of oranges has 2 oranges.","Each group of oranges is 2. 
+
+There are w bananas and x oranges in Philip's collection. If the bananas are organized into y groups and oranges are organized into z groups, then each group of oranges is (x/z) and each group of bananas is (w/y).","There are w bananas and x oranges in Philip's collection. 
+
+There are w/y groups of bananas and x/z groups of oranges. 
+
+Each group of oranges has x/z * z/y = x/y = 356/47 = 7.619047619 bananas.",2
+75,45,"Zachary did 35 push-ups and 3 crunches in gym class today. David did 58 more push-ups but 87 less crunches than zachary. How many more push-ups than crunches did Zachary do?
+
+Zachary did 35 push-ups and 3 crunches in gym class today. David did 58 more push-ups but 87 less crunches than zachary. How many more push-ups than crunches did Zachary do?
+
+Zachary did 35 push-ups and 3 crunches in gym class today. David did 58 more push-ups but 87 less crunches than zachary. Zachary did 32 more push-ups than crunches.",Zachary did 22 more push-ups than crunches.,"Zachary did 35 push-ups and 3 crunches in gym class today. David did 58 more push-ups but 87 less crunches than zachary. How many more push-ups than crunches did Zachary do?
+
+Zachary did 35 push-ups and 3 crunches in gym class today. David did 58 more push-ups but 87 less crunches than zachary. How many more push-ups than crunches did Zachary do?
+
+Zachary did 35 push-ups and 3 crunches in gym class today. David did 58 more push-ups but 87 less crunches than zachary. How many more push-ups than crunches did Zachary do?
+
+Zachary did 35 push-ups and 3 crunches in gym class today. David did 58 more push-ups but 87 less crunches than zachary. How many more push-ups than crunches did Zachary do?
+
+Zachary did 35 push-ups and 3 crunches in gym class today. David did 58 more push-ups but 87 less crunches than zachary. How many more push-ups",32
+76,770,Mary needs to add 10 more cups of flour than she does sugar.,10 cups of flour,10 cups of flour.,1
+77,732,There are 54 grades in total.,There are 54 grades in total.,There are 54 grades in total.,54
+78,546,3 more cups of flour than cups of sugar.,3 more cups of flour than cups of sugar.,"y = 2
+
+x - y = 9 - 2 = 7
+
+w - y = 6 - 2 = 4
+
+Therefore, she needs to add 4 more cups of flour than sugar.",1
+79,474,"Frank read 612 pages in 6 days, which means he read 102 pages per day.",Frank read 102 pages per day.,Frank reads w/y = 102 pages per day.,102
+80,792,2 + 3 + 10 = 15,2 + 3 + 10 = 15,2 + 3 + 10 = 15,15
+81,173,"There are a total of w = 17 bottles. 
+
+x = 9 of those bottles are regular soda. 
+
+That means that the rest, or w - x, are diet soda. 
+
+So, w - x = 8 bottles of diet soda.",There are 8 bottles of diet soda.,"There are w bottles in total. 
+
+There are x bottles of regular soda. 
+
+That means there are w - x bottles of diet soda.",8
+82,437,"Jack received 6 emails in the morning and 2 emails in the afternoon, so he received 8 emails in the day.",Jack received 8 emails in the day.,Jack received 18 emails in the day.,8
+83,630,There are more salty cookies than sweet cookies.,Paco ate 28 more salty cookies than sweet cookies.,z - y = 34 - 20 = 14,14
+84,246,"There are a total of 3 + 7 = 10 seats. 
+
+Each small seat can hold 16 people. 
+
+Each large seat can hold 12 people. 
+
+So, the total number of people that can ride the Ferris wheel is 16 * 3 + 12 * 7 = 120.","There are a total of w + x = 3 + 7 = 10 seats on the Ferris wheel. Of those seats, w = 3 are small seats and x = 7 are large seats. Each small seat can hold y = 16 people and each large seat can hold z = 12 people. Therefore, the Ferris wheel can hold a maximum of w * y + x * z = 3 * 16 + 7 * 12 = 84 people on large seats.","There are w small seats and x large seats. Each small seat can hold y people and large seat can hold z people. 
+
+The number of people that can ride the Ferris wheel on large seats is: 
+
+xz",84
+85,26,"There were a total of 66 food choices. 
+
+450 students suggested adding mashed potatoes and 38 suggested adding bacon. 
+
+So, the total number of students who participated in the suggestion of new food items is 450 + 38 = 488.",There were a total of 488 students who participated in the suggestion of new food items.,"There are a total of 66 food items from which to choose. 
+
+450 students suggested adding mashed potatoes and 38 suggested adding bacon to the menu. 
+
+The rest of the students did not participate. 
+
+So, the number of students who participated in the suggestion of new food items is 450 + 38 = 488.",488
+86,456,"Paco had 28 cookies. 
+He ate some of them and had 7 cookies left. 
+This means he ate 21 cookies.",Paco ate 21 cookies.,Paco ate 21 cookies.,21
+87,306,There are 5 more books than movies.,There are 5 more books than movies.,There are 5 more books than movies.,5
+88,577,There are 133 - 51 = 82 more cakes than those sold.,82,w - x = 133 - 51 = 82.,82
+89,379,3,3,3,3
+90,327,There are 26 rounds.,There were 26 rounds played.,There are 26 rounds.,26
+91,149,"There are a total of 16 peaches in the basket. 
+
+There are 13 red peaches in the basket. 
+
+This leaves 3 green peaches in the basket.",There are 3 green peaches in the basket.,"There are a total of 16 peaches in a basket. 
+
+There are 13 red peaches in the basket. 
+
+There are 3 green peaches in the basket.",3
+92,562,There are w + x = 635 + 510 = 1145 boys in the school.,"There are 1,145 boys in the school.",There are w + x = 635 + 510 = 1145 boys in that school.,1145
+93,809,Bob has 20 apples.,Bob has 20 apples.,Bob has 20 apples.,20
+94,199,The soda bottles would last for 40 days.,The soda bottles would last for 40 days.,The soda bottles would last 40 days.,40
+95,222,"There are w different movies and x different books in the 'crazy silly school' series. If you read y of the books and watched z of the movies, you would still have to read (x - y) books.",You would need to read 15 more books to complete the series.,"There are w different movies and x different books in the ' crazy silly school ' series. If you read y of the books and watched z of the movies How many more books do you still have to read?
+
+You have read 4 books and watched 34 movies. 
+
+You still have to read (x - y) books. 
+
+You still have to read (19 - 4) books. 
+
+You still have to read 15 books.",15
+96,327,There are 26 rounds.,There were 26 rounds played.,There are 26 rounds.,26
+97,648,The boys will each receive 4 marbles.,Each boy will receive 3 marbles.,Each boy will receive 4/23*15 = 5 marbles.,2
+98,563,"1. w = 12 and x = 11
+2. w - x = 12 - 11 = 1 
+3. Therefore, the room is 1 foot longer than it is wide.",1 foot,1 foot,1
+99,974,"Bobby has 36 pieces of candy. 
+He eats 17 pieces of candy. 
+He has 19 pieces of candy left. 
+He eats 15 more pieces of candy. 
+He has 4 pieces of candy left.",4,4 pieces of candy.,4
+100,861,"13 inches were cut off, so the new length is 14 - 13 = 1 inch.",14 - 13 = 1,x - w = 14 - 13 = 1,1
+101,876,There will be 5 groups created.,There will be 5 groups created.,There will be 5 groups created.,5
+102,376,"The baker sold 145 cakes in total. 
+
+The baker bought 139 cakes in total. 
+
+The baker sold 6 more cakes than those he bought.",Baker sold 7 more cakes than those he bought.,y - x = 145 - 139 = 6,6
+103,937,Dave had 10 apps on his phone. He added 11 new apps. After deleting some he had 4 left. He deleted 6 apps.,Dave deleted 7 apps.,Dave had 10 apps on his phone. He added 11 new apps. After deleting some he had 4 left. He deleted 6 apps.,17
+104,899,"Randy has 36 blocks. 
+
+If he had 59 blocks, he would have 23 more blocks.",There are 23 blocks left.,There are 23 blocks left.,23
+105,108,"2 + 3 = 5 
+
+4 + 0 = 4 
+
+5 - 4 = 1","Allan had 5 balloons and Jake had 4 balloons, so Allan had 1 more balloon than Jake.","2 + 3 = 5 
+
+4 + 0 = 4 
+
+5 - 4 = 1",1
+106,149,"There are a total of 16 peaches in the basket. 
+
+There are 13 red peaches in the basket. 
+
+This leaves 3 green peaches in the basket.",There are 3 green peaches in the basket.,"There are a total of 16 peaches in a basket. 
+
+There are 13 red peaches in the basket. 
+
+There are 3 green peaches in the basket.",3
+107,878,The machine made 72 shirts today.,The machine made 72 shirts today.,The machine made 72 shirts today.,72
+108,345,Haley grew 17 trees in her backyard.,Haley grew 17 trees in her backyard.,Haley grew 17 trees in her backyard.,17
+109,718,Each package has 2 white t-shirts.,Each package has 2 white t-shirts.,Each package has 2 white t-shirts.,2
+110,278,"There are 140 groups of 187 bananas. 
+
+In each group, there are 187 bananas. 
+
+So, in total, there are 140 x 187 = 25,780 bananas in Philip's banana collection.",There are 140 bananas in Philip's banana collection.,"There are some bananas in Philip's banana collection. If the bananas are organized into w groups of size x, then he has w*x bananas in his collection.",26180
+111,619,Josh had 21 marbles in his collection. He found 7 marbles. He has 28 marbles now.,Josh has 28 marbles in his collection.,"Josh had w marbles in his collection. He found x marbles. How many marbles does he have now?
+
+Josh had 21 marbles in his collection. He found 7 marbles. How many marbles does he have now?
+
+Josh had 21 marbles in his collection. He found 7 marbles. How many marbles does he have now?
+
+Josh had 21 marbles in his collection. He found 7 marbles. How many marbles does he have now?
+
+Josh had 21 marbles in his collection. He found 7 marbles. How many marbles does he have now?
+
+Josh had 21 marbles in his collection. He found 7 marbles. How many marbles does he have now?
+
+Josh had 21 marbles in his collection. He found 7 marbles. How many marbles does he have now?
+
+Josh had 21 marbles in his collection. He found 7 marbles. How many marbles does he have now?
+
+Josh had 21 marbles in his collection. He found 7 marbles. How many marbles does he have now?
+
+Josh had 21 marbles in his collection. He found 7 marbles. How many marbles does",28
+112,374,Randy used 33 blocks to build a tower and 13 blocks to build a house. He used 20 more blocks to build the tower than he did to build the house.,Randy used 20 more blocks to build the tower than he did to build the house.,"The number of blocks Randy used to build the tower is x. The number of blocks Randy used to build the house is y. The number of blocks Randy used to build the tower minus the number of blocks Randy used to build the house is x - y. Therefore, the answer to the question is x - y = 33 - 13 = 20.",20
+113,817,"The baker's friend bought 137 cakes from him. 
+
+This means that the baker sold 137 cakes. 
+
+If the baker sold 137 cakes, he would have 169 - 137 = 32 cakes left.",Baker would still have 32 cakes.,"The baker's friend bought w = 137 cakes from him. 
+
+The baker had x = 169 cakes initially. 
+
+The baker still has x - w = 169 - 137 = 32 cakes.",32
+114,221,"The Razorback t-shirt shop makes $78 dollars off each t-shirt sold. During the Arkansas game and the Texas tech game they sold a total of 186 t-shirts. If they sold 172 t-shirts during the Arkansas game How much money did they make from selling the t-shirts during the Texas tech game?
+
+The Razorback t-shirt shop makes $78 dollars off each t-shirt sold. During the Arkansas game and the Texas tech game they sold a total of 186 t-shirts. If they sold 172 t-shirts during the Arkansas game, they must have sold 14 t-shirts during the Texas tech game. 
+
+So they made $14 * 78 = $1092 from selling t-shirts during the Texas tech game.","The Razorback t-shirt shop made $13,856 from selling t-shirts during the Texas Tech game.","The Razorback t-shirt shop makes $78 dollars off each t-shirt sold. During the Arkansas game and the Texas tech game they sold a total of 186 t-shirts. If they sold 172 t-shirts during the Arkansas game How much money did they make from selling the t-shirts during the Texas tech game?
+
+The Razorback t-shirt shop makes $78 dollars off each t-shirt sold. During the Arkansas game and the Texas tech game they sold a total of 186 t-shirts. If they sold 172 t-shirts during the Arkansas game, they made $13,176 from selling t-shirts during the Arkansas game. How much money did they make from selling the t-shirts during the Texas tech game?
+
+The Razorback t-shirt shop makes $78 dollars off each t-shirt sold. During the Arkansas game and the Texas tech game they sold a total of 186 t-shirts. If they sold 172 t-shirts during the Arkansas game, they made $13,176 from selling t-shirts during the Arkansas game. They made $14,016 from selling t-shirts during the Texas tech game.",1092
+115,985,"There are 11 pages of math homework, 2 pages of reading homework, and 3 pages of biology homework. 
+
+There are 11 - 3 = 8 more pages of math homework than biology homework.",Rachel had 8 more pages of math homework than biology homework.,w - y = 11 - 3 = 8,8
+116,645,"The baker sold 8 cakes. 
+
+The baker made 40 cakes. 
+
+The baker made 32 more cakes than those he sold.",Baker made 32 more cakes than those he sold.,"Baker sold 8 cakes. 
+
+Baker made 40 cakes initially. 
+
+Baker made 32 more cakes than those he sold.",32
+117,160,Each necklace needs 2 beads.,Each necklace needs 1 bead.,Each necklace needs 8 beads.,16
+118,471,"There are 896 skittles in Steven's skittles collection. Steven also has 517 erasers and 90 scales. If the skittles are organized into 8 groups, then each group would have 112 skittles.","There are 896 skittles in Steven's skittles collection. Steven also has 517 erasers and 90 scales. If the skittles are organized into 8 groups, each group would have 112 skittles.","There are 896 skittles in Steven's skittles collection. Steven also has 517 erasers and 90 scales. If the skittles are organized into 8 groups How big is each group?
+
+The answer is 112 skittles per group.",112
+119,596,"7 feet wide 
+
+14 square feet 
+
+2 feet long",2,"2x = wl 
+
+2(14) = wl 
+
+28 = 7l 
+
+l = 4",2
+120,704,659 + 762 = 1421.,103 feet,"w + x = 659 + 762 = 1421
+
+So they need to travel another 1421 - 659 = 762 feet to reach the end of the cave.",103
+121,371,"There are 402 more girls than boys. 
+
+There are a total of 739 + 402 = 1141 students in the school. 
+
+There are 739 girls and 402 boys.",There are 347 boys in the school.,"There are w more girls than boys. If there are x girls, then there are x - w boys.",337
+122,723,"There are 33 cookies in total, and each bag has 11 cookies. 
+
+This means that we need 3 bags of cookies to store all 33 cookies.",3 bags of cookies,"There are w = 33 cookies in total. 
+Each bag has x = 11 cookies. 
+Therefore, the number of bags of cookies is equal to w / x = 33 / 11 = 3. 
+
+In other words, if you have w cookies and each bag has x cookies, you have w / x bags of cookies.",3
+123,227,Each person would have eaten 2 crackers and 3 cakes.,Each person would have eaten 2 crackers and 3 cakes.,Each person ate 2 crackers and 3 cakes.,5
+124,825,"There are 4 different books and 17 different movies in the 'crazy silly school' series. If you read 19 of the books and watched 7 of the movies, you still have to watch 10 more movies.",You would need to watch 10 more movies.,You have to watch 10 more movies.,10
+125,444,There are 12 more green peaches than yellow peaches in the basket.,There are 12 more green peaches than yellow peaches in the basket.,y - x = 14 - 6 = 8,8
+126,509,Marco's dad's strawberries weighed 22 pounds.,His dad's strawberries weighed 22 pounds.,Marco's dad's strawberries weighed 22 pounds.,22
+127,902,2 goldfish disappeared.,2 goldfish disappeared.,2 goldfish disappeared.,2
+128,227,Each person would have eaten 2 crackers and 3 cakes.,Each person would have eaten 2 crackers and 3 cakes.,Each person ate 2 crackers and 3 cakes.,5
+129,536,There were 24 bird families left near the mountain.,There are 24 bird families left near the mountain.,There were 24 bird families left near the mountain.,14
+130,21,"The machine worked for 5 minutes. 
+It can make 4 shirts a minute. 
+Therefore, it made 20 shirts in total.",The machine made 20 shirts.,"The machine worked for 5 minutes. 
+
+It can make 4 shirts a minute. 
+
+Therefore, the machine made 20 shirts.",20
+131,493,Paul sold 24 books and 92 pens in the garage sale.,He sold 92 pens in the garage sale.,He sold 24 books and 92 pens.,92
+132,677,There are a total of 136 bird families that flew away for the winter.,There are a total of 136 bird families that flew away for the winter.,"There are a total of w + x + y = 18 + 38 + 80 = 136 bird families. 
+
+x bird families flew away to Africa and y bird families flew away to Asia. 
+
+That means that w - (x + y) bird families remained near the mountain. 
+
+w - (x + y) = 18 - (38 + 80) = 18 - 118 = -100. 
+
+That is, there are -100 bird families remaining near the mountain. 
+
+But that can't be right, so there must be a mistake in the problem statement.",118
+133,154,2,2 more kids on Monday,4 - (6 + 17) = -19,2
+134,338,It will take 3 days to harvest 24 sacks of oranges.,It will take 3 days to harvest 24 sacks of oranges.,3 days.,3
+135,390,There are 4 more books than action figures on Jerry's shelf.,There are 4 more books than action figures on Jerry's shelf.,There are more books on the shelf than action figures.,6
+136,74,There are a total of 569 students.,There were 569 students who suggested adding bacon to the menu.,"There are w + x = 569 students in total. 
+
+There are w students who suggested adding mashed potatoes as well as bacon. 
+
+There are x students who suggested adding only bacon to the menu. 
+
+Therefore, the number of students who suggested adding bacon is w + x = 569.",569
+137,516,There are 3 more storks than birds sitting on the fence.,There are 3 more storks than birds sitting on the fence.,There are 3 more storks than birds sitting on the fence.,5
+138,696,"There are 11 groups of 2 eggs each, so Rebecca has 22 eggs in total.",Rebecca has 22 eggs.,"Rebecca has n eggs. 
+
+She wants to split them into groups of w. 
+
+That means she will have n/w groups. 
+
+Each group has x eggs. 
+
+That means the total number of eggs is n/w*x. 
+
+We know that n/w*x = 22, so n = 22*w/x. 
+
+Therefore, n = 22*11/2 = 242.",22
+139,303,Jill has 1 more peach than Jake.,Jill has 1 more peach than Jake.,Jill has 1 more peach than Jake.,1
+140,658,There are a total of 12 storks sitting on the fence.,There are 8 storks sitting on the fence.,There are w + x + y = 12 storks sitting on the fence.,8
+141,80,"There were 36 children riding on the bus. At the bus stop, 68 children got off the bus while some more got on the bus. Then there were 12 children altogether on the bus. So, 68 - 36 = 32 more children got off the bus than those that got on.","There were more children that got off the bus than those that got on. In this case, 36 - 68 = -32.","There were w children on the bus to start with. 
+
+x children got off the bus, 
+
+while some more got on the bus. 
+
+Let's call the number of children who got on the bus z. 
+
+Then we have the following system of equations: 
+
+w - x = y 
+x + z = y 
+
+From the first equation we have: 
+
+z = w - y 
+
+Substituting this value of z in the second equation we get: 
+
+x + w - y = y 
+
+or 
+
+x - y = w - y 
+
+or 
+
+x - y = y - w 
+
+or 
+
+x = w 
+
+Thus, the number of children who got on the bus was equal to the number of children who got off the bus.",24
+142,643,"The cave is 1218 feet deep and they are already at 849 feet. If they are travelling at a speed of 17, they will need 71 more feet to reach the end of the cave.","1218 - 849 = 369
+
+369 / 17 = 21.7
+
+Therefore, it will take them 21.7 more hours to reach the end of the cave.","The cave is w feet deep and they are already at x feet. If they are travelling at speed of y How much farther until they reach the end of the cave?
+
+The answer is 369 feet.",369
+143,606,"4 hours on English and 6 hours on Chinese, every day.",4 hours on learning English and 6 hours on learning Chinese each day.,"4w + 6x = y 
+
+24w + 36x = y 
+
+y = 24w + 36x",10
+144,34,Jack received 3 emails in the afternoon.,Jack received 3 emails in the afternoon.,3,1
+145,341,Each candy bar cost $1.50.,Each candy bar cost $1.50.,"y = 2 
+x = 4 
+w = 3 
+
+Each candy bar cost w/y = 3/2 = 1.5 dollars.",2
+146,828,John needs 4 planks for the house wall.,John needs 4 planks for the house wall.,"There are 11 walls in the house. 
+Each wall needs 3 pieces of nails to be secured. 
+An additional 8 nails were used. 
+
+Therefore, John needs 33 planks for the house wall.",1
+147,635,"Fay has 31 packs of pencils, each with 6 pencils. 
+
+She is placing her pencils into rows with 19 pencils in each row. 
+
+So she has 31 * 6 = 186 pencils in total.",Faye has 186 pencils.,Faye has 186 pencils.,186
+148,697,3,3,3,3
+149,970,"There are 4502 skittles in Steven's skittles collection. Steven also has 4276 erasers. If the skittles and erasers are organized into 154 groups, then each group has 29 skittles and 28 erasers.",Each group would be 28.,Each group has 29 skittles and 28 erasers.,57
