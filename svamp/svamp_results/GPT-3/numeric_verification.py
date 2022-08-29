@@ -7,8 +7,8 @@ import numpy as np
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
 root_dir = "~/onedrive/desktop/research paper"
-df = pd.read_csv(f"{root_dir}/svamp/svamp_results/GPT-3/results/two_step_v2/two_step_v2_150.csv")
-df1 = pd.read_csv(f"{root_dir}/svamp/svamp_results/GPT-3/results/two_step_v2/answers_150.csv")
+df = pd.read_csv(f"{root_dir}/svamp/svamp_results/GPT-3/results/zero_shot/zero_shot_results.csv")
+df1 = pd.read_csv(f"{root_dir}/svamp/svamp_results/GPT-3/results/zero_shot/answers.csv")
 
 answers = df["Numerical Answer"]
 
@@ -22,7 +22,7 @@ for i in range(len(df)):
             with_steps_correct += 1
         if int(df1["Without Steps"][i]) == answers[i]:
             without_steps_correct += 1
-        if int(df1["With Intermediate"][i]) == answers[i]:
+        if int(df1["Intermediate"][i]) == answers[i]:
             with_intermediate_correct += 1
     except:
         pass

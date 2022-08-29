@@ -1,0 +1,392 @@
+,With Steps,Without Steps,Problem,Number,Expression,Answer
+0,"There are 3 pizzas. 
+Each pizza has the same number of slices. 
+There are a total of 38 slices. 
+
+We can set this up as an equation: 
+
+3 pizzas * _____ slices/pizza = 38 slices
+
+We can solve for the number of slices/pizza: 
+
+3 pizzas * _____ slices/pizza = 38 slices
+3 pizzas * _____ slices/pizza = 38 slices
+3 pizzas * _____ slices/pizza = 38 slices
+3 pizzas * _____ slices/pizza = 38 slices
+3 pizzas * _____ slices/pizza = 38 slices
+3 pizzas * _____ slices/pizza = 38 slices
+3 pizzas * _____ slices/pizza = 38 slices
+3 pizzas * _____ slices/pizza = 38 slices
+3 pizzas * _____ slices/pizza = 38 slices
+3 pizzas * _____ slices/pizza = 38 slices
+3 pizzas * _____ slices/pizza = 38 slices
+3 pizzas * _____ slices/pizza = 38 slices
+3 pizzas * _____ slices/pizza = 38 slices", There are 12 slices in each pizza.,We ordered 3 pizzas. Each pizza has the same number of slices. If there were a total of 38 slices How many slices are there in each pizza?,"['3', '38']",( 38 / 3 ),12.666666666666666
+1,"Danny found 3 wrappers and 6 bottle caps at the park. 
+Now he has 13 bottle caps and 17 wrappers in his collection.
+
+We can see that Danny has a total of 13 + 6 = 19 bottle caps and a total of 3 + 17 = 20 wrappers. 
+
+We're looking for how many more bottle caps than wrappers Danny found at the park, so we want to know how many more bottle caps Danny has than wrappers. 
+
+We can find this out by subtracting the total number of wrappers from the total number of bottle caps: 
+
+19 - 20 = -1
+
+This means that Danny has 1 fewer bottle cap than wrapper in his collection.",Danny found 3 more bottle caps than wrappers at the park.,Danny collects bottle caps and wrappers. He found 3 wrappers and 6 bottle caps at the park. Now he has 13 bottle caps and 17 wrappers in his collection. How many more bottle caps than wrappers did danny find at the park?,"['3', '6', '13', '17']",( 6 - 3 ),3
+2,"There are 41 packages of gum and 43 packages of candy. 
+There are 6 pieces in each package. 
+
+We need to find out how many pieces of gum Robin has. 
+
+We can use multiplication to find this out: 
+
+41 packages of gum x 6 pieces in each package = 246 pieces of gum",Robin has 246 pieces of gum.,Robin has 41 packages of gum and 43 packages of candy. There are 6 pieces in each package. How many pieces of gum does Robin have?,"['41', '43', '6']",( 41 * 6 ),246
+3,"In each game, Melissa scored 8 points + 4 bonus points = 12 points. 
+In 21 games, Melissa scored 12 points x 21 games = 252 points.", Melissa scored 168 points in 21 games.,Melissa scored 8 points in each game. She also got 4 bonus points in each game. How many points did she score in 21 games?,"['8', '4', '21']",( ( 8 + 4 ) * 21 ),252
+4,"There are a total of 8 bananas in Philip's banana collection. 
+There are 9 groups. 
+
+That means that there must be 1 banana in each group.",There are 8 bananas in Philip's banana collection. Each group contains 8/9 bananas.,The bananas in Philip's collection are organized into 9 groups. If there are a total of 8 bananas in Philip's banana collection How big is each group?,"['9', '8']",( 8 / 9 ),0.8888888888888888
+5,"Faye has 7 pencils. 
+She wants to put them into rows with 5 pencils in each row. 
+How many rows could she make?
+
+We can see that Faye has enough pencils to make 1 full row and 2 partial rows. Therefore, she could make 1 full row and 2 partial rows.",Faye could make 2 rows with 5 pencils in each row.,Faye was placing 7 pencils into rows with 5 pencils in each row. How many rows could she make?,"['7', '5']",( 7 / 5 ),1.4
+6,"There were 7 campers rowing in the morning. 
+Some more campers went rowing in the afternoon. 
+A total of 5 campers went rowing that day. 
+
+That means that 2 campers went rowing in the afternoon.", 2,7 campers went rowing in the morning. Some more campers went rowing in the afternoon. If a total of 5 campers went rowing that day How many campers went rowing in the afternoon?,"['7', '5']",( 5 - 7 ),-2
+7,"1. They harvest 12 sacks per day. 
+2. They want to harvest 26 sacks. 
+3. They want to know how many days it will take. 
+
+To solve this problem, we can divide 26 by 12. This will give us the answer in days. 
+
+It will take approximately 2 and 1/12 days to harvest 26 sacks of oranges.", It will take 2.16 days to harvest 26 sacks of oranges.,He then went to see the oranges being harvested. He found out that they harvest 12 sacks per day. How many days will it take to harvest 26 sacks of oranges?,"['12', '26']",( 26 / 12 ),2.1666666666666665
+8,"There are 4 snakes and 13 alligators in the cage. 
+9 alligators are hiding. 
+That means that 9 alligators are not hiding.", There would be 4 alligators not hiding.,"At the zoo, a cage had 4 snakes and 13 alligators. If 9 alligators were hiding How many alligators were not hiding?","['4', '13', '9']",( 13 - 9 ),4
+9,"Olivia spent 121 dollars at a supermarket. 
+
+That means she had 121 dollars to spend at the supermarket. 
+
+That means she had 121 + 57 = 178 dollars in total.",Olivia had 178 dollars initially.,Olivia spent 121 dollars at a supermarket. If she has 57 dollars left with her How much money did she have initially?,"['121', '57']",( 121 + 57 ),178
+10,"Olivia spends 6 dollars at the supermarket. 
+That means she had 6 dollars more than she does now. 
+That means she has 8 - 6 = 2 more dollars than she started with. 
+That means she started with 8 - 2 = 6 dollars.",Olivia had 14 dollars initially.,Olivia spent 6 dollars at a supermarket. If she has 8 dollars left with her How much money did she have initially?,"['6', '8']",( 6 + 8 ),14
+11,"There are 4 seats in each Ferris wheel. 
+Each seat can hold 15 people. 
+That means each Ferris wheel can hold 60 people at the same time. 
+
+Now we just need to multiply 60 by 177 to find out how many people can ride 177 Ferris wheels at the same time. 
+
+60 x 177 = 10,620","There can be a maximum of 15 people riding each Ferris wheel at the same time, so 177 Ferris wheels would accommodate 2,655 people.",Each Ferris wheel in paradise park has 4 seats. Each seat in a Ferris wheel can hold 15 people. How many people can ride 177 Ferris wheels at the same time?,"['4', '15', '177']",( ( 4 * 15 ) * 177 ),10620
+12,"Steven has 17 peaches. Jake has 65 fewer peaches than Steven who has 8 more peaches than Jill. 
+
+This means that Jake has 8 fewer peaches than Jill. 
+
+So if we add 8 to the number of peaches that Jake has, we will get the number of peaches that Jill has. 
+
+Jake has 65-8=57 peaches.",Jill has 9 peaches.,Steven has 17 peaches. Jake has 65 fewer peaches than Steven who has 8 more peaches than Jill. How many peaches does Jill have?,"['17', '65', '8']",( 17 - 8 ),9
+13,"1. David did 3 push-ups in gym class today. 
+2. David did 40 more push-ups than Zachary. 
+3. How many push-ups did Zachary and David do altogether?
+
+We can see that we are missing information about Zachary. We are told that David did 40 more push-ups than Zachary, but we don't know how many push-ups Zachary did. 
+
+We can solve this problem by using what we know to figure out what we don't know. We know that David did 3 push-ups in gym class today, and we know that David did 40 more push-ups than Zachary. 
+
+We can use this information to figure out how many push-ups Zachary did. If we add 40 to 3, we get 43. This means that Zachary did 43 push-ups in gym class today. 
+
+Now that we know how many push-ups Zachary did, we can answer the original question. If Zachary did 43 push-ups and David did 3 push-ups, then they did a total of 46 push-ups.",Zachary and David did a total of 43 push-ups.,David did 3 push-ups in gym class today. David did 40 more push-ups than Zachary. How many push-ups did Zachary and David do altogether?,"['3', '40']",( ( 3 + 3 ) - 40 ),-34
+14,"1. Mary has already put in 17 cups of flour. 
+2. The recipe calls for 18 cups of flour. 
+3. So, Mary needs to add 1 more cup of flour. 
+4. The recipe calls for 415 cups of sugar. 
+5. So, Mary needs to add 415 - 17 = 398 more cups of sugar.",She needs to add 398 more cups of sugar than cups of flour.,Mary is baking a cake. The recipe calls for 18 cups of flour and 415 cups of sugar. She already put in 17 cups of flour. How many more cups of sugar than cups of flour does she need to add now?,"['18', '415', '17']",( 415 - ( 18 - 17 ) ),414
+15,"There were 4 campers rowing in total. 
+9 campers went rowing in the afternoon. 
+That means that there were 9 + 4 = 13 campers rowing that day. 
+But we know that there were only 13 campers rowing in total, so that means that there were 0 campers rowing in the morning.","Some campers went rowing in the morning while 9 campers went rowing in the afternoon. If a total of 4 campers went rowing that day, then 3 campers went rowing in the morning.",Some campers went rowing in the morning while 9 campers went rowing in the afternoon. If a total of 4 campers went rowing that day How many campers went rowing in the morning?,"['9', '4']",( 4 - 9 ),-5
+16,"The day before the day before the day in question, there were 3 visitors. 
+The day before the day in question, there were 12 visitors. 
+The day in question, there were 49 visitors. 
+
+We can see that the number of visitors is increasing by 9 each day. So, we can set up the equation: 
+
+3 + (3+9) + (12+9) = 49
+
+3 + 12 + 21 = 49
+
+36 = 49
+
+This equation does not make sense, so the answer must be that there is not enough information given to solve the problem.", There were 34 visitors before that day.,"After eating a hearty meal they went to see the Buckingham palace. There, Rachel learned that 49 visitors came to the Buckingham palace that day. If there were 3 visitors the previous day and 12 visitors the day before that How many visited the Buckingham palace before that day?","['49', '3', '12']",( 3 + 12 ),15
+17,"The chef started with 31 apples and 8 peaches. 
+Then, he made some pies. 
+After making the pies, he had 47 apples left. 
+
+So, we can say that the chef used 31 - 47 = -16 apples.",The chef used 23 apples to make pies.,"A chef had 31 apples and 8 peaches. After making some pies, he had 47 apples left. How many apples did he use?","['31', '8', '47']",( 31 - 47 ),-16
+18,"1) Lucy went to the grocery store.
+2) She bought 25 packs of cookie and 3 packs of cake.
+3) How many more packs of cookie did she buy over cake?
+
+The answer is 22.",Lucy bought 22 more packs of cookies than cake.,Lucy went to the grocery store. She bought 25 packs of cookie and 3 packs of cake. How many more packs of cookie did she buy over cake?,"['25', '3']",( 25 - 3 ),22
+19,"Bryan has 46 books and 14 magazines in each of his 617 bookshelves. 
+
+There are 617 bookshelves, so that means Bryan has (617*46) books. 
+
+There are 617 bookshelves, so that means Bryan has (617*14) magazines. 
+
+Therefore, Bryan has (617*46) + (617*14) = 27,898 books and magazines in total.","Bryan has a total of 8,898 magazines.",Bryan took a look at his books and magazines. If he has 46 books and 14 magazines in each of his 617 bookshelves How many magazines does he have in total?,"['46', '14', '617']",( 14 * 617 ),8638
+20,"Josh had 5 marbles. 
+He lost 46 marbles. 
+That means he now has -41 marbles. 
+He found 15 new marbles. 
+That means he now has 15-41, or -26 marbles.", Josh has 74 marbles in his collection.,Josh had 5 marbles in his collection. He lost 46 marbles and found 15 new ones. How many marbles does he have now?,"['5', '46', '15']",( ( 5 - 46 ) + 15 ),-26
+21,"1. Emily made 7 necklaces. 
+2. Each necklace takes 8 beads. 
+3. So, 7 necklaces times 8 beads equals 56 beads. 
+
+Therefore, Emily had 56 beads.",Emily had 56 beads.,Emily is making bead necklaces for her friends. She made 7 necklaces and each necklace takes 8 beads. How many beads did Emily have?,"['7', '8']",( 7 * 8 ),56
+22,"1. Emily made 457 necklaces. 
+2. Each necklace takes 2 beads. 
+3. So, 457 necklaces * 2 beads = 914 beads. 
+
+Emily had 914 beads.", Emily had 914 beads.,Emily is making bead necklaces for her 34 friends. She made 457 necklaces and each necklace takes 2 beads. How many beads did Emily have?,"['34', '457', '7']",( 457 * 7 ),3199
+23,"1) David did 697 more push-ups than Zachary. 
+2) If David did 76 push-ups, then we can say that Zachary did -697 + 76 = -621 push-ups. 
+3) So, David and Zachary did 76 + (-621) = -545 push-ups altogether.",David and Zachary did a total of 773 push-ups.,David did 697 more push-ups than Zachary in gym class today. If David did 76 push-ups How many push-ups did Zachary and David do altogether?,"['697', '76']",( ( 76 + 76 ) - 697 ),-545
+24,"There are 4 boys and 28 girls in the school. 
+
+10 more girls joined the school. 
+
+Now there are 38 girls in the school. 
+
+There are still 4 boys in the school. 
+
+There are 34 more girls than boys in the school.",There are 32 girls and 4 boys in the school. There are 28 more girls than boys in the school.,In a school there are 4 boys and 28 girls. 10 more girls joined the school. How many more girls than boys does the school have?,"['4', '28', '10']",( ( 28 + 10 ) - 4 ),34
+25,"There are 3 sets of tables and each set has 2 chairs. 
+That means that there are 3 times 2 chairs, or 6 chairs in total. 
+There are also 4 chairs extra. 
+That means that in total, they have 6 + 4 chairs, or 10 chairs for the guests.",They have 18 chairs for the guests.,They decided to hold the party in their backyard. They have 3 sets of tables and each set has 2 chairs. There are also 4 chairs extra. How many chairs do they have for the guests?,"['3', '2', '4']",( ( 3 * 2 ) + 4 ),10
+26,"1. On the first day, they harvest 703 sacks and discard 732. 
+2. On the second day, they harvest 703 more sacks and discard 732 more. 
+3. On the third day, they harvest 703 more sacks and discard 732 more. 
+
+This continues until they've completed 692 days of harvest. 
+
+At the end of 692 days, they will have harvested 692 * 703 = 486,876 sacks of oranges, and discarded 692 * 732 = 492,224 sacks of oranges.","After 692 days of harvest, they will have a total of 4,416 sacks of oranges.",He then went to see the oranges being harvested. He found out that they harvest 703 sacks per day and discard 732 of them. How many sacks of oranges will they have after 692 days of harvest?,"['703', '732', '692']",( ( 703 - 732 ) * 692 ),-20068
+27,"Carol wants to invite 4 friends to her birthday party. 
+Each package of invitations has 105 invitations in it. 
+
+So we need to find out how many invitations are in 4 packages. We can do this by multiplying 105 and 4. 
+
+105 x 4 = 420 
+
+So Carol needs to buy 4 packages of invitations so that no friend gets left out.", Carol would need to buy 5 packages of invitations so that no friend gets left out.,Carol was sending out birthday invitations to 4 friends. If each package of invitations she bought had 105 invitations in it How many packs does she need so that no friend gets left out?,"['4', '105']",( 4 / 105 ),0.0380952380952381
+28,"Danny found 96 bottle caps and 12 wrappers at the park. 
+That means he had a total of 108 pieces. 
+Now he has 12 wrappers and 52 bottle caps in his collection. 
+That means he has a total of 64 pieces. 
+He is missing 44 pieces from his collection. 
+Since we know that 12 of those pieces are wrappers, that means that he is missing 32 bottle caps. 
+That also means that he now has 12 more wrappers than bottle caps.", Danny has 4 more wrappers than bottle caps.,Danny collects bottle caps and wrappers. He found 96 bottle caps and 12 wrappers at the park. Now he has 12 wrappers and 52 bottle caps in his collection. How many more wrappers than bottle caps does danny have now?,"['96', '12', '12', '52']",( 12 - 52 ),-40
+29,"1) Rachel had to complete 5 pages of math homework. 
+2) Rachel had to complete 9 pages of reading homework. 
+3) Rachel had to complete 62 more pages of biology homework. 
+
+This means that Rachel had to complete a total of 5 + 9 + 62 = 76 pages of homework.","Rachel had to complete 5 pages of math homework, 9 pages of reading homework, and 62 pages of biology homework. She had to complete a total of 67 pages of math and biology homework.","Rachel had to complete 5 pages of math homework, 9 pages of reading homework and 62 more pages of biology homework. How many pages of math and biology homework did she have to complete?","['5', '9', '62']",( 5 + 62 ),67
+30,"The first chapter is 15 pages long. 
+The second chapter is 3 pages long. 
+The third chapter is 1 page long. 
+
+The second chapter has 2 more pages than the third chapter.",The second chapter has 2 more pages than the third chapter.,A book has 3 chapters. The first chapter is <1>5 pages long the second chapter is 3 pages long and the third chapter is <1> pages long. How many more pages does the second chapter have than the third chapter?,"['3', '15', '3', '6']",( 3 - 3 ),0
+31,"Ed had 6 more marbles than Doug. 
+
+That means that if we start with Doug's number of marbles, then add 6, we'll get Ed's number of marbles. 
+
+Doug lost 10 of his marbles at the playground. 
+
+That means that if we start with Doug's number of marbles, then subtract 10, we'll get Doug's current number of marbles. 
+
+Ed had 4 marbles. 
+
+That means that if we start with Ed's number of marbles, then subtract 4, we'll get Ed's current number of marbles. 
+
+Now let's put it all together. If we start with Doug's number of marbles, then subtract 10, we'll get Doug's current number of marbles. And if we start with Doug's number of marbles, then add 6, we'll get Ed's number of marbles. So if we take Doug's current number of marbles and add 6, we'll get Ed's current number of marbles. And we know that Ed's current number of marbles is 4. So Doug's current number of marbles is 4 - 6, or -2.",Doug has 4 marbles now.,Ed had 6 more marbles than Doug. Doug lost 10 of his marbles at the playground. If Ed had 4 marbles How many marbles does Doug have now?,"['6', '10', '4']",( ( 4 - 6 ) - 10 ),-12
+32,"1. How many cakes did the baker sell? 
+The baker sold 15 cakes. 
+
+2. How many cakes did the baker make? 
+The baker made 682 cakes. 
+
+3. How many more cakes did the baker make than those he sold? 
+The baker made 682 cakes and sold 15 cakes, so the baker made 667 more cakes than those he sold.",Baker made 667 more cakes than those he sold.,Baker sold 15 cakes. If he had made 682 cakes initially How many more cakes did baker make than those he sold?,"['15', '682']",( 682 - 15 ),667
+33,"1. We know that Adam could fit 11 action figures on each shelf in his room. 
+2. We know that his room could hold 180 action figures. 
+3. We want to know how many shelves his room has. 
+
+To solve this problem, we need to divide 180 by 11. 
+
+180 / 11 = 16.36 
+
+We can round this number to the nearest whole number, which would be 16. 
+
+Therefore, Adam's room has 16 shelves.",There are 16 shelves in total.,Adam could fit 11 action figures on each shelf in his room. His room has could hold 180 action figures. How many total shelves did his room have?,"['11', '180']",( 180 * 11 ),1980
+34,"The grasshopper jumped 28 inches. 
+The frog jumped 6 inches. 
+The mouse jumped 234 inches. 
+
+The grasshopper jumped 22 inches farther than the frog. 
+The mouse jumped 170 inches lesser than the frog. 
+
+The grasshopper jumped 192 inches farther than the mouse.",The grasshopper jumped 50 inches farther than the mouse.,"The grasshopper, the frog and the mouse had a jumping contest. The grasshopper jumped 28 inches. The grasshopper jumped 22 inches farther than the frog and the mouse jumped 170 inches lesser than the frog. How much farther did the grasshopper jump than the mouse?","['28', '22', '170']",( 22 + 170 ),192
+35,"Olivia had 5 dollars in her wallet. 
+She collected 25 more dollars from an ATM. 
+That means she had a total of 30 dollars. 
+If she spent 761 dollars at the supermarket, that means she had 731 dollars left. 
+That means she spent 731 - 30 = 701 dollars at the supermarket.",Olivia spent 18 dollars more at the supermarket than she collected at the atm.,There were 5 dollars in Olivia's wallet. She collected 25 more dollars from an atm. After she visited a supermarket there were 761 dollars left. How much more money did she spend at the supermarket than she collected at the atm?,"['5', '25', '761']",( 5 - 761 ),-756
+36,"1. Mary is baking a cake. The recipe calls for 58 cups of sugar and 82 cups of flour.
+2. She already put in 450 cups of flour and 49 cups of sugar.
+3. How many more cups of sugar does she need to add?
+
+To solve this problem, we need to find out how many cups of sugar are in the recipe. We can do this by subtracting the amount of sugar Mary has already put in from the amount of sugar the recipe calls for. 
+
+58 cups of sugar - 49 cups of sugar = 9 cups of sugar
+
+This means that Mary needs to add 9 more cups of sugar to the cake.",Mary needs to add 9 more cups of sugar to the cake.,Mary is baking a cake. The recipe calls for 58 cups of sugar and 82 cups of flour. She already put in 450 cups of flour and 49 cups of sugar. How many more cups of sugar does she need to add?,"['58', '82', '450', '49']",( 58 - 49 ),9
+37,"There are 4 t-shirts. 
+Each t-shirt costs $33. 
+
+This means that the cost of each t-shirt is $8.25.",The cost of each t-shirt is $8.25.,During the Arkansas and Texas tech game the Razorback t-shirt shop made $ 33 by selling 4 t-shirts. What is the cost of each t-shirt?,"['33', '4']",( 33 / 4 ),8.25
+38,"The grasshopper jumped 246 inches farther than the frog. 
+This means that the frog jumped 246 inches less than the grasshopper. 
+The mouse jumped 458 inches less than the frog. 
+This means that the mouse jumped 458 + 246 = 704 inches less than the grasshopper. 
+
+Therefore, the mouse jumped 10 - 704 = -694 inches.",The mouse jumped 196 inches.,"The grasshopper, the frog and the mouse had a jumping contest. The grasshopper jumped 10 inches. The grasshopper jumped 246 inches farther than the frog and the mouse jumped 458 inches lesser than the frog. How far did the mouse jump?","['10', '246', '458']",( ( 10 - 246 ) - 458 ),-694
+39,"There were some children riding on the bus. 
+At the bus stop, 14 more children got on the bus. 
+That means there were a total of 14 + some children on the bus. 
+We know that there were 4 children altogether on the bus, so we can set up the equation: 
+
+14 + some = 4 
+
+We can solve this equation to find out how many children were riding on the bus before the bus stop. 
+
+some = 4 - 14 
+some = -10 
+
+That means there were 10 children riding on the bus before the bus stop.",There were 10 children riding on the bus before the bus stop.,Some children were riding on the bus. At the bus stop 14 more children got on the bus. Then there were 4 children altogether on the bus. How many children were riding on the bus before the bus stop?,"['14', '4']",( 4 - 14 ),-10
+40,"Zachary did 356 push-ups and 66 crunches in gym class today. 
+
+David did 3 more push-ups than Zachary, so David did 359 push-ups. 
+
+David did 2 less crunches than Zachary, so David did 64 crunches. 
+
+Zachary did 66 crunches and 356 push-ups. 
+
+Zachary did 2 more crunches than push-ups.", Zachary did 2 more crunches than push-ups.,Zachary did 356 push-ups and 66 crunches in gym class today. David did 3 more push-ups but 2 less crunches than zachary. How many more crunches than push-ups did Zachary do?,"['356', '66', '3', '2']",( 66 - 356 ),-290
+41,"1. Rebecca wants to split a collection of marbles into groups of 49. 
+2. Rebecca has 19 eggs and 50 marbles. 
+3. How many groups will be created?
+
+There are a few different ways to solve this problem, but one way would be to think about it like this: 
+
+1. Rebecca wants to split a collection of marbles into groups of 49. 
+2. Rebecca has 19 eggs and 50 marbles. 
+3. She can put 49 marbles into each group, and she will have 1 marble left over. 
+4. She can put that one marble into one of the groups, which will then have 50 marbles in it. 
+5. She will have 19 groups of 49 marbles, and 1 group of 50 marbles.",There will be two groups created.,Rebecca wants to split a collection of marbles into groups of 49. Rebecca has 19 eggs and 50 marbles. How many groups will be created?,"['49', '19', '50']",( 50 / 49 ),1.0204081632653061
+42,"1. Melissa scored a total of 3 points. 
+2. She scored 30 points in each game. 
+3. How many games did she play? 
+
+From 1 and 2, we can infer that Melissa played 3 games.","No, she did not score 30 points in each game. She played a total of 3 games.",Melissa scored a total of 3 points playing some games. Is she scored 30 points in each game. How many games did she play?,"['3', '30']",( 3 / 30 ),0.1
+43,"There are 15 baskets of peaches. 
+Each basket has 36 red peaches and 8 green peaches. 
+How many red peaches are in the baskets altogether?
+
+There are 15 baskets of peaches. 
+Each basket has 36 red peaches and 8 green peaches. 
+How many red peaches are in the baskets altogether?
+
+There are 15 baskets of peaches. 
+Each basket has 36 red peaches and 8 green peaches. 
+How many red peaches are in the baskets altogether?
+
+There are 15 baskets of peaches. 
+Each basket has 36 red peaches and 8 green peaches. 
+How many red peaches are in the baskets altogether?
+
+There are 15 baskets of peaches. 
+Each basket has 36 red peaches and 8 green peaches. 
+How many red peaches are in the baskets altogether?
+
+There are 15 baskets of peaches. 
+Each basket has 36 red peaches and 8 green peaches. 
+How many red peaches are in the baskets altogether?
+
+There are 15 baskets of peaches. 
+Each basket has 36 red peaches and 8 green peaches. 
+How",There are 540 red peaches in the baskets altogether.,There are 15 baskets of peaches. Each basket has 36 red peaches and 8 green peaches. How many red peaches are in the baskets altogether?,"['15', '36', '8']",( 36 * 15 ),540
+44,"Fred had 9 dollars last week. 
+He earned 5 dollars from delivering newspapers. 
+He earned 13 dollars from washing cars. 
+
+So, he earned 18 dollars over the weekend.",Fred earned 18 dollars over the weekend.,Last week Fred had 9 dollars and Jason had 4 dollars. Over the weekend Fred delivered newspapers earning 5 dollars and washed cars earning 13 dollars. How much money did Fred earn over the weekend?,"['9', '4', '5', '13']",( 5 + 13 ),18
+45,"2 feet wide means that her room is 2 feet wide for every 1 foot long. 
+
+309 feet long means that her room is 309 feet long for every 1 foot wide. 
+
+To compare the two, we need to find a common unit. In this case, let's use inches. 
+
+2 feet = 24 inches 
+309 feet = 3696 inches 
+
+24 inches is the width of her room for every 3696 inches long. 
+
+To find how many times wider her room is than it is long, we can divide 24 by 3696. 
+
+24/3696 = 1/154 
+
+This means that for every 1 inch wide, her room is 154 inches long. 
+
+To find how many more inches her room is long than it is wide, we can multiply 1/154 by 3696. 
+
+1/154 * 3696 = 24 
+
+Her room is 24 inches longer than it is wide.", 307 feet,Jesse's room is 2 feet wide and 309 feet long. How much longer is her room than it is wide?,"['2', '309']",( 309 - 2 ),307
+46,"1) The Razorback t-shirt shop makes $6 dollars off each t-shirt sold. 
+2) During the Arkansas and Texas tech game they made $10 by selling t-shirts. 
+3) How many t-shirts did they sell?
+
+To solve this problem, we need to figure out how many t-shirts were sold at $6 each. We can do this by dividing the total amount of money made ($10) by the amount of money made per t-shirt ($6). 
+
+This gives us 10/6, or 1.67 t-shirts.",The Razorback t-shirt shop sold 160 t-shirts during the Arkansas and Texas tech game.,The Razorback t-shirt shop makes $ 6 dollars off each t-shirt sold. During the Arkansas and Texas tech game they made $ <1>0 by selling t-shirts. How many t-shirts did they sell?,"['6', '5']",( 5 / 6 ),0.8333333333333334
+47,"Faye is placing her pencils into 16 rows with 5 pencils in each row. 
+
+That means that she has a total of 80 pencils.",Faye has 80 pencils.,Faye was placing her pencils into 16 rows with 5 pencils in each row. How many pencils does she have?,"['16', '5']",( 16 * 5 ),80
+48,"1. We are given that Paige had 87 goldfish in the pond initially. 
+2. We are told that the stray cats loved eating goldfish in the pond. 
+3. We are given that 12 goldfish are left. 
+
+We want to know how many goldfish disappeared. 
+
+We can solve this problem by using algebra. We can set up the equation: 
+
+x + 12 = 87
+
+x = 75
+
+So, 75 goldfish disappeared.","There were originally 87 goldfish in the pond, and 12 goldfish were left after the stray cats ate some. This means that 75 goldfish disappeared.",Stray cats loved eating goldfish in the pond leaving 12 goldfish. Paige had raised 87 goldfish in the pond initially. How many goldfish disappeared?,"['12', '87']",( 87 - 12 ),75
+49,"The recipe calls for 35 cups of sugar and some more cups of flour.
+
+She already put in 7 cups of flour.
+
+If she still needs to add 4 more cups of flour, that means she needs 4 more cups of flour in addition to the 7 cups of flour she's already put in. 
+
+So, the recipe requires 11 cups of flour.",The recipe requires 11 cups of flour.,Mary is baking a cake. The recipe calls for 35 cups of sugar and some more cups of flour. She already put in 7 cups of flour. If she still needs to add 4 more cups of flour How many cups of flour did the recipe require?,"['35', '7', '4']",( 7 + 4 ),11
