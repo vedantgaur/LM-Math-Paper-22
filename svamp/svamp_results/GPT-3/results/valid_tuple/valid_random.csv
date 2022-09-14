@@ -1,0 +1,101 @@
+,Index,Problem,Expression,Values,Answer
+0,437,Jack received 35 emails and sent 24 letters in the morning. He then received 2 emails and sent 6 letters in the afternoon. How many emails did Jack receive in the day?,( 35 + 12 ),"[35, 24, 12, 6]",47
+1,437,Jack received 38 emails and sent 11 letters in the morning. He then received 2 emails and sent 40 letters in the afternoon. How many emails did Jack receive in the day?,( 38 + 38 ),"[38, 11, 38, 40]",76
+2,437,Jack received 20 emails and sent 20 letters in the morning. He then received 2 emails and sent 38 letters in the afternoon. How many emails did Jack receive in the day?,( 20 + 15 ),"[20, 20, 15, 38]",35
+3,437,Jack received 4 emails and sent 13 letters in the morning. He then received 2 emails and sent 17 letters in the afternoon. How many emails did Jack receive in the day?,( 4 + 49 ),"[4, 13, 49, 17]",53
+4,437,Jack received 34 emails and sent 8 letters in the morning. He then received 2 emails and sent 26 letters in the afternoon. How many emails did Jack receive in the day?,( 34 + 15 ),"[34, 8, 15, 26]",49
+5,331,Danny has 9 bottle caps in his collection. He found some more bottle caps at the park. If he has 36 bottle caps now How many bottle caps did he find at the park?,( 36 - 9 ),"[9, 36]",27
+6,331,Danny has 2 bottle caps in his collection. He found some more bottle caps at the park. If he has 35 bottle caps now How many bottle caps did he find at the park?,( 35 - 2 ),"[2, 35]",33
+7,331,Danny has 13 bottle caps in his collection. He found some more bottle caps at the park. If he has 35 bottle caps now How many bottle caps did he find at the park?,( 35 - 13 ),"[13, 35]",22
+8,331,Danny has 8 bottle caps in his collection. He found some more bottle caps at the park. If he has 34 bottle caps now How many bottle caps did he find at the park?,( 34 - 8 ),"[8, 34]",26
+9,331,Danny has 8 bottle caps in his collection. He found some more bottle caps at the park. If he has 12 bottle caps now How many bottle caps did he find at the park?,( 12 - 8 ),"[8, 12]",4
+10,640,Dan has $ 16. He bought some candy bar for $ 4 each one costing $ 4. How many candy bar did he buy?,( 4 / 4 ),"[16, 4, 4]",1.0
+11,640,Dan has $ 46. He bought some candy bar for $ 24 each one costing $ 1. How many candy bar did he buy?,( 24 / 1 ),"[46, 24, 1]",24.0
+12,640,Dan has $ 47. He bought some candy bar for $ 40 each one costing $ 8. How many candy bar did he buy?,( 40 / 8 ),"[47, 40, 8]",5.0
+13,640,Dan has $ 33. He bought some candy bar for $ 32 each one costing $ 1. How many candy bar did he buy?,( 32 / 1 ),"[33, 32, 1]",32.0
+14,640,Dan has $ 46. He bought some candy bar for $ 34 each one costing $ 17. How many candy bar did he buy?,( 34 / 17 ),"[46, 34, 17]",2.0
+15,258,Marco and his dad went strawberry picking. His strawberries weighed 19 pounds while his dad's strawberries weighed 47 pounds. Together how much did their strawberries weigh?,( 19 + 47 ),"[19, 47]",66
+16,258,Marco and his dad went strawberry picking. His strawberries weighed 50 pounds while his dad's strawberries weighed 44 pounds. Together how much did their strawberries weigh?,( 50 + 44 ),"[50, 44]",94
+17,258,Marco and his dad went strawberry picking. His strawberries weighed 35 pounds while his dad's strawberries weighed 1 pounds. Together how much did their strawberries weigh?,( 35 + 1 ),"[35, 1]",36
+18,258,Marco and his dad went strawberry picking. His strawberries weighed 37 pounds while his dad's strawberries weighed 6 pounds. Together how much did their strawberries weigh?,( 37 + 6 ),"[37, 6]",43
+19,258,Marco and his dad went strawberry picking. His strawberries weighed 19 pounds while his dad's strawberries weighed 28 pounds. Together how much did their strawberries weigh?,( 19 + 28 ),"[19, 28]",47
+20,210,Baker made 16 cakes. He sold 28 of them and bought 4 new cakes. How many more cakes did baker sell than those he bought?,( 28 - 4 ),"[16, 28, 4]",24
+21,210,Baker made 38 cakes. He sold 40 of them and bought 26 new cakes. How many more cakes did baker sell than those he bought?,( 40 - 26 ),"[38, 40, 26]",14
+22,210,Baker made 45 cakes. He sold 47 of them and bought 12 new cakes. How many more cakes did baker sell than those he bought?,( 47 - 12 ),"[45, 47, 12]",35
+23,210,Baker made 50 cakes. He sold 39 of them and bought 18 new cakes. How many more cakes did baker sell than those he bought?,( 39 - 18 ),"[50, 39, 18]",21
+24,210,Baker made 21 cakes. He sold 25 of them and bought 14 new cakes. How many more cakes did baker sell than those he bought?,( 25 - 14 ),"[21, 25, 14]",11
+25,713,Randy has 47 blocks. He uses some blocks to build a tower. If there are 36 blocks left How many blocks did he use to build the tower?,( 47 - 36 ),"[47, 36]",11
+26,713,Randy has 44 blocks. He uses some blocks to build a tower. If there are 38 blocks left How many blocks did he use to build the tower?,( 44 - 38 ),"[44, 38]",6
+27,713,Randy has 40 blocks. He uses some blocks to build a tower. If there are 16 blocks left How many blocks did he use to build the tower?,( 40 - 16 ),"[40, 16]",24
+28,713,Randy has 40 blocks. He uses some blocks to build a tower. If there are 30 blocks left How many blocks did he use to build the tower?,( 40 - 30 ),"[40, 30]",10
+29,713,Randy has 32 blocks. He uses some blocks to build a tower. If there are 9 blocks left How many blocks did he use to build the tower?,( 32 - 9 ),"[32, 9]",23
+30,228,Helen the hippo and her friends are preparing for thanksgiving at Helen's house. Helen baked 36 cookies yesterday 4 cookies this morning and 35 cookies the day before yesterday. How many cookies did Helen bake till last night?,( 36 + 35 ),"[36, 4, 35]",71
+31,228,Helen the hippo and her friends are preparing for thanksgiving at Helen's house. Helen baked 38 cookies yesterday 8 cookies this morning and 41 cookies the day before yesterday. How many cookies did Helen bake till last night?,( 38 + 41 ),"[38, 8, 41]",79
+32,228,Helen the hippo and her friends are preparing for thanksgiving at Helen's house. Helen baked 25 cookies yesterday 21 cookies this morning and 50 cookies the day before yesterday. How many cookies did Helen bake till last night?,( 25 + 50 ),"[25, 21, 50]",75
+33,228,Helen the hippo and her friends are preparing for thanksgiving at Helen's house. Helen baked 14 cookies yesterday 45 cookies this morning and 28 cookies the day before yesterday. How many cookies did Helen bake till last night?,( 14 + 28 ),"[14, 45, 28]",42
+34,228,Helen the hippo and her friends are preparing for thanksgiving at Helen's house. Helen baked 27 cookies yesterday 13 cookies this morning and 23 cookies the day before yesterday. How many cookies did Helen bake till last night?,( 27 + 23 ),"[27, 13, 23]",50
+35,24,Jerry had 36 action figures on a shelf in his room. Later he added 42 more action figures to the shelf and removed some of the old ones. If there are 24 action figures on his shelf now How many action figures did he remove from the shelf?,( ( 36 + 42 ) - 24 ),"[36, 42, 24]",54
+36,24,Jerry had 45 action figures on a shelf in his room. Later he added 7 more action figures to the shelf and removed some of the old ones. If there are 34 action figures on his shelf now How many action figures did he remove from the shelf?,( ( 45 + 7 ) - 34 ),"[45, 7, 34]",18
+37,24,Jerry had 45 action figures on a shelf in his room. Later he added 42 more action figures to the shelf and removed some of the old ones. If there are 32 action figures on his shelf now How many action figures did he remove from the shelf?,( ( 45 + 42 ) - 32 ),"[45, 42, 32]",55
+38,24,Jerry had 39 action figures on a shelf in his room. Later he added 8 more action figures to the shelf and removed some of the old ones. If there are 14 action figures on his shelf now How many action figures did he remove from the shelf?,( ( 39 + 8 ) - 14 ),"[39, 8, 14]",33
+39,24,Jerry had 11 action figures on a shelf in his room. Later he added 42 more action figures to the shelf and removed some of the old ones. If there are 23 action figures on his shelf now How many action figures did he remove from the shelf?,( ( 11 + 42 ) - 23 ),"[11, 42, 23]",30
+40,467,A book has 24 chapters. The second chapter is 12 pages long. If there are a total of 44 pages in the book How many pages are in the first chapter?,( 44 - 12 ),"[24, 12, 44]",32
+41,467,A book has 17 chapters. The second chapter is 13 pages long. If there are a total of 28 pages in the book How many pages are in the first chapter?,( 28 - 13 ),"[17, 13, 28]",15
+42,467,A book has 33 chapters. The second chapter is 18 pages long. If there are a total of 35 pages in the book How many pages are in the first chapter?,( 35 - 18 ),"[33, 18, 35]",17
+43,467,A book has 14 chapters. The second chapter is 11 pages long. If there are a total of 23 pages in the book How many pages are in the first chapter?,( 23 - 11 ),"[14, 11, 23]",12
+44,467,A book has 49 chapters. The second chapter is 32 pages long. If there are a total of 35 pages in the book How many pages are in the first chapter?,( 35 - 32 ),"[49, 32, 35]",3
+45,273,The ring toss game at the carnival made 22 dollars in the first 44 days and 45 dollars in the remaining 9 days. How much did they make per day in the remaining 9 days at the carnival?,( 45 / 9 ),"[22, 44, 45, 9, 49]",5.0
+46,273,The ring toss game at the carnival made 19 dollars in the first 3 days and 36 dollars in the remaining 4 days. How much did they make per day in the remaining 4 days at the carnival?,( 36 / 4 ),"[19, 3, 36, 4, 30]",9.0
+47,273,The ring toss game at the carnival made 47 dollars in the first 36 days and 18 dollars in the remaining 18 days. How much did they make per day in the remaining 18 days at the carnival?,( 18 / 18 ),"[47, 36, 18, 18, 46]",1.0
+48,273,The ring toss game at the carnival made 12 dollars in the first 13 days and 12 dollars in the remaining 12 days. How much did they make per day in the remaining 12 days at the carnival?,( 12 / 12 ),"[12, 13, 12, 12, 39]",1.0
+49,273,The ring toss game at the carnival made 25 dollars in the first 39 days and 44 dollars in the remaining 11 days. How much did they make per day in the remaining 11 days at the carnival?,( 44 / 11 ),"[25, 39, 44, 11, 39]",4.0
+50,372,For Gwen's birthday she received 29 dollars from her mom. Her dad gave her 1 more dollars. If she spent 23 dollars. How much money did she still have?,( ( 29 + 1 ) - 23 ),"[29, 1, 23]",7
+51,372,For Gwen's birthday she received 46 dollars from her mom. Her dad gave her 23 more dollars. If she spent 4 dollars. How much money did she still have?,( ( 46 + 23 ) - 4 ),"[46, 23, 4]",65
+52,372,For Gwen's birthday she received 47 dollars from her mom. Her dad gave her 32 more dollars. If she spent 33 dollars. How much money did she still have?,( ( 47 + 32 ) - 33 ),"[47, 32, 33]",46
+53,372,For Gwen's birthday she received 39 dollars from her mom. Her dad gave her 41 more dollars. If she spent 38 dollars. How much money did she still have?,( ( 39 + 41 ) - 38 ),"[39, 41, 38]",42
+54,372,For Gwen's birthday she received 17 dollars from her mom. Her dad gave her 43 more dollars. If she spent 13 dollars. How much money did she still have?,( ( 17 + 43 ) - 13 ),"[17, 43, 13]",47
+55,924,There are many different books in the ' crazy silly school ' series. If you have read 2 of the books and are yet to read 14 books How many books are there in the ' crazy silly school ' series?,( 2 + 14 ),"[2, 14]",16
+56,924,There are many different books in the ' crazy silly school ' series. If you have read 41 of the books and are yet to read 18 books How many books are there in the ' crazy silly school ' series?,( 41 + 18 ),"[41, 18]",59
+57,924,There are many different books in the ' crazy silly school ' series. If you have read 47 of the books and are yet to read 26 books How many books are there in the ' crazy silly school ' series?,( 47 + 26 ),"[47, 26]",73
+58,924,There are many different books in the ' crazy silly school ' series. If you have read 25 of the books and are yet to read 15 books How many books are there in the ' crazy silly school ' series?,( 25 + 15 ),"[25, 15]",40
+59,924,There are many different books in the ' crazy silly school ' series. If you have read 34 of the books and are yet to read 19 books How many books are there in the ' crazy silly school ' series?,( 34 + 19 ),"[34, 19]",53
+60,271,Paige was helping her mom plant flowers and together they planted 18 seeds in 3 flowerbeds. If they put same number of seeds in each flower bed How many seeds did they plant in each flowerbed?,( 18 / 3 ),"[18, 3]",6.0
+61,271,Paige was helping her mom plant flowers and together they planted 47 seeds in 1 flowerbeds. If they put same number of seeds in each flower bed How many seeds did they plant in each flowerbed?,( 47 / 1 ),"[47, 1]",47.0
+62,271,Paige was helping her mom plant flowers and together they planted 15 seeds in 3 flowerbeds. If they put same number of seeds in each flower bed How many seeds did they plant in each flowerbed?,( 15 / 3 ),"[15, 3]",5.0
+63,271,Paige was helping her mom plant flowers and together they planted 50 seeds in 1 flowerbeds. If they put same number of seeds in each flower bed How many seeds did they plant in each flowerbed?,( 50 / 1 ),"[50, 1]",50.0
+64,271,Paige was helping her mom plant flowers and together they planted 17 seeds in 1 flowerbeds. If they put same number of seeds in each flower bed How many seeds did they plant in each flowerbed?,( 17 / 1 ),"[17, 1]",17.0
+65,114,Faye was placing her pencils into rows with 7 pencils in each row. She had 28 packs of pencils each one having 45 pencils. How many pencils does she have?,( 28 * 45 ),"[7, 28, 45]",1260
+66,114,Faye was placing her pencils into rows with 7 pencils in each row. She had 17 packs of pencils each one having 42 pencils. How many pencils does she have?,( 17 * 42 ),"[7, 17, 42]",714
+67,114,Faye was placing her pencils into rows with 27 pencils in each row. She had 30 packs of pencils each one having 6 pencils. How many pencils does she have?,( 30 * 6 ),"[27, 30, 6]",180
+68,114,Faye was placing her pencils into rows with 34 pencils in each row. She had 13 packs of pencils each one having 12 pencils. How many pencils does she have?,( 13 * 12 ),"[34, 13, 12]",156
+69,114,Faye was placing her pencils into rows with 20 pencils in each row. She had 41 packs of pencils each one having 27 pencils. How many pencils does she have?,( 41 * 27 ),"[20, 41, 27]",1107
+70,557,Baker made 13 cakes. He sold some of them. If he still has 3 cakes left How many cakes did baker sell?,( 13 - 3 ),"[13, 3]",10
+71,557,Baker made 41 cakes. He sold some of them. If he still has 38 cakes left How many cakes did baker sell?,( 41 - 38 ),"[41, 38]",3
+72,557,Baker made 43 cakes. He sold some of them. If he still has 37 cakes left How many cakes did baker sell?,( 43 - 37 ),"[43, 37]",6
+73,557,Baker made 46 cakes. He sold some of them. If he still has 14 cakes left How many cakes did baker sell?,( 46 - 14 ),"[46, 14]",32
+74,557,Baker made 43 cakes. He sold some of them. If he still has 3 cakes left How many cakes did baker sell?,( 43 - 3 ),"[43, 3]",40
+75,242,Randy has some blocks. He uses 16 blocks to build a tower. If there are 6 blocks left How many blocks did he have at the start?,( 16 + 6 ),"[16, 6]",22
+76,242,Randy has some blocks. He uses 4 blocks to build a tower. If there are 35 blocks left How many blocks did he have at the start?,( 4 + 35 ),"[4, 35]",39
+77,242,Randy has some blocks. He uses 23 blocks to build a tower. If there are 32 blocks left How many blocks did he have at the start?,( 23 + 32 ),"[23, 32]",55
+78,242,Randy has some blocks. He uses 29 blocks to build a tower. If there are 50 blocks left How many blocks did he have at the start?,( 29 + 50 ),"[29, 50]",79
+79,242,Randy has some blocks. He uses 31 blocks to build a tower. If there are 1 blocks left How many blocks did he have at the start?,( 31 + 1 ),"[31, 1]",32
+80,489,After Olivia visited a supermarket there were 2 dollars left. If there were 49 dollars in her wallet initially How much did she spend?,( 49 - 2 ),"[2, 49]",47
+81,489,After Olivia visited a supermarket there were 18 dollars left. If there were 28 dollars in her wallet initially How much did she spend?,( 28 - 18 ),"[18, 28]",10
+82,489,After Olivia visited a supermarket there were 35 dollars left. If there were 46 dollars in her wallet initially How much did she spend?,( 46 - 35 ),"[35, 46]",11
+83,489,After Olivia visited a supermarket there were 29 dollars left. If there were 42 dollars in her wallet initially How much did she spend?,( 42 - 29 ),"[29, 42]",13
+84,489,After Olivia visited a supermarket there were 3 dollars left. If there were 19 dollars in her wallet initially How much did she spend?,( 19 - 3 ),"[3, 19]",16
+85,681,Danny collects bottle caps and wrappers. He found 24 bottle caps and 37 wrappers at the park. Now he has 40 wrappers and 23 bottle caps in his collection. How many more wrappers than bottle caps does danny have now?,( 40 - 23 ),"[24, 37, 40, 23]",17
+86,681,Danny collects bottle caps and wrappers. He found 38 bottle caps and 34 wrappers at the park. Now he has 23 wrappers and 22 bottle caps in his collection. How many more wrappers than bottle caps does danny have now?,( 23 - 22 ),"[38, 34, 23, 22]",1
+87,681,Danny collects bottle caps and wrappers. He found 45 bottle caps and 38 wrappers at the park. Now he has 49 wrappers and 12 bottle caps in his collection. How many more wrappers than bottle caps does danny have now?,( 49 - 12 ),"[45, 38, 49, 12]",37
+88,681,Danny collects bottle caps and wrappers. He found 43 bottle caps and 37 wrappers at the park. Now he has 26 wrappers and 10 bottle caps in his collection. How many more wrappers than bottle caps does danny have now?,( 26 - 10 ),"[43, 37, 26, 10]",16
+89,681,Danny collects bottle caps and wrappers. He found 32 bottle caps and 49 wrappers at the park. Now he has 35 wrappers and 20 bottle caps in his collection. How many more wrappers than bottle caps does danny have now?,( 35 - 20 ),"[32, 49, 35, 20]",15
+90,924,There are many different books in the ' crazy silly school ' series. If you have read 43 of the books and are yet to read 27 books How many books are there in the ' crazy silly school ' series?,( 43 + 27 ),"[43, 27]",70
+91,924,There are many different books in the ' crazy silly school ' series. If you have read 37 of the books and are yet to read 3 books How many books are there in the ' crazy silly school ' series?,( 37 + 3 ),"[37, 3]",40
+92,924,There are many different books in the ' crazy silly school ' series. If you have read 17 of the books and are yet to read 15 books How many books are there in the ' crazy silly school ' series?,( 17 + 15 ),"[17, 15]",32
+93,924,There are many different books in the ' crazy silly school ' series. If you have read 45 of the books and are yet to read 40 books How many books are there in the ' crazy silly school ' series?,( 45 + 40 ),"[45, 40]",85
+94,924,There are many different books in the ' crazy silly school ' series. If you have read 5 of the books and are yet to read 26 books How many books are there in the ' crazy silly school ' series?,( 5 + 26 ),"[5, 26]",31
+95,51,You have read 20 books from the ' crazy silly school ' series. If there are a total of 30 different books in the ' crazy silly school ' series How many more do you still have to read?,( 30 - 20 ),"[20, 30]",10
+96,51,You have read 3 books from the ' crazy silly school ' series. If there are a total of 39 different books in the ' crazy silly school ' series How many more do you still have to read?,( 39 - 3 ),"[3, 39]",36
+97,51,You have read 21 books from the ' crazy silly school ' series. If there are a total of 29 different books in the ' crazy silly school ' series How many more do you still have to read?,( 29 - 21 ),"[21, 29]",8
+98,51,You have read 22 books from the ' crazy silly school ' series. If there are a total of 42 different books in the ' crazy silly school ' series How many more do you still have to read?,( 42 - 22 ),"[22, 42]",20
+99,51,You have read 28 books from the ' crazy silly school ' series. If there are a total of 45 different books in the ' crazy silly school ' series How many more do you still have to read?,( 45 - 28 ),"[28, 45]",17

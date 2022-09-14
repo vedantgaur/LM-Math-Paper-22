@@ -1,0 +1,187 @@
+,With Steps,Without Steps,Extracted Steps,Extracted Without Steps,True Expression,Correct Steps,Correct Without Steps
+0,". 
+
+The cost of each pack of DVDs is w dollars. 
+
+The discount on each pack of DVDs is x dollars. 
+
+So, the cost of each pack of DVDs after the discount is w - x dollars.",". 
+
+The cost of each pack of DVDs is w dollars. 
+
+The discount on each pack of DVDs is x dollars. 
+
+So, the cost of each pack of DVDs after the discount is w - x dollars.",(w - x) ,(w - x) ,,0,0
+1,": 
+
+Dan had $w left with him after he bought a candy bar. 
+
+This means that he had some amount of money before he bought the candy bar, we'll call this $x. 
+
+We also know that after he bought the candy bar, he had $w left. 
+
+This means that the cost of the candy bar was $x - $w.",": 
+
+Dan had $w left with him after he bought a candy bar. 
+
+This means that he had some amount of money before he bought the candy bar, we'll call this $x. 
+
+We also know that after he bought the candy bar, he had $w left. 
+
+This means that the cost of the candy bar was $x - $w.",x - w,x - w,,0,0
+2,". 
+
+Paco had w salty cookies and x sweet cookies. He ate y sweet cookies and z salty cookies. 
+
+That means that the number of sweet cookies he had left is x-y, and the number of salty cookies he had left is w-z.",". 
+
+Paco had w salty cookies and x sweet cookies. He ate y sweet cookies and z salty cookies. 
+
+That means that the number of sweet cookies he had left is x-y and the number of salty cookies he had left is w-z.",(x-y) + (w-z),(x-y) + (w-z),,0,0
+3,,,,,,,
+4,,,,,,,
+5,,,,,,,
+6,,,,,,,
+7,,,,,,,
+8,,,,,,,
+9,,,,,,,
+10,,,,,,,
+11,,,,,,,
+12,,,,,,,
+13,,,,,,,
+14,,,,,,,
+15,,,,,,,
+16,,,,,,,
+17,,,,,,,
+18,,,,,,,
+19,,,,,,,
+20,,,,,,,
+21,,,,,,,
+22,,,,,,,
+23,,,,,,,
+24,,,,,,,
+25,,,,,,,
+26,,,,,,,
+27,,,,,,,
+28,,,,,,,
+29,,,,,,,
+30,,,,,,,
+31,,,,,,,
+32,,,,,,,
+33,,,,,,,
+34,,,,,,,
+35,,,,,,,
+36,,,,,,,
+37,,,,,,,
+38,,,,,,,
+39,,,,,,,
+40,,,,,,,
+41,,,,,,,
+42,,,,,,,
+43,,,,,,,
+44,,,,,,,
+45,,,,,,,
+46,,,,,,,
+47,,,,,,,
+48,,,,,,,
+49,,,,,,,
+50,,,,,,,
+51,,,,,,,
+52,,,,,,,
+53,,,,,,,
+54,,,,,,,
+55,,,,,,,
+56,,,,,,,
+57,,,,,,,
+58,,,,,,,
+59,,,,,,,
+60,,,,,,,
+61,,,,,,,
+62,,,,,,,
+63,,,,,,,
+64,,,,,,,
+65,,,,,,,
+66,,,,,,,
+67,,,,,,,
+68,,,,,,,
+69,,,,,,,
+70,,,,,,,
+71,,,,,,,
+72,,,,,,,
+73,,,,,,,
+74,,,,,,,
+75,,,,,,,
+76,,,,,,,
+77,,,,,,,
+78,,,,,,,
+79,,,,,,,
+80,,,,,,,
+81,,,,,,,
+82,,,,,,,
+83,,,,,,,
+84,,,,,,,
+85,,,,,,,
+86,,,,,,,
+87,,,,,,,
+88,,,,,,,
+89,,,,,,,
+90,,,,,,,
+91,,,,,,,
+92,,,,,,,
+93,,,,,,,
+94,,,,,,,
+95,,,,,,,
+96,,,,,,,
+97,,,,,,,
+98,,,,,,,
+99,,,,,,,
+100,,,,,,,
+101,,,,,,,
+102,,,,,,,
+103,,,,,,,
+104,,,,,,,
+105,,,,,,,
+106,,,,,,,
+107,,,,,,,
+108,,,,,,,
+109,,,,,,,
+110,,,,,,,
+111,,,,,,,
+112,,,,,,,
+113,,,,,,,
+114,,,,,,,
+115,,,,,,,
+116,,,,,,,
+117,,,,,,,
+118,,,,,,,
+119,,,,,,,
+120,,,,,,,
+121,,,,,,,
+122,,,,,,,
+123,,,,,,,
+124,,,,,,,
+125,,,,,,,
+126,,,,,,,
+127,,,,,,,
+128,,,,,,,
+129,,,,,,,
+130,,,,,,,
+131,,,,,,,
+132,,,,,,,
+133,,,,,,,
+134,,,,,,,
+135,,,,,,,
+136,,,,,,,
+137,,,,,,,
+138,,,,,,,
+139,,,,,,,
+140,,,,,,,
+141,,,,,,,
+142,,,,,,,
+143,,,,,,,
+144,,,,,,,
+145,,,,,,,
+146,,,,,,,
+147,,,,,,,
+148,,,,,,,
+149,,,,,,,
